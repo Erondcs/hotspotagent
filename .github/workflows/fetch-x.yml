@@ -1,0 +1,25 @@
+name: fetch-x
+on:
+  schedule:
+    - cron: "40 0 * * *"
+  workflow_dispatch: {}
+  push:
+    paths: ["x_accounts.md", "fetch_x_action.py"]
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: fetch tweets
+        env:
+          SOCIALDATA_KEY: ${{ secrets.SOCIALDATA_KEY }}
+        run: python3 fetch_x_action.py
+      - name: commit result
+        run: |
+          git config user.name "sentinel-bot"
+          git config user.email "sentinel-bot@users.noreply.github.com"
+          git add x_tweets.json
+          git commit -m "x tweets update" || echo "no changes"
+          git push
