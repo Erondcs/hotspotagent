@@ -14,7 +14,7 @@
 | Stripe | @stripe | 官方,已核 |
 | Stripe 创始人 | @patrickc, @collision | Patrick 与 John Collison |
 | Bridge 创始人 | @zachabrams | 待核(防同名) |
-| Kast | @kast | 官方 |
+| Kast | @KAST_official | 官方,已核(旧号 KASTcard 弃用) |
 | RedotPay | @RedotPay | 官方,已核 |
 | Gnosis Pay | @gnosispay | 官方,已核 |
 | Ether.fi | @ether_fi | 官方,已核 |
