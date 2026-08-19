@@ -4,7 +4,7 @@ on:
     - cron: "40 0 * * *"
   workflow_dispatch: {}
   push:
-    paths: ["x_accounts.md", "fetch_x_action.py"]
+    paths: ["x_accounts.md", "fetch_x_action.py", "fetch_feeds_action.py", "sentinel/feeds.md"]
 jobs:
   fetch:
     runs-on: ubuntu-latest
@@ -16,10 +16,12 @@ jobs:
         env:
           SOCIALDATA_KEY: ${{ secrets.SOCIALDATA_KEY }}
         run: python3 fetch_x_action.py
+      - name: fetch feeds
+        run: python3 fetch_feeds_action.py || echo "feeds fetch had errors"
       - name: commit result
         run: |
           git config user.name "sentinel-bot"
           git config user.email "sentinel-bot@users.noreply.github.com"
-          git add x_tweets.json
-          git commit -m "x tweets update" || echo "no changes"
+          git add x_tweets.json feeds_items.json
+          git commit -m "data update" || echo "no changes"
           git push
