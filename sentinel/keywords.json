@@ -1,0 +1,37 @@
+{
+  "comment": "filter.py 的预筛关键词。companies 匹配区分大小写+词边界(短名防误伤);topics 不区分大小写。命中任一即通过预筛,最终取舍由 LLM 按 rules.md 判断。",
+  "companies": [
+    "Rain", "Reap", "Immersve", "Bridge", "Kulipa", "Baanx", "Monavate", "W3C Corp",
+    "Striga", "Codego", "Zero Hash", "Zerohash", "Marqeta",
+    "RedotPay", "Infini", "Kast", "Ether.fi", "EtherFi", "Gnosis Pay", "Holyheld",
+    "Bleap", "Oobit", "Plutus", "COCA", "1inch", "MetaMask", "Ledger",
+    "Bitget", "SafePal", "Trust Wallet", "Solayer", "Avalanche Card", "Nexo",
+    "Wirex", "Uphold", "Kraken", "Payward", "Krak",
+    "Coinbase", "Binance", "Bybit", "OKX", "Crypto.com", "Gemini",
+    "Visa", "Mastercard", "Circle", "Tether", "Paxos", "PYUSD", "BVNK",
+    "Conduit", "Fireblocks", "Stripe",
+    "Revolut", "Nubank", "Fiat24", "ZA Bank", "Standard Chartered", "Airwallex", "Nium",
+    "DCS", "DeCard",
+    "PayPal", "Adyen", "Checkout.com", "Klarna", "Wise", "Block", "Square",
+    "Fiserv", "Ingenico", "Worldpay", "dLocal", "Thunes", "Ebanx", "Chime",
+    "Lithic", "Highnote", "Paymentology", "Thredd", "Episode Six", "Galileo",
+    "i2c", "Pismo", "Unit", "Synctera", "Sezzle", "Curve", "Monzo", "N26", "Starling"
+  ],
+  "companies_need_context": {
+    "comment": "这些短/常见词单独命中不算,须同时命中任一 context 词(不区分大小写)",
+    "names": ["Rain", "Bridge", "Reap", "Ready", "UR", "Infini", "Kast", "COCA", "Conduit", "Circle", "Ledger", "Krak"],
+    "context": ["card", "stablecoin", "crypto", "payment", "issuing", "wallet", "USDC", "USDT", "fintech", "visa", "mastercard"]
+  },
+  "topics": [
+    "stablecoin card", "crypto card", "crypto debit", "crypto credit card",
+    "card issuing", "stablecoin payment", "stablecoin settlement",
+    "stablecoin issuer", "GENIUS Act", "payment stablecoin",
+    "digital bank card", "web3 wallet card", "principal member", "BIN sponsor",
+    "stablecoin rule", "stablecoin regulation", "stablecoin license", "stablecoin act",
+    "sell stablecoins", "stablecoin charter", "stablecoin bank",
+    "stablecoin", "payment", "payments", "wallet", "fintech", "card", "issuing", "issuer",
+    "neobank", "digital bank", "remittance", "cross-border", "card-as-a-service", "CaaS",
+    "acquiring", "merchant services", "BNPL", "bank charter", "e-money", "EMI licence",
+    "EMI license", "money transmitter", "payment processor", "PSP", "interchange"
+  ]
+}
