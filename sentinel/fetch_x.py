@@ -10,8 +10,8 @@ from pathlib import Path
 from datetime import datetime, timezone
 
 BASE = Path(__file__).parent
-# 仓库 Erondcs/hotspotagent 为 private,raw 读不到;经 GitHub Pages 公开 /docs 目录中转
-URL = "https://erondcs.github.io/hotspotagent/x_tweets.json"
+# 仓库已转 public,直接读 raw 根目录的 x_tweets.json(由 GitHub Action 每天 00:40 UTC 更新)
+URL = "https://raw.githubusercontent.com/Erondcs/hotspotagent/main/x_tweets.json"
 MAX_AGE_HOURS = 20   # 超过则视为过期数据,拒收
 
 def cmd_pull():
