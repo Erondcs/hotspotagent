@@ -8,7 +8,7 @@
 
 | 公司 | 账号(待验证) | 备注 |
 |------|--------------|------|
-| Rain | @rain | 官方;另找 CEO Farooq Malik 个人号 |
+| Rain | @raincards | 官方;另找 CEO Farooq Malik 个人号 |
 | Kulipa | @kulipa_xyz | 官方;CEO Axel Cateland |
 | Immersve | @immersve | 官方 |
 | Bridge/Stripe | @stripe, @bridgexyz | Bridge 创始人 Zach Abrams 个人号也值得盯 |
