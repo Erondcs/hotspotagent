@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-08-19T03:31:03.206743+00:00",
+ "fetched_at": "2026-08-19T03:36:21.116824+00:00",
  "count": 106,
  "errors": [],
  "tweets": [
@@ -7,7 +7,7 @@
    "title": "[X @raincards] The Agentic Payments Alliance is live.\n\n26 founding members across payments, stablecoins, and AI, working together to shape how agent-driven commerce gets built.\n\nNo single company should decide how agents transact on your behalf. https://t.co/0OpyVIAMIZ",
    "url": "https://x.com/raincards/status/2089698837107491286",
    "pubDate": "2026-08-18T13:00:02.000000Z",
-   "source": "X/@raincards (tier A, ♥420)"
+   "source": "X/@raincards (tier A, ♥421)"
   },
   {
    "title": "[X @stripe] Amazon Bedrock AgentCore payments now supports @mpp, giving agents a new way to transact with stablecoins. Powered by @privy_io wallet infrastructure.",
@@ -19,13 +19,13 @@
    "title": "[X @stripe] Kraken is launching Krak Cards in the US, powered by Stripe Issuing. Spend crypto anywhere Visa is accepted.",
    "url": "https://x.com/stripe/status/2089809196615073961",
    "pubDate": "2026-08-18T20:18:33.000000Z",
-   "source": "X/@stripe (tier A, ♥143)"
+   "source": "X/@stripe (tier A, ♥144)"
   },
   {
    "title": "[X @stripe] New currency capabilities to help cut FX costs:\n\n• Convert instantly between 15 currencies 24/7 and see rates in real-time. \n• By the end of 2026, businesses in 37 markets—including Australia, Hong Kong, and Singapore—will be able to settle payments in up to 18 currencies. \n\nAvai",
    "url": "https://x.com/stripe/status/2089621838812856598",
    "pubDate": "2026-08-18T07:54:04.000000Z",
-   "source": "X/@stripe (tier A, ♥104)"
+   "source": "X/@stripe (tier A, ♥105)"
   },
   {
    "title": "[X @collision] AI has radically changed billing, with products now demanding high-volume usage-based billing. For the third consecutive year, Stripe Billing (inclusive of Metronome) is a Leader in Gartner's Magic Quadrant for Recurring Billing. Stripe Billing is used by @AnthropicAI, @cursor_ai",
@@ -97,13 +97,13 @@
    "title": "[X @circle] OSL is bringing compliant USDC liquidity to Asia.\n\nBy integrating USDC into StableHub, @osldotcom gives eligible clients USDC access, exchange, custody, and settlement.\n\nWithin about four months of launch, StableHub reached more than $100 million in USDC deposits.\n\nhttps://t.co/5",
    "url": "https://x.com/circle/status/2089880024174514566",
    "pubDate": "2026-08-19T01:00:00.000000Z",
-   "source": "X/@circle (tier B, ♥64)"
+   "source": "X/@circle (tier B, ♥66)"
   },
   {
    "title": "[X @circle] Before wrapped BTC becomes collateral, inventory, or treasury infrastructure, institutions need to underwrite the wrapper.\n\nThat means asking:\n→ Is it 1:1 backed by native BTC?\n→ Who custodies the BTC?\n→ Can reserves be verified onchain?\n→ How does redemption work?\n→ Is the issue",
    "url": "https://x.com/circle/status/2089834735191400575",
    "pubDate": "2026-08-18T22:00:02.000000Z",
-   "source": "X/@circle (tier B, ♥112)"
+   "source": "X/@circle (tier B, ♥114)"
   },
   {
    "title": "[X @circle] Circle is headed to Latam Digital Assets Conf in Buenos Aires on August 20–21.\n\nLATAM continues to be one of the fastest-growing regions for stablecoin adoption, with growing demand for digital dollar payments, cross-border settlement, and onchain finance.\n\nJoin our team on stage",
@@ -115,7 +115,7 @@
    "title": "[X @circle] Local currency, global dollar.\n\nCircle Mint now supports direct local currency on/offramps in 8 currencies, helping eligible businesses move more directly between local banking rails and USDC.\n\nAlongside USD and EUR, supported currencies now include BRL, GBP, HKD, MXN, CNH, and S",
    "url": "https://x.com/circle/status/2089744947641737538",
    "pubDate": "2026-08-18T16:03:15.000000Z",
-   "source": "X/@circle (tier B, ♥188)"
+   "source": "X/@circle (tier B, ♥190)"
   },
   {
    "title": "[X @circle] REMINDER: Join @jerallaire for an earnings AMA tomorrow, August 19, at 9 AM ET!\n\nJoin via X or YouTube and submit your questions in advance in the comments.\n\nhttps://t.co/F0g6aPzvXu",
@@ -163,43 +163,43 @@
    "title": "[X @moonpay] you can buy XRP with Cash App Pay now https://t.co/lc2CyYH1Xn",
    "url": "https://x.com/moonpay/status/2089901248367489254",
    "pubDate": "2026-08-19T02:24:20.000000Z",
-   "source": "X/@moonpay (tier B, ♥253)"
+   "source": "X/@moonpay (tier B, ♥266)"
   },
   {
    "title": "[X @moonpay] Sanza’s Arcanine has a nice ring to it… \n\nmight want to look at your collection https://t.co/0YkyCS5oOj",
    "url": "https://x.com/moonpay/status/2089893916665401596",
    "pubDate": "2026-08-19T01:55:12.000000Z",
-   "source": "X/@moonpay (tier B, ♥98)"
+   "source": "X/@moonpay (tier B, ♥100)"
   },
   {
    "title": "[X @moonpay] today was fun @CashApp 💜",
    "url": "https://x.com/moonpay/status/2089875232437707029",
    "pubDate": "2026-08-19T00:40:58.000000Z",
-   "source": "X/@moonpay (tier B, ♥184)"
+   "source": "X/@moonpay (tier B, ♥185)"
   },
   {
    "title": "[X @moonpay] dear @friskk \n\nwe heard you like Gengar \n\njust funded a fresh @Collector_Crypt account using PayBox and bought this Pokemon card for you \n\nit’s a 1999 PSA 8 Fossil Gengar \n\nwith love, \n\nMoonPay https://t.co/Niw2ETmhpB",
    "url": "https://x.com/moonpay/status/2089851776354627940",
    "pubDate": "2026-08-18T23:07:45.000000Z",
-   "source": "X/@moonpay (tier B, ♥352)"
+   "source": "X/@moonpay (tier B, ♥353)"
   },
   {
    "title": "[X @moonpay] we could do the funniest thing right now...",
    "url": "https://x.com/moonpay/status/2089849609925378198",
    "pubDate": "2026-08-18T22:59:09.000000Z",
-   "source": "X/@moonpay (tier B, ♥229)"
+   "source": "X/@moonpay (tier B, ♥231)"
   },
   {
    "title": "[X @moonpay] just testing Cash App Pay on MoonPay\n\ndon’t mind us! https://t.co/cpsNRDQJBD",
    "url": "https://x.com/moonpay/status/2089815247880176020",
    "pubDate": "2026-08-18T20:42:36.000000Z",
-   "source": "X/@moonpay (tier B, ♥432)"
+   "source": "X/@moonpay (tier B, ♥433)"
   },
   {
    "title": "[X @moonpay] thank you to @Cointelegraph and @hyoseopyun for covering today's MoonPay + Cash App Pay news! \n\nsupport crypto journalism and read the article here: https://t.co/0nqGwBOUnw https://t.co/RFm12W48Fr",
    "url": "https://x.com/moonpay/status/2089799813063672200",
    "pubDate": "2026-08-18T19:41:16.000000Z",
-   "source": "X/@moonpay (tier B, ♥145)"
+   "source": "X/@moonpay (tier B, ♥146)"
   },
   {
    "title": "[X @moonpay] thank you to @CoinDesk and @JamieCrawleyCD for covering today's big news about MoonPay and Cash App Pay! \n\nsupport crypto journalism and read the story here: https://t.co/9ccS6mXqkW https://t.co/2uVfdbhUkK",
@@ -217,13 +217,13 @@
    "title": "[X @moonpay] we are the first people on Earth to purchase solana:9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump using Cash App Pay https://t.co/LERsOjBNVM",
    "url": "https://x.com/moonpay/status/2089784951583482051",
    "pubDate": "2026-08-18T18:42:13.000000Z",
-   "source": "X/@moonpay (tier B, ♥427)"
+   "source": "X/@moonpay (tier B, ♥430)"
   },
   {
    "title": "[X @moonpay] welcome to the first class of @PayBox Content Creators! \n\n💜 @EveyNFT \n💜 @itsEmi \n💜 @mrtippinson\n💜 @zubic_eth\n💜 @prxfecy0x \n💜 @enshielada \n💜 @doodlifts \n💜 @baagus_zip \n💜 @AiFlippa \n💜 @0xValure \n💜 @timiondegen \n💜 @gotto_ \n💜 @inno_sol \n💜 @matchayuma \n💜 @marinonchain \n💜 @FabianoSolan",
    "url": "https://x.com/moonpay/status/2089764641853321606",
    "pubDate": "2026-08-18T17:21:31.000000Z",
-   "source": "X/@moonpay (tier B, ♥956)"
+   "source": "X/@moonpay (tier B, ♥960)"
   },
   {
    "title": "[X @moonpay] name a token and we’ll try buying it with Cash App Pay https://t.co/xhAH64cF8C",
@@ -235,7 +235,7 @@
    "title": "[X @moonpay] Cash App Pay is now available on MoonPay!\n\neligible US customers can use their @CashApp balance to buy digital assets on MoonPay\n\nlive today in the United States https://t.co/xf6SO0SjrL",
    "url": "https://x.com/moonpay/status/2089698690034287097",
    "pubDate": "2026-08-18T12:59:27.000000Z",
-   "source": "X/@moonpay (tier B, ♥721)"
+   "source": "X/@moonpay (tier B, ♥723)"
   },
   {
    "title": "[X @moonpay] gm!",
@@ -247,13 +247,13 @@
    "title": "[X @PayPal] Traveling to China? Bring PayPal.\n\nU.S. PayPal users can now use the PayPal app to make in-store QR code payments at Weixin Pay merchants across China through PayPal World — no new apps needed.\n\nLearn more: https://t.co/Mqg4erHhbq https://t.co/XinU45Kzay",
    "url": "https://x.com/PayPal/status/2089793526439559451",
    "pubDate": "2026-08-18T19:16:17.000000Z",
-   "source": "X/@PayPal (tier B, ♥212)"
+   "source": "X/@PayPal (tier B, ♥216)"
   },
   {
    "title": "[X @CashApp] Then: my phone bill is how much??? \n\nNow: my phone bill is only that much???\n\nCash App Mobile is $40/mo, taxes and fees included. unlimited 5G on AT&T's network. no long-term contracts, hidden fees, or credit checks required. \n\nget started: https://t.co/ActGXruGaW",
    "url": "https://x.com/CashApp/status/2089793295258169800",
    "pubDate": "2026-08-18T19:15:22.000000Z",
-   "source": "X/@CashApp (tier B, ♥141)"
+   "source": "X/@CashApp (tier B, ♥142)"
   },
   {
    "title": "[X @airwallex] We asked @Forrester Consulting to survey 1,279 finance leaders on how they're using and scaling AI in finance.\n\nHere's our CFO @PranavkSood on what the data shows.\n\n→ https://t.co/ponpIWlT70 https://t.co/QB1iGdVqiz",
@@ -265,7 +265,7 @@
    "title": "[X @NiumGlobal] Last week in Kuala Lumpur, we sat down with the banking leaders building what's next. Real-time rails, stablecoins as settlement, compliance at scale across borders.\n\nThank you to @swiftcommunity, @circle , @TheCleanverse, and senior executives from the region's most forward-thin",
    "url": "https://x.com/NiumGlobal/status/2089760971107786944",
    "pubDate": "2026-08-18T17:06:56.000000Z",
-   "source": "X/@NiumGlobal (tier B, ♥1)"
+   "source": "X/@NiumGlobal (tier B, ♥0)"
   },
   {
    "title": "[X @HashKeyGroup] 🎉 HashDay 828 | HashKey August Celebration Luncheon\n \nJoin us in Hong Kong for HashDay 828, bringing together institutional leaders, business partners and ecosystem collaborators for an afternoon of celebration, keynote discussions and networking.\n \n📍 Hong Kong\n 🔗 By invitation o",
@@ -283,7 +283,7 @@
    "title": "[X @MetaMask] A Chinese animated film made about $1,000 at the box office in its first 9 days.\n\n236 people saw it.\n\nThen the internet found it, and now 牛来 (Niu Lai) is now one of the most talked-about memecoins on BNB Chain. 🧵 https://t.co/gWHMNSDhqU",
    "url": "https://x.com/MetaMask/status/2089811234795516160",
    "pubDate": "2026-08-18T20:26:39.000000Z",
-   "source": "X/@MetaMask (tier B, ♥197)"
+   "source": "X/@MetaMask (tier B, ♥201)"
   },
   {
    "title": "[X @MetaMask] One tap is all it takes to fund your MetaMask Money Account.\n\nStart earning up to 6% APY the moment your funds land. https://t.co/Spbwt01cQN",
@@ -295,13 +295,13 @@
    "title": "[X @Ledger] Your Secret Recovery Phrase is 24 words. But there's a 25th word most people never use — and it can unlock a whole separate wallet on the same device. It's called a passphrase.\n\nHere's how it works.🧵 https://t.co/WYZDZOiYd8",
    "url": "https://x.com/Ledger/status/2089796883292270719",
    "pubDate": "2026-08-18T19:29:38.000000Z",
-   "source": "X/@Ledger (tier B, ♥266)"
+   "source": "X/@Ledger (tier B, ♥269)"
   },
   {
    "title": "[X @Ledger] Security works best when multiple layers reinforce each other.\n\nOpen source is one of those layers. Secure hardware, audits, certifications and active security research are others. 🧵 https://t.co/cfQXgZ0MQ1",
    "url": "https://x.com/Ledger/status/2089763380026564746",
    "pubDate": "2026-08-18T17:16:30.000000Z",
-   "source": "X/@Ledger (tier B, ♥78)"
+   "source": "X/@Ledger (tier B, ♥79)"
   },
   {
    "title": "[X @Ledger] Security isn't something you finish. It's something you keep improving.\n\nEvery year, we aim to make self-custody safer and easier at the same time. It's less about a single guarantee and more about an industry that should never stop raising its own bar.\n\nThe vision that started w",
@@ -409,7 +409,7 @@
    "title": "[X @coinbase] Going on a trip?\n\nYour agent can now search 2.2M+ properties, book your hotel, and pay onchain.\n\nYou set the spending limit. It handles everything else.\n(Packing not included.)",
    "url": "https://x.com/coinbase/status/2089799658675536013",
    "pubDate": "2026-08-18T19:40:39.000000Z",
-   "source": "X/@coinbase (tier C, ♥249)"
+   "source": "X/@coinbase (tier C, ♥250)"
   },
   {
    "title": "[X @coinbase] The Coinbase One card doesn’t care what time you eat a cheeseburger.\n\nIt just gives you up to 4% back in Bitcoin either way.",
@@ -421,7 +421,7 @@
    "title": "[X @coinbase] Plumbers vs trenchers gave us an idea.\n\n\"Old\" vs \"new\" traders in a live in-person trading competition.\n\nWe'll put up the funds, host the event, and stream it.\n\nBack your talk. Who should we invite?",
    "url": "https://x.com/coinbase/status/2089694627313971660",
    "pubDate": "2026-08-18T12:43:18.000000Z",
-   "source": "X/@coinbase (tier C, ♥1136)"
+   "source": "X/@coinbase (tier C, ♥1137)"
   },
   {
    "title": "[X @Bybit_Official] What’s the most expensive financial lesson you learned for free?",
@@ -433,7 +433,7 @@
    "title": "[X @Bybit_Official] 💬 Why do YOU trade TradFi on Bybit?\n\nShare your TradFi Perps experience and win!\n\nHow to join:\n✅ Follow @BybitArabic &amp; @Bybit_Official\n✅ Post your testimonial &amp; tag @BybitArabic \n✅ Use #TradFiOnBybit https://t.co/3Lbah8XfHD",
    "url": "https://x.com/Bybit_Official/status/2089774333782884558",
    "pubDate": "2026-08-18T18:00:01.000000Z",
-   "source": "X/@Bybit_Official (tier C, ♥245)"
+   "source": "X/@Bybit_Official (tier C, ♥248)"
   },
   {
    "title": "[X @Bybit_Official] Bullish or bearish? Choose your direction. 📈📉\n\nDiscover Bybit TradFi, link in the first reply 👇 https://t.co/8aVS2BgLUH",
@@ -451,13 +451,13 @@
    "title": "[X @Bybit_Official] Apply now and start posting where it counts. https://t.co/EnZmo7bXj4",
    "url": "https://x.com/Bybit_Official/status/2089653532760674425",
    "pubDate": "2026-08-18T10:00:00.000000Z",
-   "source": "X/@Bybit_Official (tier C, ♥209)"
+   "source": "X/@Bybit_Official (tier C, ♥210)"
   },
   {
    "title": "[X @Bybit_Official] ⚡ 3 DAYS LEFT\n\nTrade Moonshot AI Perps. Climb the leaderboard. Compete for $100K.\n\nToken Buzz is Bybit's new trading comp where the prize pool grows with every trade. https://t.co/RZAvS7IWGQ",
    "url": "https://x.com/Bybit_Official/status/2089562937920823339",
    "pubDate": "2026-08-18T04:00:01.000000Z",
-   "source": "X/@Bybit_Official (tier C, ♥206)"
+   "source": "X/@Bybit_Official (tier C, ♥207)"
   },
   {
    "title": "[X @Bybit_Official] Your trading personality?",
@@ -469,13 +469,13 @@
    "title": "[X @okx] Fed minutes ahead. Position before the market moves, no matter your time zone.\n\n50+ tokenized US stocks &amp; ETFs. TradFi Perps for hedging. Trading bots for automation.\n\nNow live in eligible regions on The New Money App. https://t.co/zCkslux0hS",
    "url": "https://x.com/okx/status/2089872542018289664",
    "pubDate": "2026-08-19T00:30:16.000000Z",
-   "source": "X/@okx (tier C, ♥71)"
+   "source": "X/@okx (tier C, ♥73)"
   },
   {
    "title": "[X @okx] Crypto attacks are changing. So are our defenses.\n\nOKX protects beyond code, across devices, sites, signatures and transactions to help catch risk before funds move.\n\nLearn more in our H1 report ⤵️",
    "url": "https://x.com/okx/status/2089842526190448934",
    "pubDate": "2026-08-18T22:31:00.000000Z",
-   "source": "X/@okx (tier C, ♥86)"
+   "source": "X/@okx (tier C, ♥87)"
   },
   {
    "title": "[X @okx] Europe, watch this space 👀\n\n@Crypto_birb, @AltCryptoGems, and @CryptoMichNL join our Europe CEO @EraldOnChain live to talk about what EU traders are asking for and what we’re dropping next.\n\n7PM CEST tomorrow. https://t.co/bcjQMf3Agz",
@@ -493,7 +493,7 @@
    "title": "[X @okx] We're looking at YOU 🫡 https://t.co/QzSXyY3j0P",
    "url": "https://x.com/okx/status/2089736855952507144",
    "pubDate": "2026-08-18T15:31:06.000000Z",
-   "source": "X/@okx (tier C, ♥211)"
+   "source": "X/@okx (tier C, ♥210)"
   },
   {
    "title": "[X @okx] Looks like you've got a lot on your mind. https://t.co/4v4zPw66ke",
@@ -523,7 +523,7 @@
    "title": "[X @cryptocom] Timing the market takes luck. \n\nBuilding long-term conviction takes consistency.\n\nSet up Recurring Buys on the https://t.co/w0F6Ou0CM3 App to automate your DCA strategy and build your portfolio step-by-step. 📲 https://t.co/z7Cs1CsnkH",
    "url": "https://x.com/cryptocom/status/2089838499293753851",
    "pubDate": "2026-08-18T22:15:00.000000Z",
-   "source": "X/@cryptocom (tier C, ♥95)"
+   "source": "X/@cryptocom (tier C, ♥96)"
   },
   {
    "title": "[X @cryptocom] Final chance to win a VIP trip for 2 to #UFC331 at @cryptocomarena.\n\nTrade $100 in crypto for a shot at winning:\n\n🟦 Tickets for 2\n🟦 $2,000 in travel vouchers ($1,000 on flight, $1,000 on accomodation) \n🟦 Up to $1,000 in $BTC\n\n🗓️ Ends Aug 19. Details 👉 https://t.co/UyH65dQYpH http",
@@ -535,7 +535,7 @@
    "title": "[X @cryptocom] Everyone wants freedom. Few are funding it.",
    "url": "https://x.com/cryptocom/status/2089743510668722527",
    "pubDate": "2026-08-18T15:57:33.000000Z",
-   "source": "X/@cryptocom (tier C, ♥314)"
+   "source": "X/@cryptocom (tier C, ♥315)"
   },
   {
    "title": "[X @cryptocom] Regulated prediction markets, expanded. \n \nWe’ve partnered with @Trading_Tech to bring more prediction markets access to its users.\n\nLearn more here: https://t.co/wbzczC1nKV https://t.co/FI8FNsWCnw",
@@ -547,13 +547,13 @@
    "title": "[X @Gemini] Welcome aboard Illinois\n\nYou now have access to Gemini stocks https://t.co/jBgS0Kqp12",
    "url": "https://x.com/Gemini/status/2089787234803241368",
    "pubDate": "2026-08-18T18:51:17.000000Z",
-   "source": "X/@Gemini (tier C, ♥65)"
+   "source": "X/@Gemini (tier C, ♥66)"
   },
   {
    "title": "[X @Gemini] acKnowledge everything At leaSt once",
    "url": "https://x.com/Gemini/status/2089757234842542530",
    "pubDate": "2026-08-18T16:52:05.000000Z",
-   "source": "X/@Gemini (tier C, ♥887)"
+   "source": "X/@Gemini (tier C, ♥890)"
   },
   {
    "title": "[X @Gemini] 22",
@@ -565,7 +565,7 @@
    "title": "[X @Gemini] the next candle after i clicked sell https://t.co/nHs0URu4hX",
    "url": "https://x.com/Gemini/status/2089735823012806656",
    "pubDate": "2026-08-18T15:27:00.000000Z",
-   "source": "X/@Gemini (tier C, ♥409)"
+   "source": "X/@Gemini (tier C, ♥410)"
   },
   {
    "title": "[X @Gemini] gm\n\nwtw today",
@@ -577,13 +577,13 @@
    "title": "[X @BitgetWallet] Right now there are 2 bulls.\n\n🐮 牛来 on BSC\n🐂 ANSEM on SOL\n\nWhile 牛来 is taking the world by storm, Ansem's launchpad has done 130M trading volume in less than 10h since launch.\n\nAnsem Zone &amp; Chinese 101 lists has been added for the bullievers. Markets → Crypto https://t.co/EDns",
    "url": "https://x.com/BitgetWallet/status/2089684101527994665",
    "pubDate": "2026-08-18T12:01:28.000000Z",
-   "source": "X/@BitgetWallet (tier C, ♥87)"
+   "source": "X/@BitgetWallet (tier C, ♥88)"
   },
   {
    "title": "[X @BitgetWallet] when you bought the top https://t.co/VpReaoTj5L",
    "url": "https://x.com/BitgetWallet/status/2089669122636619887",
    "pubDate": "2026-08-18T11:01:57.000000Z",
-   "source": "X/@BitgetWallet (tier C, ♥143)"
+   "source": "X/@BitgetWallet (tier C, ♥146)"
   },
   {
    "title": "[X @BitgetWallet] You're failing users if they have to deal with increasing bps.\n\n$10,000 trades with just 2.9 bps on Bitget Wallet X.",
@@ -595,13 +595,13 @@
    "title": "[X @sytaylor] The next big thing in payments is not Agentic commerce \n\nIt's commerce for the AI stack.\n\nGetting paid \nBilling \nRouting \nInference",
    "url": "https://x.com/sytaylor/status/2089779434547281957",
    "pubDate": "2026-08-18T18:20:18.000000Z",
-   "source": "X/@sytaylor (tier C, ♥50)"
+   "source": "X/@sytaylor (tier C, ♥51)"
   },
   {
    "title": "[X @a16zcrypto] The data on what happened after GENIUS passed last year speaks for itself ↓\n\nNow comes the rulemaking.\n\nThis week’s Treasury proposal begins defining the bounds of the U.S. stablecoin market: who is issuing here, who can offer stablecoins to U.S. users, and when a license is requ",
    "url": "https://x.com/a16zcrypto/status/2089748432705773784",
    "pubDate": "2026-08-18T16:17:06.000000Z",
-   "source": "X/@a16zcrypto (tier C, ♥108)"
+   "source": "X/@a16zcrypto (tier C, ♥109)"
   },
   {
    "title": "[X @WuBlockchain] Cypherpunk Technologies Launches World’s Largest Zcash Mining Fleet With 18% of Network Hashrate\n\nNasdaq-listed Zcash treasury company Cypherpunk Technologies (CYPH) has launched ZEC mining operations through its subsidiary Cypherpunk Mining, deploying approximately 4.2 GSol/s of",
@@ -613,13 +613,13 @@
    "title": "[X @WuBlockchain] Arthur Hayes Comes Out of Retirement to Lead Flop Labs, FLOP Airdrop Planned for Q4 2026\n\nArthur Hayes said he is “coming out of retirement” to lead Flop Labs. Flop Network is designed for the AI agent economy, with its native token FLOP serving as a payment asset for AI agents t",
    "url": "https://x.com/WuBlockchain/status/2089726134657434098",
    "pubDate": "2026-08-18T14:48:30.000000Z",
-   "source": "X/@WuBlockchain (tier C, ♥68)"
+   "source": "X/@WuBlockchain (tier C, ♥69)"
   },
   {
    "title": "[X @WuBlockchain] Wall Street Banking Giant Citi to Launch Digital Asset Custody Later This Year, Starting With Bitcoin\n\nWall Street banking giant Citi announced the launch of Custody+, a new suite of near- and real-time custody solutions, and said it expects to go live with digital asset custody ",
    "url": "https://x.com/WuBlockchain/status/2089680566866333783",
    "pubDate": "2026-08-18T11:47:26.000000Z",
-   "source": "X/@WuBlockchain (tier C, ♥52)"
+   "source": "X/@WuBlockchain (tier C, ♥53)"
   },
   {
    "title": "[X @WuBlockchain] HTX Users Suspected of Sending Mass Small “Poisoning” Transfers to Exchange Addresses; Some Accounts Reportedly Frozen\n\nHTX said it is investigating reports that some addresses received small transfers appearing to originate from HTX. The exchange said an internal review found th",
