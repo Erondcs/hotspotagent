@@ -1,40 +1,193 @@
 {
- "fetched_at": "2026-08-18T10:59:08.532652+00:00",
- "count": 0,
- "errors": [
-  "@rain: HTTP Error 401: Unauthorized",
-  "@kulipa_xyz: HTTP Error 401: Unauthorized",
-  "@immersve: HTTP Error 401: Unauthorized",
-  "@stripe: HTTP Error 401: Unauthorized",
-  "@bridgexyz: HTTP Error 401: Unauthorized",
-  "@kast: HTTP Error 401: Unauthorized",
-  "@RedotPay: HTTP Error 401: Unauthorized",
-  "@gnosispay: HTTP Error 401: Unauthorized",
-  "@ether_fi: HTTP Error 401: Unauthorized",
-  "@0xinfini: HTTP Error 401: Unauthorized",
-  "@Reap_hq: HTTP Error 401: Unauthorized",
-  "@krakenfx: HTTP Error 401: Unauthorized",
-  "@holyheld: HTTP Error 401: Unauthorized",
-  "@bleapfinance: HTTP Error 401: Unauthorized",
-  "@wirexapp: HTTP Error 401: Unauthorized",
-  "@zerohashX: HTTP Error 401: Unauthorized",
-  "@Marqeta: HTTP Error 401: Unauthorized",
-  "@VisaNews: HTTP Error 401: Unauthorized",
-  "@MastercardNews: HTTP Error 401: Unauthorized",
-  "@circle: HTTP Error 401: Unauthorized",
-  "@jerallaire: HTTP Error 401: Unauthorized",
-  "@Tether_to: HTTP Error 401: Unauthorized",
-  "@paoloardoino: HTTP Error 401: Unauthorized",
-  "@Paxos: HTTP Error 401: Unauthorized",
-  "@bvnkpay: HTTP Error 401: Unauthorized",
-  "@FireblocksHQ: HTTP Error 401: Unauthorized",
-  "@PayPal: HTTP Error 401: Unauthorized",
-  "@sytaylor: HTTP Error 401: Unauthorized",
-  "@HadickM: HTTP Error 401: Unauthorized",
-  "@artemis__xyz: HTTP Error 401: Unauthorized",
-  "@nic__carter: HTTP Error 401: Unauthorized",
-  "@CampbellJAustin: HTTP Error 401: Unauthorized",
-  "@rgoldstein: HTTP Error 401: Unauthorized"
- ],
- "tweets": []
+ "fetched_at": "2026-08-19T02:05:43.971762+00:00",
+ "count": 31,
+ "errors": [],
+ "tweets": [
+  {
+   "title": "[X @rain] عند استقبال XLM أو أي أصل، تأكّد من الشبكة والعنوان قبل الإرسال، فاختيار خطأ قد يكلّف تحويلك",
+   "url": "https://x.com/rain/status/2089774905038376995",
+   "pubDate": "2026-08-18T18:02:18.000000Z",
+   "source": "X/@rain (tier A, ♥1)"
+  },
+  {
+   "title": "[X @rain] آلية متوسط التكلفة DCA:\n\nبمبلغ ثابت في كل مرة، تحصل على وحدات أكثر حين ينخفض السعر وأقل حين يرتفع، فيتوزّع متوسط سعر الشراء على الزمن\n\nلماذا يعتمده البعض؟ يستبدل قرار توقيت الدخول بجدول منتظم، ما يقلّل أثر الانفعال اللحظي في القرار https://t.co/pibjggnZG1",
+   "url": "https://x.com/rain/status/2089653531980845335",
+   "pubDate": "2026-08-18T10:00:00.000000Z",
+   "source": "X/@rain (tier A, ♥1)"
+  },
+  {
+   "title": "[X @rain] عملة تحت المجهر: ستيلر (XLM)\n\nشبكة صُمّمت لنقل القيمة والمدفوعات عبر الحدود بسرعة ورسوم منخفضة\n\nتهدف ستيلر إلى ربط المؤسسات المالية والأفراد لتسهيل تحويل الأموال والأصول بين العملات، ويُستخدم رمز XLM لتغطية رسوم الشبكة والحدّ من الرسائل غير المرغوبة\n\nالمخاطر تشمل التقلّب والمنافس",
+   "url": "https://x.com/rain/status/2089593714989568159",
+   "pubDate": "2026-08-18T06:02:19.000000Z",
+   "source": "X/@rain (tier A, ♥0)"
+  },
+  {
+   "title": "[X @stripe] Amazon Bedrock AgentCore payments now supports @mpp, giving agents a new way to transact with stablecoins. Powered by @privy_io wallet infrastructure.",
+   "url": "https://x.com/stripe/status/2089833293860458631",
+   "pubDate": "2026-08-18T21:54:19.000000Z",
+   "source": "X/@stripe (tier A, ♥55)"
+  },
+  {
+   "title": "[X @stripe] Kraken is launching Krak Cards in the US, powered by Stripe Issuing. Spend crypto anywhere Visa is accepted.",
+   "url": "https://x.com/stripe/status/2089809196615073961",
+   "pubDate": "2026-08-18T20:18:33.000000Z",
+   "source": "X/@stripe (tier A, ♥132)"
+  },
+  {
+   "title": "[X @stripe] New currency capabilities to help cut FX costs:\n\n• Convert instantly between 15 currencies 24/7 and see rates in real-time. \n• By the end of 2026, businesses in 37 markets—including Australia, Hong Kong, and Singapore—will be able to settle payments in up to 18 currencies. \n\nAvai",
+   "url": "https://x.com/stripe/status/2089621838812856598",
+   "pubDate": "2026-08-18T07:54:04.000000Z",
+   "source": "X/@stripe (tier A, ♥103)"
+  },
+  {
+   "title": "[X @RedotPay] Sometimes, it’s not about charts, wallets, or what the market is doing 📈\n\nIt’s about what you can actually do with your digital assets in everyday life 👈\n\nThat’s where RedotPay comes in. https://t.co/uGCCxg7UZA",
+   "url": "https://x.com/RedotPay/status/2089545797247631711",
+   "pubDate": "2026-08-18T02:51:54.000000Z",
+   "source": "X/@RedotPay (tier A, ♥50)"
+  },
+  {
+   "title": "[X @gnosispay] An agent can hold a stablecoin balance. It can't buy from a merchant that only takes cards.\n\nA self-custodial card fits: a smart account per identity, spending limits and roles on-chain, a delay window before funds move.\n\nThose are constraints the agent operates inside, enforced ",
+   "url": "https://x.com/gnosispay/status/2089623344694063199",
+   "pubDate": "2026-08-18T08:00:03.000000Z",
+   "source": "X/@gnosispay (tier A, ♥24)"
+  },
+  {
+   "title": "[X @ether_fi] Make your @Morpho collateral work harder with one click",
+   "url": "https://x.com/ether_fi/status/2089716134975357372",
+   "pubDate": "2026-08-18T14:08:46.000000Z",
+   "source": "X/@ether_fi (tier A, ♥110)"
+  },
+  {
+   "title": "[X @ether_fi] New features. Upgraded app and website.\n\nEtherFi Summer looking good out here. https://t.co/i8Yhv7a8LM",
+   "url": "https://x.com/ether_fi/status/2089668662118453547",
+   "pubDate": "2026-08-18T11:00:07.000000Z",
+   "source": "X/@ether_fi (tier A, ♥215)"
+  },
+  {
+   "title": "[X @0xinfini] Try Infini 🤝\nLeave banks in the old world.",
+   "url": "https://x.com/0xinfini/status/2089895808003084722",
+   "pubDate": "2026-08-19T02:02:43.000000Z",
+   "source": "X/@0xinfini (tier A, ♥0)"
+  },
+  {
+   "title": "[X @0xinfini] Catch Infini CEO @Christianeth live at 1:30 PM ET\n\nsee you there! 🫡",
+   "url": "https://x.com/0xinfini/status/2089751439916892334",
+   "pubDate": "2026-08-18T16:29:03.000000Z",
+   "source": "X/@0xinfini (tier A, ♥6)"
+  },
+  {
+   "title": "[X @0xinfini] 2% Cashback with no limits, Apple Pay&amp;Google Pay supported.   \nPlus 8% APY on Stablecoin, 4% APY on $BTC.",
+   "url": "https://x.com/0xinfini/status/2089719124352282632",
+   "pubDate": "2026-08-18T14:20:39.000000Z",
+   "source": "X/@0xinfini (tier A, ♥16)"
+  },
+  {
+   "title": "[X @krakenfx] Better questions lead to better investing decisions.\n\nDownload the free AI Investing Guide ⤵️",
+   "url": "https://x.com/krakenfx/status/2089808302590853300",
+   "pubDate": "2026-08-18T20:15:00.000000Z",
+   "source": "X/@krakenfx (tier A, ♥41)"
+  },
+  {
+   "title": "[X @krakenfx] You bring the skill.\n\nWe’ll bring the capital.\n\nYou keep 80% of the profits.\n\nHere’s how ⤵️ https://t.co/8uL24ZkBew",
+   "url": "https://x.com/krakenfx/status/2089760487814639736",
+   "pubDate": "2026-08-18T17:05:00.000000Z",
+   "source": "X/@krakenfx (tier A, ♥164)"
+  },
+  {
+   "title": "[X @krakenfx] Making moves this week? 👀\n\nEnroll in Kraken’s 15th Anniversary Sweepstakes before you trade.\n\nYou could be one of 15 people to win 15 ETH.\n\nEvery eligible $1 traded = 1 entry through Aug. 31\n\nEnroll now ⤵️\nhttps://t.co/beVhwN04Io https://t.co/NeMQLZJUhw",
+   "url": "https://x.com/krakenfx/status/2089721481781535065",
+   "pubDate": "2026-08-18T14:30:01.000000Z",
+   "source": "X/@krakenfx (tier A, ♥70)"
+  },
+  {
+   "title": "[X @krakenfx] 7,000+ US stocks are now available to EEA users in the Kraken app 🇪🇺\n\nInvest in stocks, tokenized equities, and crypto all in one platform.\n\nExplore stocks ⤵️\nhttps://t.co/0BVtXJ2tf1 https://t.co/ApYmHxNzOF",
+   "url": "https://x.com/krakenfx/status/2089635069082148918",
+   "pubDate": "2026-08-18T08:46:38.000000Z",
+   "source": "X/@krakenfx (tier A, ♥163)"
+  },
+  {
+   "title": "[X @wirexapp] When you tap a stablecoin card at a coffee shop, a lot more happens than “stablecoins get spent.”\n\nThe merchant still sees a normal card payment, and to the user, everything looks simple - tap, approval, done.\n\nBut behind that moment is an entire payments infrastructure working i",
+   "url": "https://x.com/wirexapp/status/2089683846052901313",
+   "pubDate": "2026-08-18T12:00:28.000000Z",
+   "source": "X/@wirexapp (tier A, ♥40)"
+  },
+  {
+   "title": "[X @zerohashX] This week, catch up with zerohash team members Adam Leaman, Mark Daly, Adam Tesan, Damien Ekechukwu, and Hong Sun at the @SALTConference  Wyoming Blockchain Symposium. https://t.co/cQkIJm7fD3",
+   "url": "https://x.com/zerohashX/status/2089767169852682602",
+   "pubDate": "2026-08-18T17:31:33.000000Z",
+   "source": "X/@zerohashX (tier A, ♥8)"
+  },
+  {
+   "title": "[X @zerohashX] Stablecoins and tokenized money market funds are starting to work as two sides of the same experience.\n\nOur CBO Mark Daly on the @stabledash stream: @zerohash provides the rails to move in and out of tokenized money market funds, stablecoins as one leg. The two are converging. 👇 ",
+   "url": "https://x.com/zerohashX/status/2089722271002751025",
+   "pubDate": "2026-08-18T14:33:09.000000Z",
+   "source": "X/@zerohashX (tier A, ♥12)"
+  },
+  {
+   "title": "[X @circle] OSL is bringing compliant USDC liquidity to Asia.\n\nBy integrating USDC into StableHub, @osldotcom gives eligible clients USDC access, exchange, custody, and settlement.\n\nWithin about four months of launch, StableHub reached more than $100 million in USDC deposits.\n\nhttps://t.co/5",
+   "url": "https://x.com/circle/status/2089880024174514566",
+   "pubDate": "2026-08-19T01:00:00.000000Z",
+   "source": "X/@circle (tier B, ♥40)"
+  },
+  {
+   "title": "[X @circle] Before wrapped BTC becomes collateral, inventory, or treasury infrastructure, institutions need to underwrite the wrapper.\n\nThat means asking:\n→ Is it 1:1 backed by native BTC?\n→ Who custodies the BTC?\n→ Can reserves be verified onchain?\n→ How does redemption work?\n→ Is the issue",
+   "url": "https://x.com/circle/status/2089834735191400575",
+   "pubDate": "2026-08-18T22:00:02.000000Z",
+   "source": "X/@circle (tier B, ♥97)"
+  },
+  {
+   "title": "[X @circle] Circle is headed to Latam Digital Assets Conf in Buenos Aires on August 20–21.\n\nLATAM continues to be one of the fastest-growing regions for stablecoin adoption, with growing demand for digital dollar payments, cross-border settlement, and onchain finance.\n\nJoin our team on stage",
+   "url": "https://x.com/circle/status/2089774331652120826",
+   "pubDate": "2026-08-18T18:00:01.000000Z",
+   "source": "X/@circle (tier B, ♥116)"
+  },
+  {
+   "title": "[X @circle] Local currency, global dollar.\n\nCircle Mint now supports direct local currency on/offramps in 8 currencies, helping eligible businesses move more directly between local banking rails and USDC.\n\nAlongside USD and EUR, supported currencies now include BRL, GBP, HKD, MXN, CNH, and S",
+   "url": "https://x.com/circle/status/2089744947641737538",
+   "pubDate": "2026-08-18T16:03:15.000000Z",
+   "source": "X/@circle (tier B, ♥182)"
+  },
+  {
+   "title": "[X @circle] REMINDER: Join @jerallaire for an earnings AMA tomorrow, August 19, at 9 AM ET!\n\nJoin via X or YouTube and submit your questions in advance in the comments.\n\nhttps://t.co/F0g6aPzvXu",
+   "url": "https://x.com/circle/status/2089698835916591355",
+   "pubDate": "2026-08-18T13:00:01.000000Z",
+   "source": "X/@circle (tier B, ♥148)"
+  },
+  {
+   "title": "[X @jerallaire] AI agents ❤️ USDC",
+   "url": "https://x.com/jerallaire/status/2089532453383733394",
+   "pubDate": "2026-08-18T01:58:53.000000Z",
+   "source": "X/@jerallaire (tier B, ♥309)"
+  },
+  {
+   "title": "[X @Paxos] Ask five venues what Bitcoin costs right now and you’ll get five answers.\n\nCrypto has no consolidated tape and no single best price. The same token trades across exchanges, OTC desks and market makers at once, each with its own depth, fees and speed.\n\nThis means that the venue an",
+   "url": "https://x.com/Paxos/status/2089758968193352150",
+   "pubDate": "2026-08-18T16:58:58.000000Z",
+   "source": "X/@Paxos (tier B, ♥14)"
+  },
+  {
+   "title": "[X @FireblocksHQ] $1B moved cross-border in 2025.\n\n1.1M beneficiaries across LATAM.\n\n@MAJORITY runs stablecoin payments 24/7 on Fireblocks. Treasury flows that needed manual work now run automatically.\n\nMAJORITY is scaling across LATAM, backed by Fireblocks.\n\nFull story ↓\nhttps://t.co/5jzrVGnB2F h",
+   "url": "https://x.com/FireblocksHQ/status/2089788091951198626",
+   "pubDate": "2026-08-18T18:54:42.000000Z",
+   "source": "X/@FireblocksHQ (tier B, ♥6)"
+  },
+  {
+   "title": "[X @FireblocksHQ] Stablecoin acceptance you can actually measure.\n\nFlow Analytics is live in the @dynamic_xyz dashboard. Real-time volume, success rate, settled vs. waiting funds, and step-level drop-off across your @FireblocksHQ Flow payments.\n\nLearn more: https://t.co/KYSPkC0bZ9 https://t.co/tWD",
+   "url": "https://x.com/FireblocksHQ/status/2089760948781289523",
+   "pubDate": "2026-08-18T17:06:50.000000Z",
+   "source": "X/@FireblocksHQ (tier B, ♥10)"
+  },
+  {
+   "title": "[X @FireblocksHQ] Fireblocks is a founding member of the Agentic Payments Alliance, supporting @raincard in guiding the development of agentic commerce.\n\nAgentic commerce needs infrastructure that is secure by default and built to scale.\n\nProud to help define it alongside the coalition shaping how",
+   "url": "https://x.com/FireblocksHQ/status/2089727111565091016",
+   "pubDate": "2026-08-18T14:52:23.000000Z",
+   "source": "X/@FireblocksHQ (tier B, ♥34)"
+  },
+  {
+   "title": "[X @PayPal] Traveling to China? Bring PayPal.\n\nU.S. PayPal users can now use the PayPal app to make in-store QR code payments at Weixin Pay merchants across China through PayPal World — no new apps needed.\n\nLearn more: https://t.co/Mqg4erHhbq https://t.co/XinU45Kzay",
+   "url": "https://x.com/PayPal/status/2089793526439559451",
+   "pubDate": "2026-08-18T19:16:17.000000Z",
+   "source": "X/@PayPal (tier B, ♥135)"
+  }
+ ]
 }
