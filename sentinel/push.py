@@ -7,7 +7,7 @@ SECRET 为空则不签名(当前机器人未开启签名校验)。返回码 0 = 
 import hmac, hashlib, base64, time, json, sys, urllib.request
 from pathlib import Path
 
-URL = "https://open.larksuite.com/open-apis/bot/v2/hook/b03df2f9-c6f5-4f9b-8881-def896b3fd9d"
+URL = "REPLACE_ME_WEBHOOK"  # 真实地址在云端容器与本地备份 zip 中,勿提交到公开仓库
 SECRET = ""   # 机器人若开启签名校验,把密钥填这里
 
 def send(text, title):
