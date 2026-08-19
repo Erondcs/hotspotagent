@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-08-19T02:05:43.971762+00:00",
+ "fetched_at": "2026-08-19T02:18:10.942637+00:00",
  "count": 31,
  "errors": [],
  "tweets": [
@@ -19,19 +19,19 @@
    "title": "[X @rain] عملة تحت المجهر: ستيلر (XLM)\n\nشبكة صُمّمت لنقل القيمة والمدفوعات عبر الحدود بسرعة ورسوم منخفضة\n\nتهدف ستيلر إلى ربط المؤسسات المالية والأفراد لتسهيل تحويل الأموال والأصول بين العملات، ويُستخدم رمز XLM لتغطية رسوم الشبكة والحدّ من الرسائل غير المرغوبة\n\nالمخاطر تشمل التقلّب والمنافس",
    "url": "https://x.com/rain/status/2089593714989568159",
    "pubDate": "2026-08-18T06:02:19.000000Z",
-   "source": "X/@rain (tier A, ♥0)"
+   "source": "X/@rain (tier A, ♥1)"
   },
   {
    "title": "[X @stripe] Amazon Bedrock AgentCore payments now supports @mpp, giving agents a new way to transact with stablecoins. Powered by @privy_io wallet infrastructure.",
    "url": "https://x.com/stripe/status/2089833293860458631",
    "pubDate": "2026-08-18T21:54:19.000000Z",
-   "source": "X/@stripe (tier A, ♥55)"
+   "source": "X/@stripe (tier A, ♥56)"
   },
   {
    "title": "[X @stripe] Kraken is launching Krak Cards in the US, powered by Stripe Issuing. Spend crypto anywhere Visa is accepted.",
    "url": "https://x.com/stripe/status/2089809196615073961",
    "pubDate": "2026-08-18T20:18:33.000000Z",
-   "source": "X/@stripe (tier A, ♥132)"
+   "source": "X/@stripe (tier A, ♥134)"
   },
   {
    "title": "[X @stripe] New currency capabilities to help cut FX costs:\n\n• Convert instantly between 15 currencies 24/7 and see rates in real-time. \n• By the end of 2026, businesses in 37 markets—including Australia, Hong Kong, and Singapore—will be able to settle payments in up to 18 currencies. \n\nAvai",
@@ -61,7 +61,7 @@
    "title": "[X @ether_fi] New features. Upgraded app and website.\n\nEtherFi Summer looking good out here. https://t.co/i8Yhv7a8LM",
    "url": "https://x.com/ether_fi/status/2089668662118453547",
    "pubDate": "2026-08-18T11:00:07.000000Z",
-   "source": "X/@ether_fi (tier A, ♥215)"
+   "source": "X/@ether_fi (tier A, ♥216)"
   },
   {
    "title": "[X @0xinfini] Try Infini 🤝\nLeave banks in the old world.",
@@ -91,7 +91,7 @@
    "title": "[X @krakenfx] You bring the skill.\n\nWe’ll bring the capital.\n\nYou keep 80% of the profits.\n\nHere’s how ⤵️ https://t.co/8uL24ZkBew",
    "url": "https://x.com/krakenfx/status/2089760487814639736",
    "pubDate": "2026-08-18T17:05:00.000000Z",
-   "source": "X/@krakenfx (tier A, ♥164)"
+   "source": "X/@krakenfx (tier A, ♥165)"
   },
   {
    "title": "[X @krakenfx] Making moves this week? 👀\n\nEnroll in Kraken’s 15th Anniversary Sweepstakes before you trade.\n\nYou could be one of 15 people to win 15 ETH.\n\nEvery eligible $1 traded = 1 entry through Aug. 31\n\nEnroll now ⤵️\nhttps://t.co/beVhwN04Io https://t.co/NeMQLZJUhw",
@@ -127,13 +127,13 @@
    "title": "[X @circle] OSL is bringing compliant USDC liquidity to Asia.\n\nBy integrating USDC into StableHub, @osldotcom gives eligible clients USDC access, exchange, custody, and settlement.\n\nWithin about four months of launch, StableHub reached more than $100 million in USDC deposits.\n\nhttps://t.co/5",
    "url": "https://x.com/circle/status/2089880024174514566",
    "pubDate": "2026-08-19T01:00:00.000000Z",
-   "source": "X/@circle (tier B, ♥40)"
+   "source": "X/@circle (tier B, ♥44)"
   },
   {
    "title": "[X @circle] Before wrapped BTC becomes collateral, inventory, or treasury infrastructure, institutions need to underwrite the wrapper.\n\nThat means asking:\n→ Is it 1:1 backed by native BTC?\n→ Who custodies the BTC?\n→ Can reserves be verified onchain?\n→ How does redemption work?\n→ Is the issue",
    "url": "https://x.com/circle/status/2089834735191400575",
    "pubDate": "2026-08-18T22:00:02.000000Z",
-   "source": "X/@circle (tier B, ♥97)"
+   "source": "X/@circle (tier B, ♥98)"
   },
   {
    "title": "[X @circle] Circle is headed to Latam Digital Assets Conf in Buenos Aires on August 20–21.\n\nLATAM continues to be one of the fastest-growing regions for stablecoin adoption, with growing demand for digital dollar payments, cross-border settlement, and onchain finance.\n\nJoin our team on stage",
@@ -157,7 +157,7 @@
    "title": "[X @jerallaire] AI agents ❤️ USDC",
    "url": "https://x.com/jerallaire/status/2089532453383733394",
    "pubDate": "2026-08-18T01:58:53.000000Z",
-   "source": "X/@jerallaire (tier B, ♥309)"
+   "source": "X/@jerallaire (tier B, ♥310)"
   },
   {
    "title": "[X @Paxos] Ask five venues what Bitcoin costs right now and you’ll get five answers.\n\nCrypto has no consolidated tape and no single best price. The same token trades across exchanges, OTC desks and market makers at once, each with its own depth, fees and speed.\n\nThis means that the venue an",
@@ -187,7 +187,7 @@
    "title": "[X @PayPal] Traveling to China? Bring PayPal.\n\nU.S. PayPal users can now use the PayPal app to make in-store QR code payments at Weixin Pay merchants across China through PayPal World — no new apps needed.\n\nLearn more: https://t.co/Mqg4erHhbq https://t.co/XinU45Kzay",
    "url": "https://x.com/PayPal/status/2089793526439559451",
    "pubDate": "2026-08-18T19:16:17.000000Z",
-   "source": "X/@PayPal (tier B, ♥135)"
+   "source": "X/@PayPal (tier B, ♥148)"
   }
  ]
 }
