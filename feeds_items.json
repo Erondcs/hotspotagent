@@ -1,159 +1,225 @@
 {
- "fetched_at": "2026-08-19T05:57:35.921212+00:00",
+ "fetched_at": "2026-08-20T02:05:31.948273+00:00",
  "count": 1315,
  "errors": [
   "insights4vc.substack.com: HTTP Error 403: Forbidden"
  ],
  "items": [
   {
-   "title": "Robot maker Unitree’s IPO surges 600%, outpacing crypto traders’ premarket bets",
+   "title": "Bitcoin briefly hits $70,000 for the first time since June. Here is why",
+   "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-briefly-hits-usd70-000-for-the-first-time-since-june-here-is-why",
+   "pubDate": "Wed, 19 Aug 2026 22:26:01 +0000",
+   "source": "coindesk.com"
+  },
+  {
+   "title": "HYPE jumps 11% as Trump says CFTC is working to bring Hyperliquid to U.S.",
+   "url": "https://www.coindesk.com/markets/2026/08/19/hype-jumps-11-as-trump-says-cftc-is-working-to-bring-hyperliquid-to-u-s",
+   "pubDate": "Wed, 19 Aug 2026 19:49:51 +0000",
+   "source": "coindesk.com"
+  },
+  {
+   "title": "Trump pushes Congress to move on Clarity Act during White House crypto event",
+   "url": "https://www.coindesk.com/policy/2026/08/19/trump-pushes-congress-to-move-on-clarity-act-during-white-house-crypto-event",
+   "pubDate": "Wed, 19 Aug 2026 19:48:33 +0000",
+   "source": "coindesk.com"
+  },
+  {
+   "title": "Crypto campaign fund Fairshake faces $2 million setback in Florida primaries",
+   "url": "https://www.coindesk.com/policy/2026/08/19/crypto-campaign-fund-fairshake-faces-usd2-million-setback-in-florida-primaries",
+   "pubDate": "Wed, 19 Aug 2026 18:10:10 +0000",
+   "source": "coindesk.com"
+  },
+  {
+   "title": "Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite",
+   "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-surges-above-usd68-000-liquidating-usd1-4-billion-shorts-as-treasury-buybacks-boost-risk-appetite",
+   "pubDate": "Wed, 19 Aug 2026 16:18:04 +0000",
+   "source": "coindesk.com"
+  },
+  {
+   "title": "Bitcoin nears key technical breakout that could propel prices to $76,000",
+   "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-usd76-000",
+   "pubDate": "Wed, 19 Aug 2026 15:22:47 +0000",
+   "source": "coindesk.com"
+  },
+  {
+   "title": "Coinbase, Circle and Bullish jump as Clarity Act proponents express optimism about bill",
+   "url": "https://www.coindesk.com/markets/2026/08/19/coinbase-circle-and-bullish-jump-as-clarity-act-proponents-express-optimism-about-bill",
+   "pubDate": "Wed, 19 Aug 2026 15:22:29 +0000",
+   "source": "coindesk.com"
+  },
+  {
+   "title": "AI could supercharge crypto but there’s a catch, Fidelity Digital Assets says",
+   "url": "https://www.coindesk.com/tech/2026/08/19/ai-could-supercharge-crypto-but-there-s-a-catch-fidelity-digital-assets-says",
+   "pubDate": "Wed, 19 Aug 2026 14:59:07 +0000",
+   "source": "coindesk.com"
+  },
+  {
+   "title": "Crypto Long & Short: Where DeFi yield really comes from (and why it broke this spring)",
+   "url": "https://www.coindesk.com/coindesk-indices/2026/08/18/crypto-long-and-short-where-defi-yield-really-comes-from-and-why-it-broke-this-spring",
+   "pubDate": "Wed, 19 Aug 2026 14:57:35 +0000",
+   "source": "coindesk.com"
+  },
+  {
+   "title": "HSBC, Standard Chartered execute first live banking transaction on Swift’s 24/7 ledger",
+   "url": "https://www.coindesk.com/business/2026/08/19/hsbc-standard-chartered-execute-first-live-banking-transaction-on-swift-s-24-7-ledger",
+   "pubDate": "Wed, 19 Aug 2026 14:50:33 +0000",
+   "source": "coindesk.com"
+  },
+  {
+   "title": "Cantor opens Kalshi prediction markets to thousands of institutional clients",
+   "url": "https://www.coindesk.com/markets/2026/08/19/cantor-opens-kalshi-prediction-markets-to-thousands-of-institutional-clients",
+   "pubDate": "Wed, 19 Aug 2026 14:41:55 +0000",
+   "source": "coindesk.com"
+  },
+  {
+   "title": "Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility",
+   "url": "https://www.coindesk.com/business/2026/08/19/beyond-crypto-funding-rates-ethena-diversifies-usde-backing-with-usd1-billion-falconx-facility",
+   "pubDate": "Wed, 19 Aug 2026 13:00:00 +0000",
+   "source": "coindesk.com"
+  },
+  {
+   "title": "Strengthen the Clarity Act",
+   "url": "https://www.coindesk.com/opinion/2026/08/19/strengthen-the-clarity-act",
+   "pubDate": "Wed, 19 Aug 2026 13:00:00 +0000",
+   "source": "coindesk.com"
+  },
+  {
+   "title": "Bitcoin is flashing 8 of 12 capitulation signals, but bottom's not yet in, says VanEck",
+   "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-is-flashing-8-of-12-capitulation-signals-but-its-not-a-bottom-yet",
+   "pubDate": "Wed, 19 Aug 2026 12:45:35 +0000",
+   "source": "coindesk.com"
+  },
+  {
+   "title": "A year after losing $1.46 billion, Bybit says AI helped it save $700 million",
+   "url": "https://www.coindesk.com/tech/2026/08/19/a-year-after-losing-usd1-46-billion-bybit-says-ai-helped-it-save-usd700-million",
+   "pubDate": "Wed, 19 Aug 2026 12:01:09 +0000",
+   "source": "coindesk.com"
+  },
+  {
+   "title": "China triples its e-CNY network in 2026 as 8 more banks join the CBDC push this week",
+   "url": "https://www.coindesk.com/business/2026/08/19/china-triples-digital-yuan-bank-roster-year-to-date-as-eight-more-banks-join-network",
+   "pubDate": "Wed, 19 Aug 2026 11:55:45 +0000",
+   "source": "coindesk.com"
+  },
+  {
+   "title": "Fed decision making comes into focus as bitcoin holds steady, bond yields surge",
+   "url": "https://www.coindesk.com/daybook-us/2026/08/19/fed-decision-making-comes-into-focus-as-bitcoin-holds-steady-bond-yields-surge",
+   "pubDate": "Wed, 19 Aug 2026 11:14:50 +0000",
+   "source": "coindesk.com"
+  },
+  {
+   "title": "Bitcoin stuck in a six-week range as global bond yields hit highest levels for decades",
+   "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-stuck-in-a-six-week-range-as-global-bond-yields-hit-highest-levels-for-decades",
+   "pubDate": "Wed, 19 Aug 2026 10:29:57 +0000",
+   "source": "coindesk.com"
+  },
+  {
+   "title": "TikTok code includes peer-to-peer payments over messaging: Bloomberg",
+   "url": "https://www.coindesk.com/business/2026/08/19/tiktok-code-includes-peer-to-peer-payments-over-messaging-bloomberg",
+   "pubDate": "Wed, 19 Aug 2026 10:04:30 +0000",
+   "source": "coindesk.com"
+  },
+  {
+   "title": "Ripple raises $275 million in senior notes for prime brokerage push",
+   "url": "https://www.coindesk.com/business/2026/08/19/ripple-raises-usd275-million-in-debut-debt-offering-for-its-prime-brokerage-arm",
+   "pubDate": "Wed, 19 Aug 2026 09:55:50 +0000",
+   "source": "coindesk.com"
+  },
+  {
+   "title": "OpenAI trails Anthropic as losses deepen and Altman pauses frontier AI training",
+   "url": "https://www.coindesk.com/markets/2026/08/19/openai-trails-anthropic-as-losses-deepen-and-altman-pauses-frontier-ai-training",
+   "pubDate": "Wed, 19 Aug 2026 09:10:22 +0000",
+   "source": "coindesk.com"
+  },
+  {
+   "title": "Live updates: Bitcoin and gold jump but rejected at key level as Treasury move pushes yields lower",
+   "url": "https://www.coindesk.com/markets/2026/08/19/live-updates-bitcoin-holds-firm-above-usd64-000-as-south-korea-s-kospi-sinks-5-8",
+   "pubDate": "Wed, 19 Aug 2026 09:05:45 +0000",
+   "source": "coindesk.com"
+  },
+  {
+   "title": "Maya Protocol exploit drains bitcoin and other assets as pool value drops by $11 million",
+   "url": "https://www.coindesk.com/markets/2026/08/19/maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-usd11-million",
+   "pubDate": "Wed, 19 Aug 2026 06:36:11 +0000",
+   "source": "coindesk.com"
+  },
+  {
+   "title": "Robot maker Unitree’s IPO surges 600% , outpacing crypto traders’ premarket bets",
    "url": "https://www.coindesk.com/markets/2026/08/19/robot-maker-unitree-s-ipo-surges-600-outpacing-crypto-traders-premarket-bets",
    "pubDate": "Wed, 19 Aug 2026 05:45:27 +0000",
    "source": "coindesk.com"
   },
   {
-   "title": "Solana leads bitcoin and ether higher while Korean chip stocks slide 7%",
+   "title": "Bitcoin holds $64,000 and solana leads gains amid 7% Korean chip stock slide",
    "url": "https://www.coindesk.com/markets/2026/08/19/solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7",
    "pubDate": "Wed, 19 Aug 2026 04:25:42 +0000",
    "source": "coindesk.com"
   },
   {
-   "title": "‘It has to pass’: Andrew Cuomo warns U.S. is falling behind on crypto rules",
-   "url": "https://www.coindesk.com/policy/2026/08/18/it-has-to-pass-andrew-cuomo-warns-u-s-is-falling-behind-on-crypto-rules",
-   "pubDate": "Wed, 19 Aug 2026 01:35:36 +0000",
-   "source": "coindesk.com"
+   "title": "Congress can still ‘land this plane’ on crypto bill as ethics talks stall, says Democratic Sen. Gallego",
+   "url": "https://www.theblock.co/news/regulation/2026-08-19-congress-can-still-land-this-plane-crypto-bill-ethics-talks-stall-democratic-sen-gallego-412272",
+   "pubDate": "Wed, 19 Aug 2026 22:36:38 +0000",
+   "source": "theblock.co"
   },
   {
-   "title": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance",
-   "url": "https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance",
-   "pubDate": "Tue, 18 Aug 2026 23:11:12 +0000",
-   "source": "coindesk.com"
+   "title": "HYPE token surges after Trump says CFTC is working to bring Hyperliquid to US in ‘fully compliant fashion’",
+   "url": "https://www.theblock.co/news/regulation/2026-08-19-hype-token-surges-trump-says-cftc-bring-hyperliquid-us-fully-compliant-fashion-412262",
+   "pubDate": "Wed, 19 Aug 2026 20:29:35 +0000",
+   "source": "theblock.co"
   },
   {
-   "title": "U.S. accounting-standards group proposes way to see stablecoins as 'cash equivalent'",
-   "url": "https://www.coindesk.com/policy/2026/08/18/u-s-accounting-standards-group-proposes-way-to-see-stablecoins-as-cash-equivalent",
-   "pubDate": "Tue, 18 Aug 2026 21:25:42 +0000",
-   "source": "coindesk.com"
+   "title": "Bitcoin hits $69,000, ether jumps 10% as Treasury buybacks, SEC crypto proposal fuel market rally",
+   "url": "https://www.theblock.co/news/markets/2026-08-19-bitcoin-69000-ether-jumps-treasury-buybacks-sec-crypto-proposal-fuel-market-rally-412248",
+   "pubDate": "Wed, 19 Aug 2026 19:05:42 +0000",
+   "source": "theblock.co"
   },
   {
-   "title": "U.S. SEC proposes first major crypto rule in surprise announcement",
-   "url": "https://www.coindesk.com/policy/2026/08/18/r",
-   "pubDate": "Tue, 18 Aug 2026 19:09:33 +0000",
-   "source": "coindesk.com"
+   "title": "OCC races to finalize GENIUS Act stablecoin rules by November",
+   "url": "https://www.theblock.co/news/regulation/2026-08-19-occ-races-to-finalize-genius-act-stablecoin-rules-by-november-412240",
+   "pubDate": "Wed, 19 Aug 2026 17:03:52 +0000",
+   "source": "theblock.co"
   },
   {
-   "title": "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
-   "url": "https://www.coindesk.com/business/2026/08/18/wyoming-joins-usd15-billion-layerzero-exodus-with-state-stablecoin-move",
-   "pubDate": "Tue, 18 Aug 2026 18:57:00 +0000",
-   "source": "coindesk.com"
+   "title": "Grayscale’s latest Zcash ETF amendment shows DCG in talks to contribute 200,000 ZEC to fund",
+   "url": "https://www.theblock.co/news/markets/2026-08-19-grayscale-zcash-etf-amendment-dcg-discussions-contribute-200000-zec-fund-412232",
+   "pubDate": "Wed, 19 Aug 2026 16:57:52 +0000",
+   "source": "theblock.co"
   },
   {
-   "title": "Bitcoin has gone quiet as traders chase ‘5x or 10x’ payoffs elsewhere",
-   "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-has-gone-quiet-as-traders-chase-5x-or-10x-payoffs-elsewhere",
-   "pubDate": "Tue, 18 Aug 2026 17:00:00 +0000",
-   "source": "coindesk.com"
+   "title": "Injective becomes SEC-registered transfer agent as it expands tokenization push",
+   "url": "https://www.theblock.co/news/regulation/2026-08-19-injective-becomes-sec-registered-transfer-agent-expands-tokenization-push-412225",
+   "pubDate": "Wed, 19 Aug 2026 16:24:24 +0000",
+   "source": "theblock.co"
   },
   {
-   "title": "Kraken adds U.S. stocks in Europe as TradFi-crypto divide blurs",
-   "url": "https://www.coindesk.com/markets/2026/08/18/kraken-adds-u-s-stocks-in-europe-as-tradfi-crypto-divide-blurs",
-   "pubDate": "Tue, 18 Aug 2026 16:08:46 +0000",
-   "source": "coindesk.com"
+   "title": "Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink",
+   "url": "https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226",
+   "pubDate": "Wed, 19 Aug 2026 16:01:13 +0000",
+   "source": "theblock.co"
   },
   {
-   "title": "Why the Trump-backed crypto venture is distancing itself from Hong Kong AI aggregator WorldClaw",
-   "url": "https://www.coindesk.com/markets/2026/08/18/trump-linked-world-liberty-says-worldclaw-is-independent-after-questions-over-ai-model-access",
-   "pubDate": "Tue, 18 Aug 2026 15:07:52 +0000",
-   "source": "coindesk.com"
+   "title": "Ex-Signature Bank chair warns big banks could use blockchain to take market share from smaller rivals as N3XT goes global",
+   "url": "https://www.theblock.co/news/business/2026-08-19-ex-signature-bank-chair-big-banks-blockchain-n3xt-412202",
+   "pubDate": "Wed, 19 Aug 2026 13:08:49 +0000",
+   "source": "theblock.co"
   },
   {
-   "title": "Bitcoin miners’ AI pivot pays off, but mining could revive with one twist",
-   "url": "https://www.coindesk.com/business/2026/08/18/bitcoin-miners-ai-pivot-pays-off-but-mining-could-revive-with-one-twist",
-   "pubDate": "Tue, 18 Aug 2026 14:41:31 +0000",
-   "source": "coindesk.com"
+   "title": "Bitwise CIO sees potential for 10-100x blockchain transaction growth as AI agents meet tokenized markets",
+   "url": "https://www.theblock.co/news/ecosystems/2026-08-19-bitwise-cio-sees-potential-for-10-100x-blockchain-transaction-growth-as-ai-agents-meet-tokenized-markets-412196",
+   "pubDate": "Wed, 19 Aug 2026 11:32:48 +0000",
+   "source": "theblock.co"
   },
   {
-   "title": "Global bond yields surge as debt fears test bitcoin’s hedge narrative",
-   "url": "https://www.coindesk.com/markets/2026/08/18/global-bond-yields-surge-as-debt-fears-test-bitcoin-s-hedge-narrative",
-   "pubDate": "Tue, 18 Aug 2026 14:40:41 +0000",
-   "source": "coindesk.com"
+   "title": "Scaramucci points to $100,000 bitcoin as ‘magic number’ for OG sellers, eyes AI-blockchain convergence",
+   "url": "https://www.theblock.co/news/markets/2026-08-19-scaramucci-points-to-100000-bitcoin-as-magic-number-for-og-sellers-eyes-ai-blockchain-convergence-412190",
+   "pubDate": "Wed, 19 Aug 2026 10:47:39 +0000",
+   "source": "theblock.co"
   },
   {
-   "title": "Japan's Metaplanet launching U.S. bitcoin treasury company through $135 million nanocap deal",
-   "url": "https://www.coindesk.com/business/2026/08/18/japan-s-metaplanet-launching-u-s-bitcoin-treasury-company-through-usd135-million-nanocap-deal",
-   "pubDate": "Tue, 18 Aug 2026 14:35:08 +0000",
-   "source": "coindesk.com"
-  },
-  {
-   "title": "HashKey taps Hong Kong's first regulated stablecoin to settle insurance and trade deals",
-   "url": "https://www.coindesk.com/business/2026/08/18/hashkey-taps-hong-kong-s-first-regulated-stablecoin-to-settle-insurance-and-trade-deals",
-   "pubDate": "Tue, 18 Aug 2026 14:03:27 +0000",
-   "source": "coindesk.com"
-  },
-  {
-   "title": "Citi plans to launch bitcoin custody for institutional clients later this year",
-   "url": "https://www.coindesk.com/markets/2026/08/18/citi-plans-to-launch-bitcoin-custody-for-institutional-clients-later-this-year",
-   "pubDate": "Tue, 18 Aug 2026 13:25:13 +0000",
-   "source": "coindesk.com"
-  },
-  {
-   "title": "Crypto’s easy-money era is ending in a wave of failures",
-   "url": "https://www.coindesk.com/business/2026/08/13/crypto-s-easy-money-era-is-ending-in-a-wave-of-failures",
-   "pubDate": "Tue, 18 Aug 2026 13:22:40 +0000",
-   "source": "coindesk.com"
-  },
-  {
-   "title": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
-   "url": "https://www.coindesk.com/business/2026/08/18/cash-app-s-crypto-support-expands-beyond-bitcoin-and-usdc-via-moonpay",
-   "pubDate": "Tue, 18 Aug 2026 13:00:00 +0000",
-   "source": "coindesk.com"
-  },
-  {
-   "title": "Visa looking for new stablecoin settlement partner after BVNK sale to Mastercard",
-   "url": "https://www.coindesk.com/business/2026/08/18/visa-is-looking-for-a-new-stablecoin-settlement-partner-now-that-bvnk-is-owned-by-mastercard",
-   "pubDate": "Tue, 18 Aug 2026 12:20:48 +0000",
-   "source": "coindesk.com"
-  },
-  {
-   "title": "Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on",
-   "url": "https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on",
-   "pubDate": "Tue, 18 Aug 2026 12:17:05 +0000",
-   "source": "coindesk.com"
-  },
-  {
-   "title": "The 'crack' in the energy market is wider than ever. Bitcoin might feel it.",
-   "url": "https://www.coindesk.com/daybook-us/2026/08/18/the-crack-in-the-energy-market-is-wider-than-ever-bitcoin-might-feel-it",
-   "pubDate": "Tue, 18 Aug 2026 11:21:51 +0000",
-   "source": "coindesk.com"
-  },
-  {
-   "title": "South Korea joins more than 30 jurisdictions restricting Polymarket access",
-   "url": "https://www.coindesk.com/business/2026/08/18/south-korea-joins-more-than-30-jurisdictions-restricting-polymarket-access",
-   "pubDate": "Tue, 18 Aug 2026 11:05:56 +0000",
-   "source": "coindesk.com"
-  },
-  {
-   "title": "Bitcoin pauses at $64,000 as rising yields, oil drag equities lower",
-   "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-pauses-at-usd64-000-as-rising-yields-oil-drag-equities-lower",
-   "pubDate": "Tue, 18 Aug 2026 10:38:56 +0000",
-   "source": "coindesk.com"
-  },
-  {
-   "title": "Bitcoin scores a rare win over S&P 500 with 2.6% rise versus 0.5% fall",
-   "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-scored-a-rare-win-over-s-and-p-500-on-monday",
-   "pubDate": "Tue, 18 Aug 2026 10:01:23 +0000",
-   "source": "coindesk.com"
-  },
-  {
-   "title": "Live updates: Bitcoin tepidly on the rise as stocks slip",
-   "url": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite",
-   "pubDate": "Tue, 18 Aug 2026 08:16:11 +0000",
-   "source": "coindesk.com"
-  },
-  {
-   "title": "The bitcoin price level where leveraged bulls could get whacked",
-   "url": "https://www.coindesk.com/markets/2026/08/18/the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked",
-   "pubDate": "Tue, 18 Aug 2026 05:55:43 +0000",
-   "source": "coindesk.com"
+   "title": "Rain CEO says stablecoin payments reach more than 100,000 merchants without them knowing it",
+   "url": "https://www.theblock.co/news/business/2026-08-19-rain-ceo-says-stablecoin-payments-reach-more-than-100000-merchants-without-them-knowing-it-412184",
+   "pubDate": "Wed, 19 Aug 2026 10:09:40 +0000",
+   "source": "theblock.co"
   },
   {
    "title": "Kalshi files to launch perpetual futures tied to US stock index, copper",
@@ -207,72 +273,6 @@
    "title": "Citi expects to launch bitcoin custody later this year under its new Custody+ platform",
    "url": "https://www.theblock.co/news/business/2026-08-18-citi-bitcoin-custody-412090",
    "pubDate": "Tue, 18 Aug 2026 12:15:31 +0000",
-   "source": "theblock.co"
-  },
-  {
-   "title": "Cypherpunk Technologies launches Zcash mining fleet with $33 million Winklevoss deal",
-   "url": "https://www.theblock.co/news/business/2026-08-18-cypherpunk-technologies-launches-zcash-mining-fleet-412071",
-   "pubDate": "Tue, 18 Aug 2026 12:00:00 +0000",
-   "source": "theblock.co"
-  },
-  {
-   "title": "‘The Crypto Program’ promoter deported from Fiji over alleged $165 million Ponzi scheme",
-   "url": "https://www.theblock.co/news/regulation/2026-08-18-the-crypto-program-promoter-deported-from-fiji-over-alleged-165-million-ponzi-scheme-412083",
-   "pubDate": "Tue, 18 Aug 2026 10:49:53 +0000",
-   "source": "theblock.co"
-  },
-  {
-   "title": "Curve founder says FATF pressure could make DeFi safer and more decentralized",
-   "url": "https://www.theblock.co/news/defi/2026-08-18-curve-founder-fatf-pressure-could-make-defi-safer-412059",
-   "pubDate": "Tue, 18 Aug 2026 10:34:53 +0000",
-   "source": "theblock.co"
-  },
-  {
-   "title": "Blockchain Association backs SEC’s proposal to scrap outdated NMS rules, citing tokenization benefits",
-   "url": "https://www.theblock.co/news/regulation/2026-08-18-blockchain-association-backs-secs-proposal-to-scrap-outdated-nms-rules-citing-tokenization-benefits-412069",
-   "pubDate": "Tue, 18 Aug 2026 09:35:26 +0000",
-   "source": "theblock.co"
-  },
-  {
-   "title": "Kraken brings US stock trading to European Economic Area customers",
-   "url": "https://www.theblock.co/news/business/2026-08-18-kraken-us-stock-trading-europe-economic-area-412027",
-   "pubDate": "Tue, 18 Aug 2026 08:00:02 +0000",
-   "source": "theblock.co"
-  },
-  {
-   "title": "Cathie Wood’s Ark Invest scoops up $15 million in Block Inc shares as stock dips 3%",
-   "url": "https://www.theblock.co/news/markets/2026-08-18-cathie-wood-ark-invest-15-million-block-inc-412060",
-   "pubDate": "Tue, 18 Aug 2026 07:37:40 +0000",
-   "source": "theblock.co"
-  },
-  {
-   "title": "Ripple partners with South Korea’s Jeonbuk Bank for cross-border payments",
-   "url": "https://www.theblock.co/news/business/2026-08-18-ripple-south-korea-jeonbuk-bank-412049",
-   "pubDate": "Tue, 18 Aug 2026 06:17:53 +0000",
-   "source": "theblock.co"
-  },
-  {
-   "title": "Upbit and Bithumb report 50% declines in H1 revenue, reflecting market contraction",
-   "url": "https://www.theblock.co/news/markets/2026-08-18-upbit-bithumb-h1-decline-412034",
-   "pubDate": "Tue, 18 Aug 2026 05:30:25 +0000",
-   "source": "theblock.co"
-  },
-  {
-   "title": "Robinhood Chain TVL surges 45% in August as tokenized RWAs lose ground",
-   "url": "https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998",
-   "pubDate": "Mon, 17 Aug 2026 22:26:02 +0000",
-   "source": "theblock.co"
-  },
-  {
-   "title": "Tokenized equities triple market share as Ondo, Binance and xStocks dominate",
-   "url": "https://www.theblock.co/news/defi/2026-08-17-tokenized-equities-triple-market-share-ondo-binance-xstocks-dominate-411996",
-   "pubDate": "Mon, 17 Aug 2026 20:55:00 +0000",
-   "source": "theblock.co"
-  },
-  {
-   "title": "IREN delivers first of four AI cloud deployments to Microsoft under $9.7 billion deal",
-   "url": "https://www.theblock.co/news/business/2026-08-17-iren-delivers-first-four-ai-cloud-deployments-microsoft-under-9-7-billion-deal-412016",
-   "pubDate": "Mon, 17 Aug 2026 19:54:52 +0000",
    "source": "theblock.co"
   },
   {
@@ -336,10 +336,94 @@
    "source": "pymnts.com"
   },
   {
-   "title": "GENIUS Act: does exempting synthetic stablecoins open a back door?",
-   "url": "https://www.ledgerinsights.com/genius-act-does-exempting-synthetic-stablecoins-open-a-back-door/",
-   "pubDate": "Tue, 18 Aug 2026 19:13:06 +0000",
+   "title": "HSBC, Standard Chartered  make first live tokenized deposit tranfer via Swift blockchain",
+   "url": "https://www.ledgerinsights.com/hsbc-standard-chartered-make-first-live-tokenized-deposit-tranfer-via-swift-blockchain/",
+   "pubDate": "Wed, 19 Aug 2026 09:33:16 +0000",
    "source": "ledgerinsights.com"
+  },
+  {
+   "title": "Bitcoin's Sharpest Rally in Five Months Flips Markets From Bearish to Coin Flip",
+   "url": "https://decrypt.co/376030/bitcoin-rally-flips-markets-bearish-coin-flip",
+   "pubDate": "Wed, 19 Aug 2026 22:18:01 +0000",
+   "source": "decrypt.co"
+  },
+  {
+   "title": "Trump Says AI Could Be 'Bigger Than the Internet' as He Pushes Light-Touch Regulation",
+   "url": "https://decrypt.co/376026/trump-ai-bigger-than-internet-light-touch-regulation",
+   "pubDate": "Wed, 19 Aug 2026 21:36:50 +0000",
+   "source": "decrypt.co"
+  },
+  {
+   "title": "Trump Calls on Congress to Pass 'Fair Version' of Clarity Act at White House Crypto Meeting",
+   "url": "https://decrypt.co/376006/trump-pass-fair-version-clarity-white-house-crypto-meeting",
+   "pubDate": "Wed, 19 Aug 2026 19:56:45 +0000",
+   "source": "decrypt.co"
+  },
+  {
+   "title": "Crypto Stocks Rip Higher as Strategy Jumps 12%, Coinbase Climbs 9%",
+   "url": "https://decrypt.co/375990/crypto-stocks-rip-strategy-coinbase-bitcoin",
+   "pubDate": "Wed, 19 Aug 2026 19:51:11 +0000",
+   "source": "decrypt.co"
+  },
+  {
+   "title": "Kalshi Pushes Beyond Prediction Markets With Copper Perpetual Futures",
+   "url": "https://decrypt.co/375987/kalshi-copper-perpetual-futures",
+   "pubDate": "Wed, 19 Aug 2026 19:16:04 +0000",
+   "source": "decrypt.co"
+  },
+  {
+   "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
+   "url": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
+   "pubDate": "Wed, 19 Aug 2026 18:20:35 +0000",
+   "source": "decrypt.co"
+  },
+  {
+   "title": "Moderna Stock Doubles on Cancer Breakthrough: Here’s What It Means",
+   "url": "https://decrypt.co/375968/moderna-stock-doubles-cancer-vaccine",
+   "pubDate": "Wed, 19 Aug 2026 16:54:46 +0000",
+   "source": "decrypt.co"
+  },
+  {
+   "title": "Coinbase's Base Is Betting Big on AI Agents With $1 Million Startup Accelerator",
+   "url": "https://decrypt.co/375952/coinbase-base-ai-agents-startup-accelerator",
+   "pubDate": "Wed, 19 Aug 2026 16:31:04 +0000",
+   "source": "decrypt.co"
+  },
+  {
+   "title": "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour",
+   "url": "https://decrypt.co/375955/bitcoin-surges-70k-billion-crypto-shorts-rekt-hour",
+   "pubDate": "Wed, 19 Aug 2026 16:10:04 +0000",
+   "source": "decrypt.co"
+  },
+  {
+   "title": "Coinbase Adds 50x Crypto Perps to Base App Through Hyperliquid",
+   "url": "https://decrypt.co/375921/coinbase-50x-crypto-perps-base-app-hyperliquid",
+   "pubDate": "Wed, 19 Aug 2026 16:00:06 +0000",
+   "source": "decrypt.co"
+  },
+  {
+   "title": "Morning Minute: SEC Brings Clarity to Crypto",
+   "url": "https://decrypt.co/375949/morning-minute-sec-clarity-crypto-token-fundraising",
+   "pubDate": "Wed, 19 Aug 2026 14:30:24 +0000",
+   "source": "decrypt.co"
+  },
+  {
+   "title": "Chinese InsurTech Firm Zhibao Adds 2,380 Bitcoin in $154.7M Treasury Pivot",
+   "url": "https://decrypt.co/375935/china-zhibao-bitcoin-treasury-pivot",
+   "pubDate": "Wed, 19 Aug 2026 13:31:04 +0000",
+   "source": "decrypt.co"
+  },
+  {
+   "title": "Alleged $165M Crypto Ponzi Mastermind Deported From Fiji to US",
+   "url": "https://decrypt.co/375933/crypto-ponzi-mastermind-deported-fiji-us",
+   "pubDate": "Wed, 19 Aug 2026 11:31:04 +0000",
+   "source": "decrypt.co"
+  },
+  {
+   "title": "Winklevoss-Backed Cypherpunk Launches 'World's Largest' Zcash Mining Fleet",
+   "url": "https://decrypt.co/375926/winklevoss-cypherpunk-zcash-mining-fleet",
+   "pubDate": "Wed, 19 Aug 2026 09:31:03 +0000",
+   "source": "decrypt.co"
   },
   {
    "title": "Pennsylvania Cracks Down on AI Data Centers as Backlash Grows",
@@ -465,90 +549,6 @@
    "title": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
    "url": "https://decrypt.co/375794/xrp-price-two-year-streak-charts-flash-warning",
    "pubDate": "Mon, 17 Aug 2026 19:01:56 +0000",
-   "source": "decrypt.co"
-  },
-  {
-   "title": "Solana’s Pump Token Leads Crypto Market Gainers as Chart Paints Golden Cross",
-   "url": "https://decrypt.co/375788/solana-pump-price-crypto-market-golden-cross",
-   "pubDate": "Mon, 17 Aug 2026 18:29:56 +0000",
-   "source": "decrypt.co"
-  },
-  {
-   "title": "Ethereum Developers Target Privacy Changes in Next Major Upgrade",
-   "url": "https://decrypt.co/375787/ethereum-developers-privacy-hegota-upgrade",
-   "pubDate": "Mon, 17 Aug 2026 18:19:46 +0000",
-   "source": "decrypt.co"
-  },
-  {
-   "title": "Wall Street Pushback Halts SEC's Crypto Fundraising Framework, Sources Say",
-   "url": "https://decrypt.co/375779/wall-street-pushback-halts-sec-crypto-fundraising-framework",
-   "pubDate": "Mon, 17 Aug 2026 16:27:26 +0000",
-   "source": "decrypt.co"
-  },
-  {
-   "title": "What Stripe's $7 Billion OpenRouter Deal Actually Means for AI",
-   "url": "https://decrypt.co/375769/what-stripe-openrouter-deal-means-ai",
-   "pubDate": "Mon, 17 Aug 2026 15:54:29 +0000",
-   "source": "decrypt.co"
-  },
-  {
-   "title": "Tom Lee’s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply",
-   "url": "https://decrypt.co/375768/tom-lee-bitcoin-buys-19-million-ethereum",
-   "pubDate": "Mon, 17 Aug 2026 15:47:59 +0000",
-   "source": "decrypt.co"
-  },
-  {
-   "title": "Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero",
-   "url": "https://decrypt.co/375749/hackers-macos-screen-sharing-secretly-mine-monero",
-   "pubDate": "Mon, 17 Aug 2026 13:31:04 +0000",
-   "source": "decrypt.co"
-  },
-  {
-   "title": "Morning Minute: Trump To Meet Crypto, Prediction Market CEOs This Week",
-   "url": "https://decrypt.co/375760/morning-minute-trump-to-meet-crypto-prediction-market-ceos-this-week",
-   "pubDate": "Mon, 17 Aug 2026 13:03:17 +0000",
-   "source": "decrypt.co"
-  },
-  {
-   "title": "Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock",
-   "url": "https://decrypt.co/375762/strategy-leaves-bitcoin-untouched-raises-334m-selling-mstr-stock",
-   "pubDate": "Mon, 17 Aug 2026 12:56:55 +0000",
-   "source": "decrypt.co"
-  },
-  {
-   "title": "Pirated Copies of 'The Odyssey' Are Hiding Crypto-Stealing Malware",
-   "url": "https://decrypt.co/375747/pirated-copies-odyssey-hiding-crypto-stealing-malware",
-   "pubDate": "Mon, 17 Aug 2026 12:31:04 +0000",
-   "source": "decrypt.co"
-  },
-  {
-   "title": "Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling",
-   "url": "https://decrypt.co/375745/paul-tudor-jones-buys-blackrock-bitcoin-etf",
-   "pubDate": "Mon, 17 Aug 2026 10:31:04 +0000",
-   "source": "decrypt.co"
-  },
-  {
-   "title": "Dutch Prosecutors Sell $2.5M of Crypto From Bankrupt Platform Knaken",
-   "url": "https://decrypt.co/375757/dutch-prosecutors-sell-2-5m-of-crypto-from-bankrupt-platform-knaken",
-   "pubDate": "Mon, 17 Aug 2026 10:13:41 +0000",
-   "source": "decrypt.co"
-  },
-  {
-   "title": "SafePal Bitcoin Wallet Data Breach Stokes Fears of Physical Attacks",
-   "url": "https://decrypt.co/375743/safepal-bitcoin-wallet-data-breach",
-   "pubDate": "Mon, 17 Aug 2026 09:31:04 +0000",
-   "source": "decrypt.co"
-  },
-  {
-   "title": "Gemini 3.7 Flash Review: Google's Cheap Model Isn’t Dumb Anymore",
-   "url": "https://decrypt.co/375730/gemini-3-7-flash-review-google-cheap-model",
-   "pubDate": "Sun, 16 Aug 2026 16:00:05 +0000",
-   "source": "decrypt.co"
-  },
-  {
-   "title": "People Are Turning to AI for Mental Health, California Wants It Banned",
-   "url": "https://decrypt.co/375725/california-bill-ban-ai-chatbots-therapy-mental-health",
-   "pubDate": "Sun, 16 Aug 2026 14:01:03 +0000",
    "source": "decrypt.co"
   },
   {
@@ -852,6 +852,126 @@
    "source": "blockworks.com"
   },
   {
+   "title": "Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet",
+   "url": "https://cointelegraph.com/news/bitcoincom-integrates-uae-registered-usdu-stablecoin-into-self-custodial-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 19 Aug 2026 20:33:51 +0000",
+   "source": "cointelegraph.com"
+  },
+  {
+   "title": "Trump pushes for CLARITY Act passage alongside crypto leaders",
+   "url": "https://cointelegraph.com/news/donald-trump-clarity-act-passage-crypto-leaders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 19 Aug 2026 19:54:59 +0000",
+   "source": "cointelegraph.com"
+  },
+  {
+   "title": "Here’s what happened in crypto today",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 19 Aug 2026 19:50:07 +0000",
+   "source": "cointelegraph.com"
+  },
+  {
+   "title": "Crypto PAC notches primary wins, but loses $2M Florida race",
+   "url": "https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 19 Aug 2026 18:48:58 +0000",
+   "source": "cointelegraph.com"
+  },
+  {
+   "title": "FalconX, Ethena bring USDe backing assets into $1B institutional credit facility",
+   "url": "https://cointelegraph.com/news/falconx-ethena-launch-1b-usde-backed-institutional-lending-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 19 Aug 2026 17:34:10 +0000",
+   "source": "cointelegraph.com"
+  },
+  {
+   "title": "OCC head promises final GENIUS rules by November",
+   "url": "https://cointelegraph.com/news/occ-head-jonathan-gould-genius-rules-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 19 Aug 2026 17:00:01 +0000",
+   "source": "cointelegraph.com"
+  },
+  {
+   "title": "StanChart, HSBC execute first live transaction on Swift blockchain ledger",
+   "url": "https://cointelegraph.com/news/standard-chartered-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 19 Aug 2026 16:30:12 +0000",
+   "source": "cointelegraph.com"
+  },
+  {
+   "title": "Standard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks",
+   "url": "https://cointelegraph.com/markets/bitcoin-price-100k-standard-chartered-treasury-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 19 Aug 2026 16:00:03 +0000",
+   "source": "cointelegraph.com"
+  },
+  {
+   "title": "US commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs",
+   "url": "https://cointelegraph.com/news/us-cftc-trading-ban-alameda-ftx-executives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 19 Aug 2026 15:50:58 +0000",
+   "source": "cointelegraph.com"
+  },
+  {
+   "title": "Bitcoin price hits 11-week high as US Treasury doubles debt buyback size",
+   "url": "https://cointelegraph.com/markets/bitcoin-price-hits-11-week-high-as-us-treasury-doubles-debt-buyback-size?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 19 Aug 2026 15:44:09 +0000",
+   "source": "cointelegraph.com"
+  },
+  {
+   "title": "Injective receives SEC transfer agent registration for institutional services arm",
+   "url": "https://cointelegraph.com/news/injective-sec-transfer-agent-tokenized-securities-recordkeeping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 19 Aug 2026 15:19:21 +0000",
+   "source": "cointelegraph.com"
+  },
+  {
+   "title": "200,000 fake AI ‘victims’ deployed to scam bait online fraudsters",
+   "url": "https://cointelegraph.com/magazine/fake-ai-victims-are-scam-baiting-600000-fraudsters-every-month?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 19 Aug 2026 13:30:00 +0000",
+   "source": "cointelegraph.com"
+  },
+  {
+   "title": "SEC regulatory proposal marks ‘important’ step forward from ‘inapt’ crypto rules: Commissioner Peirce",
+   "url": "https://cointelegraph.com/news/sec-proposal-forward-inapt-crypto-rules-commissioner-peirce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 19 Aug 2026 13:27:09 +0000",
+   "source": "cointelegraph.com"
+  },
+  {
+   "title": "Centrifuge adds Symbiotic liquidity network across $1.6B in Janus Henderson, NYLIM funds",
+   "url": "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 19 Aug 2026 12:00:00 +0000",
+   "source": "cointelegraph.com"
+  },
+  {
+   "title": "Sweden’s H100 reports $26M H1 loss driven by falling Bitcoin value",
+   "url": "https://cointelegraph.com/news/swedens-h100-26m-h1-loss-falling-bitcoin-value?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 19 Aug 2026 11:59:30 +0000",
+   "source": "cointelegraph.com"
+  },
+  {
+   "title": "Ripple raises $275M for US prime brokerage to meet institutional demand",
+   "url": "https://cointelegraph.com/news/ripple-raises-275m-us-prime-brokerage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 19 Aug 2026 11:18:38 +0000",
+   "source": "cointelegraph.com"
+  },
+  {
+   "title": "Bitcoin has ‘largely purged’ froth that preceded 50% drop from $126K: BlackRock",
+   "url": "https://cointelegraph.com/markets/bitcoin-has-largely-purged-froth-that-preceded-50-drop-from-126k-blackrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 19 Aug 2026 11:06:13 +0000",
+   "source": "cointelegraph.com"
+  },
+  {
+   "title": "Nexo launches regulated crypto-backed credit in Australia",
+   "url": "https://cointelegraph.com/news/nexo-launches-crypto-backed-credit-australia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 19 Aug 2026 10:25:00 +0000",
+   "source": "cointelegraph.com"
+  },
+  {
+   "title": "Arthur Hayes takes CEO role at Flop Labs ahead of Q4 airdrop",
+   "url": "https://cointelegraph.com/news/arthur-hayes-ceo-role-flop-labs-q4-airdrop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 19 Aug 2026 08:34:51 +0000",
+   "source": "cointelegraph.com"
+  },
+  {
+   "title": "Bitcoin ETFs add $189M as August net inflows approach $1B",
+   "url": "https://cointelegraph.com/markets/bitcoin-etf-august-net-inflows-approach-1b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 19 Aug 2026 07:59:16 +0000",
+   "source": "cointelegraph.com"
+  },
+  {
    "title": "MAYAChain halts network after estimated $1.7M exploit",
    "url": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "pubDate": "Wed, 19 Aug 2026 05:13:54 +0000",
@@ -873,12 +993,6 @@
    "title": "FalconX, Interstice Connect Canton to Ethereum, Solana and Robinhood Chain",
    "url": "https://cointelegraph.com/news/interstice-falconx-cross-chain-swap-engine-canton-solana-ethereum-robinhood-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "pubDate": "Tue, 18 Aug 2026 20:45:48 +0000",
-   "source": "cointelegraph.com"
-  },
-  {
-   "title": "Here’s what happened in crypto today",
-   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Tue, 18 Aug 2026 20:21:26 +0000",
    "source": "cointelegraph.com"
   },
   {
@@ -918,118 +1032,28 @@
    "source": "cointelegraph.com"
   },
   {
-   "title": "Bitcoin tags $65K as S&P 500 rebounds from 2-week lows on US-Iran rhetoric",
-   "url": "https://cointelegraph.com/markets/bitcoin-tags-65k-as-sp-500-rebounds-from-2-week-lows-on-us-iran-rhetoric?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Tue, 18 Aug 2026 15:27:13 +0000",
-   "source": "cointelegraph.com"
+   "title": "Kraken launches crypto debit card in the US",
+   "url": "https://www.finextra.com/newsarticle/48271/kraken-launches-crypto-debit-card-in-the-us?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Thu, 20 Aug 2026 00:01:00 GMT",
+   "source": "finextra.com"
   },
   {
-   "title": "Toyota Finance opens tokenized bonds to retail investors via mobile payment app",
-   "url": "https://cointelegraph.com/news/toyota-finance-tokenized-bond-offering-mobile-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Tue, 18 Aug 2026 13:41:56 +0000",
-   "source": "cointelegraph.com"
+   "title": "Monzo deploys backup bank in face of outage",
+   "url": "https://www.finextra.com/newsarticle/48272/monzo-deploys-backup-bank-in-face-of-outage?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 19 Aug 2026 14:15:00 GMT",
+   "source": "finextra.com"
   },
   {
-   "title": "MoonPay adds Cash App Pay for crypto purchases by US customers",
-   "url": "https://cointelegraph.com/news/moonpay-cash-app-pay-crypto-purchases-us-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Tue, 18 Aug 2026 13:00:00 +0000",
-   "source": "cointelegraph.com"
+   "title": "HSBC and Standard Chartered execute first live transaction on Swift's blockchain-based ledger",
+   "url": "https://www.finextra.com/newsarticle/48270/hsbc-and-standard-chartered-execute-first-live-transaction-on-swifts-blockchain-based-ledger?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 19 Aug 2026 10:06:00 GMT",
+   "source": "finextra.com"
   },
   {
-   "title": "Kraken launches US-listed stock trading for EEA customers",
-   "url": "https://cointelegraph.com/news/kraken-us-stock-trading-eea-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Tue, 18 Aug 2026 10:53:21 +0000",
-   "source": "cointelegraph.com"
-  },
-  {
-   "title": "Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis",
-   "url": "https://cointelegraph.com/markets/bitcoin-price-spike-to-645k-was-low-volume-liquidity-trap-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Tue, 18 Aug 2026 09:31:15 +0000",
-   "source": "cointelegraph.com"
-  },
-  {
-   "title": "China adds 8 banks to digital yuan network as operator count hits 30",
-   "url": "https://cointelegraph.com/news/china-adds-8-banks-to-digital-yuan-network-as-operator-count-hits-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Tue, 18 Aug 2026 08:48:51 +0000",
-   "source": "cointelegraph.com"
-  },
-  {
-   "title": "South Korea moves to block Polymarket over gambling concerns",
-   "url": "https://cointelegraph.com/news/south-korea-block-polymarket-gambling-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Tue, 18 Aug 2026 08:39:57 +0000",
-   "source": "cointelegraph.com"
-  },
-  {
-   "title": "BitBox patches ‘severe’ wallet flaws that could put funds at risk",
-   "url": "https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Tue, 18 Aug 2026 08:07:04 +0000",
-   "source": "cointelegraph.com"
-  },
-  {
-   "title": "Ethereum Foundation warns some tools may break with Glamsterdam upgrade",
-   "url": "https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Tue, 18 Aug 2026 05:12:18 +0000",
-   "source": "cointelegraph.com"
-  },
-  {
-   "title": "South Korea’s Jeonbuk Bank taps Ripple for cross-border payments",
-   "url": "https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Tue, 18 Aug 2026 04:11:02 +0000",
-   "source": "cointelegraph.com"
-  },
-  {
-   "title": "Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation",
-   "url": "https://cointelegraph.com/news/edward-zimbardi-165m-crypto-ponzi-fiji-deportation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Tue, 18 Aug 2026 03:21:26 +0000",
-   "source": "cointelegraph.com"
-  },
-  {
-   "title": "‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express",
-   "url": "https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Tue, 18 Aug 2026 01:28:37 +0000",
-   "source": "cointelegraph.com"
-  },
-  {
-   "title": "OCC approves Trump family crypto company for trust charter",
-   "url": "https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Mon, 17 Aug 2026 21:17:30 +0000",
-   "source": "cointelegraph.com"
-  },
-  {
-   "title": "Binance to plan UK relaunch with FCA license application: Report",
-   "url": "https://cointelegraph.com/news/binance-uk-launch-plans-fca-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Mon, 17 Aug 2026 18:45:00 +0000",
-   "source": "cointelegraph.com"
-  },
-  {
-   "title": "CFTC seeks public input on AI compute futures contracts as CME eyes October launch",
-   "url": "https://cointelegraph.com/news/cftc-ai-compute-futures-cme-october-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Mon, 17 Aug 2026 17:11:39 +0000",
-   "source": "cointelegraph.com"
-  },
-  {
-   "title": "US Treasury moves forward with rules on GENIUS Act after July deadline",
-   "url": "https://cointelegraph.com/news/us-treasury-public-comment-rules-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Mon, 17 Aug 2026 16:29:48 +0000",
-   "source": "cointelegraph.com"
-  },
-  {
-   "title": "Bitcoin hits $64K as gold gains while oil shakes off Trump Oman threat",
-   "url": "https://cointelegraph.com/markets/bitcoin-hits-64k-as-gold-gains-while-oil-shakes-off-trump-oman-threat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Mon, 17 Aug 2026 16:16:40 +0000",
-   "source": "cointelegraph.com"
-  },
-  {
-   "title": "Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses",
-   "url": "https://cointelegraph.com/news/bitmine-ethereum-supply-5-82-million-eth-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Mon, 17 Aug 2026 16:04:32 +0000",
-   "source": "cointelegraph.com"
-  },
-  {
-   "title": "Strategy raises $334M through stock sales but buys no Bitcoin",
-   "url": "https://cointelegraph.com/news/strategy-stock-sales-buys-no-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Mon, 17 Aug 2026 12:51:03 +0000",
-   "source": "cointelegraph.com"
+   "title": "Klarna shares dip on revised guidance",
+   "url": "https://www.finextra.com/newsarticle/48269/klarna-shares-dip-on-revised-guidance?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 19 Aug 2026 09:43:00 GMT",
+   "source": "finextra.com"
   },
   {
    "title": "How investors can find genuine asset class parity with nature-based solutions",
@@ -1080,99 +1104,75 @@
    "source": "finextra.com"
   },
   {
-   "title": "Stripe agrees $7bn takeover of AI firm OpenRouter - Bloomberg",
-   "url": "https://www.finextra.com/newsarticle/48258/stripe-agrees-7bn-takeover-of-ai-firm-openrouter---bloomberg?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 18 Aug 2026 00:01:00 GMT",
+   "title": "Ex-FTX and Alameda execs get trading bans",
+   "url": "https://www.finextra.com/pressarticle/110688/ex-ftx-and-alameda-execs-get-trading-bans?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 19 Aug 2026 20:02:00 GMT",
    "source": "finextra.com"
   },
   {
-   "title": "Synchrony unveils ChatGPT plugin",
-   "url": "https://www.finextra.com/newsarticle/48260/synchrony-unveils-chatgpt-plugin?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 18 Aug 2026 00:01:00 GMT",
+   "title": "Edge expands score suite",
+   "url": "https://www.finextra.com/pressarticle/110687/edge-expands-score-suite?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 19 Aug 2026 19:20:00 GMT",
    "source": "finextra.com"
   },
   {
-   "title": "Monzo chairman Hoffman steps down",
-   "url": "https://www.finextra.com/newsarticle/48259/monzo-chairman-hoffman-steps-down?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Mon, 17 Aug 2026 16:54:00 GMT",
+   "title": "Modulr becomes Chaps direct participant",
+   "url": "https://www.finextra.com/pressarticle/110686/modulr-becomes-chaps-direct-participant?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 19 Aug 2026 18:46:00 GMT",
    "source": "finextra.com"
   },
   {
-   "title": "Trump-linked World Liberty Financial gets conditional bank charter approval",
-   "url": "https://www.finextra.com/newsarticle/48257/trump-linked-world-liberty-financial-gets-conditional-bank-charter-approval?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Mon, 17 Aug 2026 14:29:00 GMT",
+   "title": "CommunityWide FCU embeds digital investing with InvestiFi",
+   "url": "https://www.finextra.com/pressarticle/110685/communitywide-fcu-embeds-digital-investing-with-investifi?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 19 Aug 2026 18:42:00 GMT",
    "source": "finextra.com"
   },
   {
-   "title": "Crypto firm MoonPay adds CashApp Pay as payment method",
-   "url": "https://www.finextra.com/pressarticle/110674/crypto-firm-moonpay-adds-cashapp-pay-as-payment-method?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 18 Aug 2026 20:02:00 GMT",
+   "title": "Navi secures $100 million investment",
+   "url": "https://www.finextra.com/pressarticle/110684/navi-secures-100-million-investment?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 19 Aug 2026 14:30:00 GMT",
    "source": "finextra.com"
   },
   {
-   "title": "PicPay rolls out ChatGPT integration",
-   "url": "https://www.finextra.com/pressarticle/110673/picpay-rolls-out-chatgpt-integration?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 18 Aug 2026 19:58:00 GMT",
+   "title": "Nium launches card issuance in the US",
+   "url": "https://www.finextra.com/pressarticle/110675/nium-launches-card-issuance-in-the-us?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 19 Aug 2026 14:00:00 GMT",
    "source": "finextra.com"
   },
   {
-   "title": "Personetics partners Plaid to bring open finance intel to FIs",
-   "url": "https://www.finextra.com/pressarticle/110672/personetics-partners-plaid-to-bring-open-finance-intel-to-fis?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 18 Aug 2026 19:55:00 GMT",
+   "title": "Eqvista launches app for real-time company valuation",
+   "url": "https://www.finextra.com/pressarticle/110683/eqvista-launches-app-for-real-time-company-valuation?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 19 Aug 2026 12:02:00 GMT",
    "source": "finextra.com"
   },
   {
-   "title": "India's Razorpay launches AI payments foundation model with AWS",
-   "url": "https://www.finextra.com/pressarticle/110671/indias-razorpay-launches-ai-payments-foundation-model-with-aws?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 18 Aug 2026 19:53:00 GMT",
+   "title": "Tokenovate appoints Dr Alec Burns to scale legal-first infrastructure for tokenised capital markets",
+   "url": "https://www.finextra.com/pressarticle/110682/tokenovate-appoints-dr-alec-burns-to-scale-legal-first-infrastructure-for-tokenised-capital-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 19 Aug 2026 11:53:00 GMT",
    "source": "finextra.com"
   },
   {
-   "title": "TMX complete acquisition of Rafi Indices",
-   "url": "https://www.finextra.com/pressarticle/110670/tmx-complete-acquisition-of-rafi-indices?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 18 Aug 2026 15:24:00 GMT",
+   "title": "Nexo wins approval to launch crypto-backed credit in Australia",
+   "url": "https://www.finextra.com/pressarticle/110680/nexo-wins-approval-to-launch-crypto-backed-credit-in-australia?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 19 Aug 2026 09:28:00 GMT",
    "source": "finextra.com"
   },
   {
-   "title": "PPRO partners with Blik to enable agentic commerce for local payments in Poland",
-   "url": "https://www.finextra.com/pressarticle/110669/ppro-partners-with-blik-to-enable-agentic-commerce-for-local-payments-in-poland?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 18 Aug 2026 15:14:00 GMT",
+   "title": "SAP Concur unveils AI assistant for travel and expense sector",
+   "url": "https://www.finextra.com/pressarticle/110679/sap-concur-unveils-ai-assistant-for-travel-and-expense-sector?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 19 Aug 2026 09:24:00 GMT",
    "source": "finextra.com"
   },
   {
-   "title": "Citi introduces Custody+",
-   "url": "https://www.finextra.com/pressarticle/110668/citi-introduces-custody?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 18 Aug 2026 14:15:00 GMT",
+   "title": "JCB and Digital Garage to run a proof of concept (PoC) for in-store payments using stablecoins.",
+   "url": "https://www.finextra.com/pressarticle/110678/jcb-and-digital-garage-to-run-a-proof-of-concept-poc-for-in-store-payments-using-stablecoins?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 19 Aug 2026 09:21:00 GMT",
    "source": "finextra.com"
   },
   {
-   "title": "Trading Technologies expands prediction markets and crypto derivatives access",
-   "url": "https://www.finextra.com/pressarticle/110667/trading-technologies-expands-prediction-markets-and-crypto-derivatives-access?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 18 Aug 2026 13:14:00 GMT",
-   "source": "finextra.com"
-  },
-  {
-   "title": "Financial data startup Quatr raises $18 million",
-   "url": "https://www.finextra.com/pressarticle/110666/financial-data-startup-quatr-raises-18-million?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 18 Aug 2026 11:16:00 GMT",
-   "source": "finextra.com"
-  },
-  {
-   "title": "Confluence adds AI-enabled automation to its product suite",
-   "url": "https://www.finextra.com/pressarticle/110665/confluence-adds-ai-enabled-automation-to-its-product-suite?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 18 Aug 2026 10:06:00 GMT",
-   "source": "finextra.com"
-  },
-  {
-   "title": "Korea's Jeonbuk Bank to deploy Ripple Payments for cross-border remittances",
-   "url": "https://www.finextra.com/pressarticle/110664/koreas-jeonbuk-bank-to-deploy-ripple-payments-for-cross-border-remittances?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 18 Aug 2026 09:25:00 GMT",
-   "source": "finextra.com"
-  },
-  {
-   "title": "Xceptor extends SaaS offering to Switzerland and Japan",
-   "url": "https://www.finextra.com/pressarticle/110663/xceptor-extends-saas-offering-to-switzerland-and-japan?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 18 Aug 2026 09:21:00 GMT",
+   "title": "Eskimo adds stablecoin payments through Triple-A",
+   "url": "https://www.finextra.com/pressarticle/110677/eskimo-adds-stablecoin-payments-through-triple-a?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 19 Aug 2026 09:18:00 GMT",
    "source": "finextra.com"
   },
   {
@@ -1326,94 +1326,112 @@
    "source": "finextra.com"
   },
   {
-   "title": "North America’s Forgotten Corridor: Why Canada-Mexico Trade Needs Modern Payment Rails",
-   "url": "https://www.finextra.com/blogposting/32570/north-americas-forgotten-corridor-why-canada-mexico-trade-needs-modern-payment-rails?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 18 Aug 2026 19:41:51 GMT",
+   "title": "The $1.5Trillion Benchmark: Custom Fintech Software Development Key Module Security and Cost Factors",
+   "url": "https://www.finextra.com/blogposting/32584/the-15trillion-benchmark-custom-fintech-software-development-key-module-security-and-cost-factors?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 19 Aug 2026 17:21:16 GMT",
    "source": "finextra.com"
   },
   {
-   "title": "The ECB’s Climate Factor: how the ECB is embedding Climate Risk into Collateral Management",
-   "url": "https://www.finextra.com/blogposting/32544/the-ecbs-climate-factor-how-the-ecb-is-embedding-climate-risk-into-collateral-management?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 18 Aug 2026 19:23:14 GMT",
+   "title": "Pay by Bank is working. Fragmentation Proves It.",
+   "url": "https://www.finextra.com/blogposting/32583/pay-by-bank-is-working-fragmentation-proves-it?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 19 Aug 2026 16:19:16 GMT",
    "source": "finextra.com"
   },
   {
-   "title": "Industrialized: Why Financial Firms Need Trustworthy AI Assistants Before Automation Scales Further",
-   "url": "https://www.finextra.com/blogposting/32568/industrialized-why-financial-firms-need-trustworthy-ai-assistants-before-automation-scales-further?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 18 Aug 2026 17:04:54 GMT",
+   "title": "Why Europe's subscription economy has become a data problem for banks",
+   "url": "https://www.finextra.com/blogposting/32582/why-europes-subscription-economy-has-become-a-data-problem-for-banks?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 19 Aug 2026 15:53:35 GMT",
    "source": "finextra.com"
   },
   {
-   "title": "Point-in-Time Trust Has an Expiration Date",
-   "url": "https://www.finextra.com/blogposting/32569/point-in-time-trust-has-an-expiration-date?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 18 Aug 2026 16:51:40 GMT",
+   "title": "How mCBDCs and DLT Transform Global Settlement",
+   "url": "https://www.finextra.com/blogposting/32581/how-mcbdcs-and-dlt-transform-global-settlement?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 19 Aug 2026 13:27:57 GMT",
    "source": "finextra.com"
   },
   {
-   "title": "Tokenized Money Changes the Bank's Operating Clock",
-   "url": "https://www.finextra.com/blogposting/32567/tokenized-money-changes-the-banks-operating-clock?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 18 Aug 2026 15:50:41 GMT",
+   "title": "Why Crypto Consumer Marketing Needs to Stop Talking to Itself",
+   "url": "https://www.finextra.com/blogposting/32580/why-crypto-consumer-marketing-needs-to-stop-talking-to-itself?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 19 Aug 2026 11:33:24 GMT",
    "source": "finextra.com"
   },
   {
-   "title": "Credit Card Delinquencies Edge Up to 2.5% Across Top Banks",
-   "url": "https://www.pymnts.com/credit-cards/2026/credit-card-delinquencies-edge-up-to-2-5-across-top-banks/",
-   "pubDate": "Wed, 19 Aug 2026 01:41:45 +0000",
+   "title": "OCC Promises Final Rule for GENIUS Act by November",
+   "url": "https://www.pymnts.com/legal/2026/occ-promises-final-rule-for-genius-act-by-november/",
+   "pubDate": "Wed, 19 Aug 2026 23:46:06 +0000",
    "source": "pymnts.com"
   },
   {
-   "title": "SEC Proposes Rules to Streamline Capital Formation for Digital Asset Entrepreneurs",
-   "url": "https://www.pymnts.com/cryptocurrency/2026/sec-proposes-rules-to-streamline-capital-formation-for-digital-asset-entrepreneurs/",
-   "pubDate": "Wed, 19 Aug 2026 00:47:37 +0000",
+   "title": "Nvidia Weighs Investment in Round Valuing Mercor at $20 Billion",
+   "url": "https://www.pymnts.com/news/investment-tracker/2026/nvidia-weighs-investment-in-round-valuing-mercor-at-20-billion/",
+   "pubDate": "Wed, 19 Aug 2026 23:30:18 +0000",
    "source": "pymnts.com"
   },
   {
-   "title": "Anthropic Beats OpenAI in Revenue for First Time",
-   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-beats-openai-in-revenue-for-first-time/",
-   "pubDate": "Wed, 19 Aug 2026 00:30:40 +0000",
+   "title": "Hyundai Cuts Crash Test Review Time by 90% With AI",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/hyundai-cuts-crash-test-review-time-90percent-ai/",
+   "pubDate": "Wed, 19 Aug 2026 23:04:20 +0000",
    "source": "pymnts.com"
   },
   {
-   "title": "PointsKash Secures Capital Commitment After Beginning Rollout of Crypto ATMs",
-   "url": "https://www.pymnts.com/news/investment-tracker/2026/pointskash-secures-capital-commitment-after-beginning-rollout-of-crypto-atms/",
-   "pubDate": "Tue, 18 Aug 2026 23:33:30 +0000",
+   "title": "OpenAI CFO Tells Employees Public Debut Coming by 2027",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-cfo-tells-employees-public-debut-coming-by-2027/",
+   "pubDate": "Wed, 19 Aug 2026 22:45:05 +0000",
    "source": "pymnts.com"
   },
   {
-   "title": "Brands Are Losing Shelf Space to AI Algorithms",
-   "url": "https://www.pymnts.com/news/retail/2026/brands-are-losing-shelf-space-to-ai-algorithms/",
-   "pubDate": "Tue, 18 Aug 2026 22:38:18 +0000",
+   "title": "Carvana Shares Rebound as Mark Walter Selloff Fears Ease",
+   "url": "https://www.pymnts.com/commerce/ecommerce/2026/carvana-shares-rebound-as-mark-walter-selloff-fears-ease/",
+   "pubDate": "Wed, 19 Aug 2026 22:09:39 +0000",
    "source": "pymnts.com"
   },
   {
-   "title": "TikTok App Code Suggests Exploration of Peer-to-Peer Payment Feature",
-   "url": "https://www.pymnts.com/digital-payments/2026/tiktok-app-code-suggests-exploration-of-peer-to-peer-payment-feature/",
-   "pubDate": "Tue, 18 Aug 2026 22:29:32 +0000",
+   "title": "Reusable FinTech Certification Could Streamline Bank Due Diligence",
+   "url": "https://www.pymnts.com/legal/bank-regulation/2026/reusable-fintech-certification-could-streamline-bank-due-diligence/",
+   "pubDate": "Wed, 19 Aug 2026 21:18:53 +0000",
    "source": "pymnts.com"
   },
   {
-   "title": "FBI Plans $88M AI Infrastructure Investment",
-   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/fbi-plans-88m-ai-infrastructure-investment/",
-   "pubDate": "Tue, 18 Aug 2026 21:58:16 +0000",
+   "title": "Home Depot and Lowe’s Battle Over the Housing Market’s Maintenance Economy",
+   "url": "https://www.pymnts.com/earnings/2026/home-depot-and-lowes-battle-over-the-housing-markets-maintenance-economy/",
+   "pubDate": "Wed, 19 Aug 2026 20:47:47 +0000",
    "source": "pymnts.com"
   },
   {
-   "title": "Currency Just Became Treasury’s Newest Superpower",
-   "url": "https://www.pymnts.com/news/cross-border-payments/2026/currency-just-became-treasury-newest-superpower/",
-   "pubDate": "Tue, 18 Aug 2026 21:06:26 +0000",
+   "title": "CFTC Prepares to Draft Rules for Trading Compute Derivatives Contracts",
+   "url": "https://www.pymnts.com/legal/2026/cftc-prepares-to-draft-rules-for-trading-compute-derivatives-contracts/",
+   "pubDate": "Wed, 19 Aug 2026 20:33:19 +0000",
    "source": "pymnts.com"
   },
   {
-   "title": "Kraken Brings Multi-Asset Debit Card to US Market",
-   "url": "https://www.pymnts.com/cryptocurrency/2026/kraken-brings-multi-asset-debit-card-to-us-market/",
-   "pubDate": "Tue, 18 Aug 2026 20:51:22 +0000",
+   "title": "OpenAI Halts Frontier AI Training After Cybersecurity Alarm",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-slams-the-brakes-as-meta-floors-the-gas/",
+   "pubDate": "Wed, 19 Aug 2026 19:59:25 +0000",
    "source": "pymnts.com"
   },
   {
-   "title": "eCommerce Takes 17.1% of Retail Sales as Online Growth Accelerates",
-   "url": "https://www.pymnts.com/commerce/ecommerce/2026/ecommerce-takes-17-1percent-of-retail-sales-as-online-growth-accelerates/",
-   "pubDate": "Tue, 18 Aug 2026 20:03:34 +0000",
+   "title": "Rain CEO Says Merchants Receive Stablecoin Payments Without Knowing It",
+   "url": "https://www.pymnts.com/blockchain/2026/rain-ceo-says-merchants-receive-stablecoin-payments-without-knowing-it/",
+   "pubDate": "Wed, 19 Aug 2026 19:54:06 +0000",
    "source": "pymnts.com"
+  },
+  {
+   "title": "Stripe, OpenRouter finally strike a deal",
+   "url": "https://www.paymentsdive.com/news/stripe-openrouter-finally-strike-a-deal/828326/",
+   "pubDate": "Wed, 19 Aug 2026 15:50:00 -0400",
+   "source": "paymentsdive.com"
+  },
+  {
+   "title": "Weave scooped up for $650M",
+   "url": "https://www.paymentsdive.com/news/weave-scooped-up-for-650m/828260/",
+   "pubDate": "Wed, 19 Aug 2026 10:30:00 -0400",
+   "source": "paymentsdive.com"
+  },
+  {
+   "title": "Stripe acquisition may bolster its AI strategy",
+   "url": "https://www.paymentsdive.com/news/stripe-openrouter-acquisition-may-bolster-its-ai-strategy/828216/",
+   "pubDate": "Wed, 19 Aug 2026 09:37:00 -0400",
+   "source": "paymentsdive.com"
   },
   {
    "title": "Doxo to pay $2.1M settlement",
@@ -1458,22 +1476,10 @@
    "source": "paymentsdive.com"
   },
   {
-   "title": "Cash lags credit, debit payments",
-   "url": "https://www.paymentsdive.com/news/cash-lags-credit-debit-payments-consumer-spending-federal-reserve/827751/",
-   "pubDate": "Thu, 13 Aug 2026 07:29:31 -0400",
-   "source": "paymentsdive.com"
-  },
-  {
-   "title": "Fiserv seeks investor lawsuit dismissal",
-   "url": "https://www.paymentsdive.com/news/fiserv-seeks-investor-lawsuit-dismissal-shareholders-litigation/827673/",
-   "pubDate": "Wed, 12 Aug 2026 10:12:33 -0400",
-   "source": "paymentsdive.com"
-  },
-  {
-   "title": "States lean in on payments plays",
-   "url": "https://www.paymentsdive.com/news/states-lean-into-payments-oversight-earned-wage-access-bnpl-regulation/827633/",
-   "pubDate": "Wed, 12 Aug 2026 09:00:00 -0400",
-   "source": "paymentsdive.com"
+   "title": "Sachin Bansal’s fintech Navi raises first outside capital with $100M Prosus investment",
+   "url": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
+   "pubDate": "Wed, 19 Aug 2026 15:01:41 +0000",
+   "source": "techcrunch.com"
   },
   {
    "title": "Talks to sell PayPal to Stripe and Advent are heating up",
@@ -1590,10 +1596,10 @@
    "source": "techcrunch.com"
   },
   {
-   "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
-   "url": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
-   "pubDate": "Fri, 29 May 2026 14:15:00 +0000",
-   "source": "techcrunch.com"
+   "title": "Embedded Finance: Banks’ New Growth Channel",
+   "url": "https://www.paymentsjournal.com/embedded-finance-banks-new-growth-channel/",
+   "pubDate": "Wed, 19 Aug 2026 13:00:00 +0000",
+   "source": "paymentsjournal.com"
   },
   {
    "title": "Synchrony Brings OpenAI into Customer Experience, Agentic Commerce",
@@ -7590,10 +7596,34 @@
    "source": "paymentsjournal.com"
   },
   {
-   "title": "UPI Is Expanding the Instant Payments Use Case to Big-Ticket Items",
-   "url": "https://www.paymentsjournal.com/upi-is-expanding-the-instant-payments-use-case-to-big-ticket-items/",
-   "pubDate": "Thu, 10 Apr 2025 18:30:00 +0000",
-   "source": "paymentsjournal.com"
+   "title": "Webinar: When Account Takeover Moves Past Onboarding",
+   "url": "https://fintechnews.sg/136001/videos/webinar-when-account-takeover-moves-past-onboarding/",
+   "pubDate": "Wed, 19 Aug 2026 10:45:04 +0000",
+   "source": "fintechnews.sg"
+  },
+  {
+   "title": "Vietnamese Users Can Make QR Payments With MoMo in Over 60 Markets",
+   "url": "https://fintechnews.sg/136000/vietnam/momo-qr-payments/",
+   "pubDate": "Wed, 19 Aug 2026 10:17:50 +0000",
+   "source": "fintechnews.sg"
+  },
+  {
+   "title": "TikTok Pay Could Move Beyond Shopping With Money Transfers Through DMs",
+   "url": "https://fintechnews.sg/135988/payments/tiktok-money-transfers/",
+   "pubDate": "Wed, 19 Aug 2026 09:53:05 +0000",
+   "source": "fintechnews.sg"
+  },
+  {
+   "title": "Sri Lanka’s Economic Rebound Offers Opportunities to Boost Fintech",
+   "url": "https://fintechnews.sg/135825/sri-lanka/sri-lankas-economic-rebound-offers-opportunities-to-boost-fintech/",
+   "pubDate": "Wed, 19 Aug 2026 09:04:33 +0000",
+   "source": "fintechnews.sg"
+  },
+  {
+   "title": "Singapore Targets Fund Managers With Tax Exemption, Talent Measures",
+   "url": "https://fintechnews.sg/135981/wealthtech/singapore-hedge-funds/",
+   "pubDate": "Wed, 19 Aug 2026 06:34:56 +0000",
+   "source": "fintechnews.sg"
   },
   {
    "title": "WhatsApp, Facebook and TikTok Face Tougher Anti-Scam Rules in Singapore",
@@ -7626,94 +7656,76 @@
    "source": "fintechnews.sg"
   },
   {
-   "title": "Laos Opens New Chapter in Digital Lending as Umoney Enters Regulatory Sandbox",
-   "url": "https://fintechnews.sg/135897/laos/laos-digital-lending/",
-   "pubDate": "Tue, 18 Aug 2026 02:00:06 +0000",
-   "source": "fintechnews.sg"
-  },
-  {
-   "title": "Revolut’s Ultra To Debut in Singapore as The Priciest Debit Card at S$899 Annually",
-   "url": "https://fintechnews.sg/135904/payments/revolut-ultra-debit-card-s899-singapore-launch/",
-   "pubDate": "Mon, 17 Aug 2026 10:10:26 +0000",
-   "source": "fintechnews.sg"
-  },
-  {
-   "title": "EBANX Makes 16 Leadership Appointments Amid 48% Payment Growth",
-   "url": "https://fintechnews.sg/135887/payments/ebanx-leadership/",
-   "pubDate": "Mon, 17 Aug 2026 08:47:06 +0000",
-   "source": "fintechnews.sg"
-  },
-  {
-   "title": "Thunes Adds 24/7 Funding With Euro-Backed Stablecoin EURC",
-   "url": "https://fintechnews.sg/135879/digitalassets/thunes-eurc/",
-   "pubDate": "Mon, 17 Aug 2026 05:01:21 +0000",
-   "source": "fintechnews.sg"
-  },
-  {
-   "title": "GXS Bank Launches Cashback Credit Card With Grab, Singtel Rewards",
-   "url": "https://fintechnews.sg/135870/digital-banking-news-singapore/gxs-credit-card/",
-   "pubDate": "Mon, 17 Aug 2026 03:27:08 +0000",
-   "source": "fintechnews.sg"
-  },
-  {
-   "title": "Why orchestration, not AI alone, will define the future of finance",
-   "url": "https://fintech.global/2026/08/18/why-orchestration-not-ai-alone-will-define-the-future-of-finance/?utm_source=rss&utm_medium=rss&utm_campaign=why-orchestration-not-ai-alone-will-define-the-future-of-finance",
-   "pubDate": "Tue, 18 Aug 2026 17:01:05 +0000",
+   "title": "Beyond AI pilots: How ForwardLane is helping financial firms scale agentic AI",
+   "url": "https://fintech.global/2026/08/19/beyond-ai-pilots-how-forwardlane-is-helping-financial-firms-scale-agentic-ai/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-ai-pilots-how-forwardlane-is-helping-financial-firms-scale-agentic-ai",
+   "pubDate": "Wed, 19 Aug 2026 16:26:48 +0000",
    "source": "fintech.global"
   },
   {
-   "title": "E-invoicing compliance gets harder, Tieto offers a fix",
-   "url": "https://fintech.global/2026/08/18/e-invoicing-compliance-gets-harder-tieto-offers-a-fix/?utm_source=rss&utm_medium=rss&utm_campaign=e-invoicing-compliance-gets-harder-tieto-offers-a-fix",
-   "pubDate": "Tue, 18 Aug 2026 15:38:03 +0000",
+   "title": "Why CPF lifecycle models risk getting age 55 wrong",
+   "url": "https://fintech.global/2026/08/19/why-cpf-lifecycle-models-risk-getting-age-55-wrong/?utm_source=rss&utm_medium=rss&utm_campaign=why-cpf-lifecycle-models-risk-getting-age-55-wrong",
+   "pubDate": "Wed, 19 Aug 2026 16:23:23 +0000",
    "source": "fintech.global"
   },
   {
-   "title": "Accelerant to go private in $4bn Thoma Bravo deal",
-   "url": "https://fintech.global/2026/08/18/accelerant-to-go-private-in-4bn-thoma-bravo-deal/?utm_source=rss&utm_medium=rss&utm_campaign=accelerant-to-go-private-in-4bn-thoma-bravo-deal",
-   "pubDate": "Tue, 18 Aug 2026 15:28:11 +0000",
+   "title": "Exante’s app redesign puts control back in investors’ hands",
+   "url": "https://fintech.global/2026/08/19/exantes-app-redesign-puts-control-back-in-investors-hands/?utm_source=rss&utm_medium=rss&utm_campaign=exantes-app-redesign-puts-control-back-in-investors-hands",
+   "pubDate": "Wed, 19 Aug 2026 16:16:17 +0000",
    "source": "fintech.global"
   },
   {
-   "title": "Ripple brings real-time payments to Korea’s banks",
-   "url": "https://fintech.global/2026/08/18/ripple-brings-real-time-payments-to-koreas-banks/?utm_source=rss&utm_medium=rss&utm_campaign=ripple-brings-real-time-payments-to-koreas-banks",
-   "pubDate": "Tue, 18 Aug 2026 15:22:50 +0000",
+   "title": "Bolt debuts industry-first AI insurance platform",
+   "url": "https://fintech.global/2026/08/19/bolt-debuts-industry-first-ai-insurance-platform/?utm_source=rss&utm_medium=rss&utm_campaign=bolt-debuts-industry-first-ai-insurance-platform",
+   "pubDate": "Wed, 19 Aug 2026 15:40:09 +0000",
    "source": "fintech.global"
   },
   {
-   "title": "Applied launches agentic email-to-quote channel",
-   "url": "https://fintech.global/2026/08/18/applied-launches-agentic-email-to-quote-channel/?utm_source=rss&utm_medium=rss&utm_campaign=applied-launches-agentic-email-to-quote-channel",
-   "pubDate": "Tue, 18 Aug 2026 15:03:20 +0000",
+   "title": "AdvisorFinder launches AI visibility tool for advisors",
+   "url": "https://fintech.global/2026/08/19/advisorfinder-launches-ai-visibility-tool-for-advisors/?utm_source=rss&utm_medium=rss&utm_campaign=advisorfinder-launches-ai-visibility-tool-for-advisors",
+   "pubDate": "Wed, 19 Aug 2026 14:56:37 +0000",
    "source": "fintech.global"
   },
   {
-   "title": "Clearhaven makes strategic investment in PayQuicker",
-   "url": "https://fintech.global/2026/08/18/clearhaven-makes-strategic-investment-in-payquicker/?utm_source=rss&utm_medium=rss&utm_campaign=clearhaven-makes-strategic-investment-in-payquicker",
-   "pubDate": "Tue, 18 Aug 2026 14:54:10 +0000",
+   "title": "Bloomberg extends ASKB AI assistant to mobile devices",
+   "url": "https://fintech.global/2026/08/19/bloomberg-extends-askb-ai-assistant-to-mobile-devices/?utm_source=rss&utm_medium=rss&utm_campaign=bloomberg-extends-askb-ai-assistant-to-mobile-devices",
+   "pubDate": "Wed, 19 Aug 2026 14:50:05 +0000",
    "source": "fintech.global"
   },
   {
-   "title": "UATP taps dLocal to boost emerging market payments",
-   "url": "https://fintech.global/2026/08/18/uatp-taps-dlocal-to-boost-emerging-market-payments/?utm_source=rss&utm_medium=rss&utm_campaign=uatp-taps-dlocal-to-boost-emerging-market-payments",
-   "pubDate": "Tue, 18 Aug 2026 14:45:03 +0000",
+   "title": "Snoop launches Future You savings visualisation tool",
+   "url": "https://fintech.global/2026/08/19/snoop-launches-future-you-savings-visualisation-tool/?utm_source=rss&utm_medium=rss&utm_campaign=snoop-launches-future-you-savings-visualisation-tool",
+   "pubDate": "Wed, 19 Aug 2026 14:39:59 +0000",
    "source": "fintech.global"
   },
   {
-   "title": "Kita secures strategic backing from Tokio Marine Group",
-   "url": "https://fintech.global/2026/08/18/kita-secures-strategic-backing-from-tokio-marine-group/?utm_source=rss&utm_medium=rss&utm_campaign=kita-secures-strategic-backing-from-tokio-marine-group",
-   "pubDate": "Tue, 18 Aug 2026 14:27:29 +0000",
+   "title": "Clearco lands $100m facility from Macquarie Group",
+   "url": "https://fintech.global/2026/08/19/clearco-lands-100m-facility-from-macquarie-group/?utm_source=rss&utm_medium=rss&utm_campaign=clearco-lands-100m-facility-from-macquarie-group",
+   "pubDate": "Wed, 19 Aug 2026 14:18:57 +0000",
    "source": "fintech.global"
   },
   {
-   "title": "Siebert boosts FusionIQ investment in transformation deal",
-   "url": "https://fintech.global/2026/08/18/siebert-boosts-fusioniq-investment-in-transformation-deal/?utm_source=rss&utm_medium=rss&utm_campaign=siebert-boosts-fusioniq-investment-in-transformation-deal",
-   "pubDate": "Tue, 18 Aug 2026 14:15:07 +0000",
+   "title": "From compliance by control to compliance by design",
+   "url": "https://fintech.global/2026/08/19/from-compliance-by-control-to-compliance-by-design/?utm_source=rss&utm_medium=rss&utm_campaign=from-compliance-by-control-to-compliance-by-design",
+   "pubDate": "Wed, 19 Aug 2026 14:05:01 +0000",
    "source": "fintech.global"
   },
   {
-   "title": "VastAdvisor closes $1m SAFE round for growth",
-   "url": "https://fintech.global/2026/08/18/vastadvisor-closes-1m-safe-round-for-growth/?utm_source=rss&utm_medium=rss&utm_campaign=vastadvisor-closes-1m-safe-round-for-growth",
-   "pubDate": "Tue, 18 Aug 2026 13:52:21 +0000",
+   "title": "Boom bags $15m Series A, unveils BoomCRM",
+   "url": "https://fintech.global/2026/08/19/boom-bags-15m-series-a-unveils-boomcrm/?utm_source=rss&utm_medium=rss&utm_campaign=boom-bags-15m-series-a-unveils-boomcrm",
+   "pubDate": "Wed, 19 Aug 2026 14:00:52 +0000",
    "source": "fintech.global"
+  },
+  {
+   "title": "MoonPay Acquires Glide in Sixth Deal of 2026 to Bolster Deposits",
+   "url": "https://thefintechtimes.com/moonpay-acquires-glide-in-sixth-deal-of-2026-to-bolster-deposits/",
+   "pubDate": "Wed, 19 Aug 2026 18:00:32 +0000",
+   "source": "thefintechtimes.com"
+  },
+  {
+   "title": "The Private Equity Crunch Reshaping Fintech",
+   "url": "https://thefintechtimes.com/the-private-equity-crunch-reshaping-fintech/",
+   "pubDate": "Wed, 19 Aug 2026 13:00:31 +0000",
+   "source": "thefintechtimes.com"
   },
   {
    "title": "Türkiye: Fintech Grows Up in an Economy That Rarely Stands Still",
@@ -7764,16 +7776,10 @@
    "source": "thefintechtimes.com"
   },
   {
-   "title": "Togo: From Motorcycle Taxis to a Digital Financial Economy",
-   "url": "https://thefintechtimes.com/togo-from-motorcycle-taxis-to-a-digital-financial-economy/",
-   "pubDate": "Mon, 17 Aug 2026 07:00:59 +0000",
-   "source": "thefintechtimes.com"
-  },
-  {
-   "title": "Why Predictive Finance Is the Future of Wealth Management",
-   "url": "https://thefintechtimes.com/why-predictive-finance-is-the-future-of-wealth-management/",
-   "pubDate": "Mon, 17 Aug 2026 05:00:31 +0000",
-   "source": "thefintechtimes.com"
+   "title": "Reports: Non-banks are winning business banking; AI in Index in Banks - LATAM; The next era of commerce will be won on payments intelligence",
+   "url": "https://www.fintechwrapup.com/p/reports-non-banks-are-winning-business",
+   "pubDate": "Wed, 19 Aug 2026 08:08:30 GMT",
+   "source": "fintechwrapup.com"
   },
   {
    "title": "Deep Dive: The US Expense/Spend Management Companies Directory",
@@ -7887,12 +7893,6 @@
    "title": "Deep Dive: Open USD vs Tether and Circle, and Bank Tokenized Deposits",
    "url": "https://www.fintechwrapup.com/p/deep-dive-open-usd-vs-the-tether",
    "pubDate": "Sun, 05 Jul 2026 08:07:58 GMT",
-   "source": "fintechwrapup.com"
-  },
-  {
-   "title": "The stablecoin neobank challenging Revolut - Raagulan Pathy (CEO, KAST)",
-   "url": "https://www.fintechwrapup.com/p/the-stablecoin-neobank-challenging",
-   "pubDate": "Fri, 03 Jul 2026 08:00:53 GMT",
    "source": "fintechwrapup.com"
   }
  ]
