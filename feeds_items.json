@@ -1,10 +1,34 @@
 {
- "fetched_at": "2026-08-22T22:56:14.946823+00:00",
+ "fetched_at": "2026-08-23T22:55:29.050027+00:00",
  "count": 1315,
  "errors": [
   "insights4vc.substack.com: HTTP Error 403: Forbidden"
  ],
  "items": [
+  {
+   "title": "Regulation Crypto is here: State of Crypto",
+   "url": "https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto",
+   "pubDate": "Sun, 23 Aug 2026 18:30:00 +0000",
+   "source": "coindesk.com"
+  },
+  {
+   "title": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
+   "url": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
+   "pubDate": "Sun, 23 Aug 2026 15:52:21 +0000",
+   "source": "coindesk.com"
+  },
+  {
+   "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
+   "url": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
+   "pubDate": "Sun, 23 Aug 2026 15:00:00 +0000",
+   "source": "coindesk.com"
+  },
+  {
+   "title": "Crypto’s next billion users might be AI agents, and they’re paying with stablecoins",
+   "url": "https://www.coindesk.com/business/2026/08/23/crypto-s-next-billion-users-might-be-ai-agents-and-they-re-paying-with-stablecoins",
+   "pubDate": "Sun, 23 Aug 2026 13:00:00 +0000",
+   "source": "coindesk.com"
+  },
   {
    "title": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
    "url": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
@@ -132,28 +156,16 @@
    "source": "coindesk.com"
   },
   {
-   "title": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
-   "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out",
-   "pubDate": "Fri, 21 Aug 2026 04:56:30 +0000",
-   "source": "coindesk.com"
+   "title": "DeFi lending protocol Term Finance loses an estimated $8.5 million to governance exploit",
+   "url": "https://www.theblock.co/news/defi/2026-08-23-defi-lending-protocol-term-finance-loses-an-estimated-8-5-million-to-governance-exploit-412543",
+   "pubDate": "Sun, 23 Aug 2026 20:50:45 +0000",
+   "source": "theblock.co"
   },
   {
-   "title": "Bitcoin pushes past $75,000 as rally continues.",
-   "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-pushes-past-usd75-000-as-rally-continues",
-   "pubDate": "Fri, 21 Aug 2026 01:55:50 +0000",
-   "source": "coindesk.com"
-  },
-  {
-   "title": "A $2 million bet on XRP volatility crosses the tape as prices surge",
-   "url": "https://www.coindesk.com/markets/2026/08/21/a-usd2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge",
-   "pubDate": "Fri, 21 Aug 2026 01:51:56 +0000",
-   "source": "coindesk.com"
-  },
-  {
-   "title": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
-   "url": "https://www.coindesk.com/policy/2026/08/20/u-s-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-fails",
-   "pubDate": "Thu, 20 Aug 2026 18:54:18 +0000",
-   "source": "coindesk.com"
+   "title": "Tether’s $120 million Uruguay bitcoin mining project collapsed over a power contract dispute: Reuters",
+   "url": "https://www.theblock.co/news/business/2026-08-23-tethers-120-million-uruguay-bitcoin-mining-project-collapsed-over-a-power-contract-dispute-reuters-412536",
+   "pubDate": "Sun, 23 Aug 2026 17:02:20 +0000",
+   "source": "theblock.co"
   },
   {
    "title": "Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume",
@@ -258,16 +270,10 @@
    "source": "theblock.co"
   },
   {
-   "title": "Kraken parent Payward explores becoming a ‘full bank’ outside the US",
-   "url": "https://www.theblock.co/news/business/2026-08-20-kraken-parent-payward-explores-becoming-a-full-bank-outside-us-412390",
-   "pubDate": "Thu, 20 Aug 2026 20:41:44 +0000",
-   "source": "theblock.co"
-  },
-  {
-   "title": "Ondo executive says tokenization is following the same path as early ETFs",
-   "url": "https://www.theblock.co/news/business/2026-08-20-ondo-executive-says-tokenization-following-same-path-as-early-etfs-412346",
-   "pubDate": "Thu, 20 Aug 2026 17:53:38 +0000",
-   "source": "theblock.co"
+   "title": "BitMart Rethinks Shutdown of Its Crypto Exchange",
+   "url": "https://www.pymnts.com/cryptocurrency/2026/bitmart-rethinks-shutdown-of-its-crypto-exchange/",
+   "pubDate": "Sun, 23 Aug 2026 22:54:53 +0000",
+   "source": "pymnts.com"
   },
   {
    "title": "This Week in Stablecoins: Crypto That Never Touches the Customer",
@@ -324,16 +330,22 @@
    "source": "pymnts.com"
   },
   {
-   "title": "CoinDesk: Visa Seeks New Stablecoin Partner After Mastercard Buys BVNK",
-   "url": "https://www.pymnts.com/cryptocurrency/2026/visa-seeks-new-stablecoin-partner-following-mastercard-bvnk-deal/",
-   "pubDate": "Tue, 18 Aug 2026 14:34:37 +0000",
-   "source": "pymnts.com"
-  },
-  {
    "title": "HSBC, Standard Chartered  make first live tokenized deposit tranfer via Swift blockchain",
    "url": "https://www.ledgerinsights.com/hsbc-standard-chartered-make-first-live-tokenized-deposit-tranfer-via-swift-blockchain/",
    "pubDate": "Wed, 19 Aug 2026 09:33:16 +0000",
    "source": "ledgerinsights.com"
+  },
+  {
+   "title": "63% of Religious Books on Amazon Are Likely AI-Written, Study Finds",
+   "url": "https://decrypt.co/376295/religious-books-amazon-ai-written-study",
+   "pubDate": "Sun, 23 Aug 2026 16:31:04 +0000",
+   "source": "decrypt.co"
+  },
+  {
+   "title": "Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says",
+   "url": "https://decrypt.co/376265/robot-brains-chatgpt-moment-ace-robotics",
+   "pubDate": "Sun, 23 Aug 2026 14:31:04 +0000",
+   "source": "decrypt.co"
   },
   {
    "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
@@ -537,18 +549,6 @@
    "title": "Moderna Stock Doubles on Cancer Breakthrough: Here’s What It Means",
    "url": "https://decrypt.co/375968/moderna-stock-doubles-cancer-vaccine",
    "pubDate": "Wed, 19 Aug 2026 16:54:46 +0000",
-   "source": "decrypt.co"
-  },
-  {
-   "title": "Coinbase's Base Is Betting Big on AI Agents With $1 Million Startup Accelerator",
-   "url": "https://decrypt.co/375952/coinbase-base-ai-agents-startup-accelerator",
-   "pubDate": "Wed, 19 Aug 2026 16:31:04 +0000",
-   "source": "decrypt.co"
-  },
-  {
-   "title": "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour",
-   "url": "https://decrypt.co/375955/bitcoin-surges-70k-billion-crypto-shorts-rekt-hour",
-   "pubDate": "Wed, 19 Aug 2026 16:10:04 +0000",
    "source": "decrypt.co"
   },
   {
@@ -852,6 +852,12 @@
    "source": "blockworks.com"
   },
   {
+   "title": "Fed study finds crypto investors driven by beliefs, easily swayed by returns",
+   "url": "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Sun, 23 Aug 2026 15:30:53 +0000",
+   "source": "cointelegraph.com"
+  },
+  {
    "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
    "url": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "pubDate": "Sat, 22 Aug 2026 13:30:00 +0000",
@@ -1023,12 +1029,6 @@
    "title": "Bitdeer signs $400M AI cloud computing deal for Malaysia facility",
    "url": "https://cointelegraph.com/news/bitdeer-signs-400m-ai-computing-deal-malaysia-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "pubDate": "Thu, 20 Aug 2026 13:18:02 +0000",
-   "source": "cointelegraph.com"
-  },
-  {
-   "title": "Cybersecurity firm unveils crypto phishing campaign targeting 885,000 phone numbers",
-   "url": "https://cointelegraph.com/news/cybersecurity-unveils-crypto-phishing-885000-phone-numbers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Thu, 20 Aug 2026 12:35:32 +0000",
    "source": "cointelegraph.com"
   },
   {
@@ -1356,6 +1356,24 @@
    "source": "finextra.com"
   },
   {
+   "title": "BitMart Rethinks Shutdown of Its Crypto Exchange",
+   "url": "https://www.pymnts.com/cryptocurrency/2026/bitmart-rethinks-shutdown-of-its-crypto-exchange/",
+   "pubDate": "Sun, 23 Aug 2026 22:54:53 +0000",
+   "source": "pymnts.com"
+  },
+  {
+   "title": "Apollo Economist Says AI Affecting Wages More Than Employment",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/apollo-economist-says-ai-affecting-wages-more-than-employment/",
+   "pubDate": "Sun, 23 Aug 2026 22:27:13 +0000",
+   "source": "pymnts.com"
+  },
+  {
+   "title": "Anthropic Customers Switch to Cheaper Models Ahead of IPO",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-customers-switch-to-cheaper-models-ahead-of-ipo/",
+   "pubDate": "Sun, 23 Aug 2026 22:06:55 +0000",
+   "source": "pymnts.com"
+  },
+  {
    "title": "Your AI Notetaker Would Like a Word",
    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/your-ai-notetaker-would-like-a-word/",
    "pubDate": "Sat, 22 Aug 2026 08:00:28 +0000",
@@ -1395,24 +1413,6 @@
    "title": "Apollo Global Management Hit by Social Engineering Attack and Data Breach",
    "url": "https://www.pymnts.com/cybersecurity/2026/apollo-global-management-social-engineering-attack-data-breach/",
    "pubDate": "Fri, 21 Aug 2026 21:55:52 +0000",
-   "source": "pymnts.com"
-  },
-  {
-   "title": "Card Processors Add New Rails as Customers Go Global",
-   "url": "https://www.pymnts.com/news/payment-methods/2026/card-processors-add-new-rails-customers-go-global/",
-   "pubDate": "Fri, 21 Aug 2026 21:15:14 +0000",
-   "source": "pymnts.com"
-  },
-  {
-   "title": "AI Is Opening New Revenue Streams for Automakers",
-   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-is-opening-new-revenue-streams-for-automakers/",
-   "pubDate": "Fri, 21 Aug 2026 20:18:05 +0000",
-   "source": "pymnts.com"
-  },
-  {
-   "title": "Former JPMorgan COO Matt Zames to Advise Social Security Administration on Modernization",
-   "url": "https://www.pymnts.com/personnel/2026/former-jpmorgan-coo-matt-zames-to-advise-social-security-administration-on-modernization/",
-   "pubDate": "Fri, 21 Aug 2026 20:12:24 +0000",
    "source": "pymnts.com"
   },
   {
@@ -7716,6 +7716,24 @@
    "source": "fintech.global"
   },
   {
+   "title": "London Stock Exchange to Launch 24/5 Venue LSE 24 in 2027",
+   "url": "https://thefintechtimes.com/london-stock-exchange-to-launch-24-5-venue-lse-24-in-2027/",
+   "pubDate": "Sun, 23 Aug 2026 13:00:36 +0000",
+   "source": "thefintechtimes.com"
+  },
+  {
+   "title": "United Arab Emirates: Fintech Is Part of the Economic Model",
+   "url": "https://thefintechtimes.com/united-arab-emirates-fintech-is-part-of-the-economic-model/",
+   "pubDate": "Sun, 23 Aug 2026 05:00:06 +0000",
+   "source": "thefintechtimes.com"
+  },
+  {
+   "title": "Alipay+ Adds Hang Seng Bank as Cross-Border QR Network Expands",
+   "url": "https://thefintechtimes.com/alipay-adds-hang-seng-bank-as-cross-border-qr-network-expands/",
+   "pubDate": "Sun, 23 Aug 2026 02:00:29 +0000",
+   "source": "thefintechtimes.com"
+  },
+  {
    "title": "Nuggets Launches Authority Control Plane for Autonomous AI Agents",
    "url": "https://thefintechtimes.com/nuggets-launches-authority-control-plane-for-autonomous-ai-agents/",
    "pubDate": "Sat, 22 Aug 2026 13:00:24 +0000",
@@ -7758,22 +7776,10 @@
    "source": "thefintechtimes.com"
   },
   {
-   "title": "TerraPay and TPBank Link Up for Real-Time Cross-Border Payments",
-   "url": "https://thefintechtimes.com/terrapay-and-tpbank-link-up-for-real-time-cross-border-payments/",
-   "pubDate": "Fri, 21 Aug 2026 02:00:31 +0000",
-   "source": "thefintechtimes.com"
-  },
-  {
-   "title": "Why Trust Is the New Small Business Payment Advantage",
-   "url": "https://thefintechtimes.com/why-trust-is-the-new-small-business-payment-advantage/",
-   "pubDate": "Thu, 20 Aug 2026 18:00:47 +0000",
-   "source": "thefintechtimes.com"
-  },
-  {
-   "title": "BNPL Regulation Shifts Compliance Burden Onto Payment Processors",
-   "url": "https://thefintechtimes.com/bnpl-regulation-shifts-compliance-burden-onto-payment-processors/",
-   "pubDate": "Thu, 20 Aug 2026 13:00:25 +0000",
-   "source": "thefintechtimes.com"
+   "title": "Deep Dive: The AI Model Gateway/Router Directory For Fintechs and Banks",
+   "url": "https://www.fintechwrapup.com/p/deep-dive-the-ai-model-gatewayrouter",
+   "pubDate": "Sun, 23 Aug 2026 08:00:59 GMT",
+   "source": "fintechwrapup.com"
   },
   {
    "title": "Why Banks Spend $60 Billion a Year on Core Banking - Martin Della Chiesa, (CEO,Skaleet)",
@@ -7887,12 +7893,6 @@
    "title": "AI Agents Are About to Change Payments Operations - David Rosa (General Manager, Rapyd)",
    "url": "https://www.fintechwrapup.com/p/rapyd",
    "pubDate": "Fri, 10 Jul 2026 08:00:40 GMT",
-   "source": "fintechwrapup.com"
-  },
-  {
-   "title": "Reports: Blockchain-Enabled & Stablecoin Banking; The strategic role of stablecoins and tokenization for Canadian institutions; Project Agorá",
-   "url": "https://www.fintechwrapup.com/p/reports-blockchain-enabled-and-stablecoin",
-   "pubDate": "Wed, 08 Jul 2026 08:01:59 GMT",
    "source": "fintechwrapup.com"
   }
  ]
