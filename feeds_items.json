@@ -1,10 +1,143 @@
 {
- "fetched_at": "2026-08-25T23:00:50.732589+00:00",
+ "fetched_at": "2026-08-27T02:09:41.496318+00:00",
  "count": 1318,
  "errors": [
   "insights4vc.substack.com: HTTP Error 403: Forbidden"
  ],
  "items": [
+  {
+   "title": "SEC resurrecting U.S. crypto custody rule the previous administration failed to land",
+   "url": "https://www.coindesk.com/news-analysis/2026/08/26/sec-resurrecting-u-s-crypto-custody-rule-the-previous-administration-failed-to-land",
+   "pubDate": "Wed, 26 Aug 2026 23:01:44 +0000",
+   "source": "coindesk.com",
+   "summary": "In 2023, the regulator tried to narrowly restrict the places investment advisers could park clients' crypto assets, but the new approach is still shrouded in secrecy."
+  },
+  {
+   "title": "Nvidia shares rise after earnings top estimates, guides to $108 billion in revenue next quarter",
+   "url": "https://www.coindesk.com/markets/2026/08/26/nvidia-tops-earnings-estimates-guides-to-usd108-billion-in-revenue-next-quarter",
+   "pubDate": "Wed, 26 Aug 2026 20:24:31 +0000",
+   "source": "coindesk.com",
+   "summary": "The tech bellwether reported fiscal second-quarter results after the bell on Wednesday."
+  },
+  {
+   "title": "South Korea’s top financial conglomerate team up with Visa to test stablecoin issuance and B2B settlements",
+   "url": "https://www.coindesk.com/business/2026/08/26/south-korea-s-shinhan-financial-joins-visa-to-build-stablecoin-infrastructure",
+   "pubDate": "Wed, 26 Aug 2026 15:15:13 +0000",
+   "source": "coindesk.com",
+   "summary": "Shinhan Financial Group will use Visa’s platform to test stablecoin issuance, remittance, and redemption while building new AI-powered payment models."
+  },
+  {
+   "title": "Crypto Long & Short: Tokenized equities: the model underneath the trade",
+   "url": "https://www.coindesk.com/coindesk-indices/2026/08/26/crypto-long-and-short-tokenized-equities-the-model-underneath-the-trade",
+   "pubDate": "Wed, 26 Aug 2026 15:00:09 +0000",
+   "source": "coindesk.com",
+   "summary": "In this week's Crypto Long & Short, CoinDesk's Joshua DeVos writes that demand for tokenized equities is accelerating fast, from $16 billion to more than $590 billion in perpetual futures in a single year, but that the headline growth hides the question that matters most. Two tokens can trade under the same ticker while granting entirely different rights, and the structure underneath, whether it conveys real ownership or a synthetic claim, determines the risks and protections a holder actually has."
+  },
+  {
+   "title": "Ethereum developers propose first step to protect ETH staking from quantum attacks",
+   "url": "https://www.coindesk.com/tech/2026/08/26/ethereum-developers-propose-first-step-to-protect-eth-staking-from-quantum-attacks",
+   "pubDate": "Wed, 26 Aug 2026 13:30:00 +0000",
+   "source": "coindesk.com",
+   "summary": "A draft proposal would allow validators to deposit with quantum-resistant keys, then permanently stop accepting the format the network runs on today."
+  },
+  {
+   "title": "The evidence doesn't support the banks' case against stablecoin rewards",
+   "url": "https://www.coindesk.com/opinion/2026/08/25/the-evidence-doesn-t-support-the-banks-case-against-stablecoin-rewards",
+   "pubDate": "Wed, 26 Aug 2026 13:00:00 +0000",
+   "source": "coindesk.com",
+   "summary": ""
+  },
+  {
+   "title": "Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity",
+   "url": "https://www.coindesk.com/business/2026/08/26/dallas-fed-warns-tokenized-deposits-could-strip-usd700-billion-from-u-s-banks-lending-capacity",
+   "pubDate": "Wed, 26 Aug 2026 11:46:19 +0000",
+   "source": "coindesk.com",
+   "summary": "Programmable deposits and AI agents may enable instantaneous, automated bank switching for higher yields, driving up bank funding costs."
+  },
+  {
+   "title": "ECB claims digital euro will offer 'maximum level of privacy' amid surveillance fears",
+   "url": "https://www.coindesk.com/policy/2026/08/26/the-digital-euro-will-offer-more-privacy-than-regular-bank-transfers-ecb-says",
+   "pubDate": "Wed, 26 Aug 2026 11:14:16 +0000",
+   "source": "coindesk.com",
+   "summary": "Central bank officials say the Eurosystem will be structurally unable to link users to purchases, but civil society groups remain skeptical."
+  },
+  {
+   "title": "The 3 catalysts that could define bitcoin's next move",
+   "url": "https://www.coindesk.com/daybook-us/2026/08/26/the-3-catalysts-that-could-define-bitcoin-s-next-move",
+   "pubDate": "Wed, 26 Aug 2026 11:02:33 +0000",
+   "source": "coindesk.com",
+   "summary": "Your day-ahead look for Aug. 26, 2026"
+  },
+  {
+   "title": "Bitcoin takes a breather after adding 23% in 7 days as ETF demand holds steady",
+   "url": "https://www.coindesk.com/markets/2026/08/26/bitcoin-takes-a-breather-after-adding-23-in-7-days-as-etf-demand-holds-steady",
+   "pubDate": "Wed, 26 Aug 2026 10:45:29 +0000",
+   "source": "coindesk.com",
+   "summary": "The price of bitcoin fell to $79,000 on Wednesday after gaining 23% in seven days as August ETF inflows climbed above $3 billion."
+  },
+  {
+   "title": "Strategy cuts net leverage to near zero as cash nearly matches convertible debt",
+   "url": "https://www.coindesk.com/markets/2026/08/26/strategy-cuts-net-leverage-to-near-zero-as-cash-nearly-matches-convertible-debt",
+   "pubDate": "Wed, 26 Aug 2026 10:42:52 +0000",
+   "source": "coindesk.com",
+   "summary": "The bitcoin treasury company has built nearly four years of preferred-dividend coverage while continuing to repurchase STRC below par."
+  },
+  {
+   "title": "Euro stablecoins get a mainstream push as Revolut begins rolling out EURR in Europe",
+   "url": "https://www.coindesk.com/business/2026/08/26/euro-stablecoins-get-a-mainstream-push-as-revolut-begins-rolling-out-eurr-in-europe",
+   "pubDate": "Wed, 26 Aug 2026 10:03:43 +0000",
+   "source": "coindesk.com",
+   "summary": "Revolut said the stablecoin’s rollout will start with a select group of customers within Denmark, Poland, and Portugal."
+  },
+  {
+   "title": "Japan to start stocks and bonds tokenization development plans this year",
+   "url": "https://www.coindesk.com/business/2026/08/26/japan-plans-blockchain-settlement-network-for-stocks-and-government-bonds",
+   "pubDate": "Wed, 26 Aug 2026 09:06:00 +0000",
+   "source": "coindesk.com",
+   "summary": "Japan's regulators are racing to modernize national settlement systems to prevent institutional investors and foreign capital from fleeing to overseas markets."
+  },
+  {
+   "title": "Live updates: Bitcoin trades in tight range above $78,000 as Nvidia tops estimates",
+   "url": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally",
+   "pubDate": "Wed, 26 Aug 2026 08:51:18 +0000",
+   "source": "coindesk.com",
+   "summary": "Markets are now looking ahead to Fed Chair Kevin Warsh's keynote speech at the Jackson Hole conference on Friday."
+  },
+  {
+   "title": "A massive $6.4 billion bitcoin options expiry on Friday could amplify volatility",
+   "url": "https://www.coindesk.com/markets/2026/08/25/a-massive-usd6-4-billion-bitcoin-options-expiry-on-friday-could-amplify-volatility",
+   "pubDate": "Wed, 26 Aug 2026 08:01:09 +0000",
+   "source": "coindesk.com",
+   "summary": "Friday’s expiry follows bitcoin’s surge from $62,000 to $80,000, leaving market makers with increased exposure to manage around several key strike prices."
+  },
+  {
+   "title": "BlackRock cuts bitcoin ETF swap minimum to $1 million: Report",
+   "url": "https://www.coindesk.com/markets/2026/08/26/E",
+   "pubDate": "Wed, 26 Aug 2026 05:52:53 +0000",
+   "source": "coindesk.com",
+   "summary": "ETF issuers are lowering the barrier for bitcoin whales to trade self-custody for ETF shares."
+  },
+  {
+   "title": "XRP’s 44% rally brings leverage back, raising risk of sharper pullback",
+   "url": "https://www.coindesk.com/markets/2026/08/26/xrp-s-44-rally-brings-leverage-back-raising-risk-of-sharper-pullback",
+   "pubDate": "Wed, 26 Aug 2026 05:16:32 +0000",
+   "source": "coindesk.com",
+   "summary": "CryptoQuant data show XRP’s estimated leverage ratio on Binance at its highest since January, with long accounts outnumbering shorts as futures volume runs more than five times spot trading."
+  },
+  {
+   "title": "Crypto greed gauge hits highest since just before October’s $19 billion wipeout",
+   "url": "https://www.coindesk.com/markets/2026/08/26/crypto-greed-gauge-hits-highest-since-just-before-october-s-usd19-billion-wipeout",
+   "pubDate": "Wed, 26 Aug 2026 04:51:49 +0000",
+   "source": "coindesk.com",
+   "summary": "The Fear & Greed Index reached 74 on Tuesday after sitting at 27 less than two weeks ago, showing how quickly traders have gone from caution to chasing risk."
+  },
+  {
+   "title": "Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains",
+   "url": "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains",
+   "pubDate": "Wed, 26 Aug 2026 04:13:10 +0000",
+   "source": "coindesk.com",
+   "summary": "Every major token fell over 24 hours except HYPE, though bitcoin holds a 23% weekly gain and XRP almost 45%."
+  },
   {
    "title": "U.S. state banking associations plan to launch their own nationwide blockchain network",
    "url": "https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network",
@@ -48,137 +181,95 @@
    "summary": "Once valued at $2.5 billion, Copper was being marketed by investment bank Cantor Fitzgerald at around $500 million in May this year."
   },
   {
-   "title": "MiCA revolutionised European crypto, and left Poland licking its wounds",
-   "url": "https://www.coindesk.com/opinion/2026/08/24/mica-revolutionised-european-crypto-and-left-poland-licking-its-wounds",
-   "pubDate": "Tue, 25 Aug 2026 13:00:00 +0000",
-   "source": "coindesk.com",
-   "summary": "Many in Poland may look back at 2026 as the year European crypto finally grew up, and one of Poland’s brightest economic ambitions faded into darkness, writes Mateusz Kara, founder and CEO of Morphic Financial Group."
+   "title": "Hyperliquid Policy Center, TradeXYZ urge CFTC to create path for US oil perpetuals",
+   "url": "https://www.theblock.co/news/regulation/2026-08-26-hyperliquid-policy-center-tradexyz-urges-cftc-create-path-us-oil-perpetuals-412834",
+   "pubDate": "Wed, 26 Aug 2026 16:06:46 +0000",
+   "source": "theblock.co",
+   "summary": "The CFTC should adopt a regulatory framework for energy perpetual contracts, the Hyperliquid Policy Center and TradeXYZ said in a letter."
   },
   {
-   "title": "Chainalysis-run sting targets child exploitation networks with aid of Binance, Coinbase",
-   "url": "https://www.coindesk.com/policy/2026/08/24/chainalysis-run-sting-targets-child-exploitation-networks-with-aid-of-binance-coinbase",
-   "pubDate": "Tue, 25 Aug 2026 13:00:00 +0000",
-   "source": "coindesk.com",
-   "summary": "'Operation Lighthouse' went after child sex abuse materials, working with law enforcement to round up more than 14,000 investigative leads."
+   "title": "CryptoQuant says bitcoin has entered bull market but needs to cross $83,000 for ‘official’ confirmation",
+   "url": "https://www.theblock.co/news/markets/2026-08-26-cryptoquant-bitcoin-bull-market-83000-official-confirmation-412822",
+   "pubDate": "Wed, 26 Aug 2026 16:02:01 +0000",
+   "source": "theblock.co",
+   "summary": "\"Historically, bitcoin's bull markets have 'officially' begun when price crosses above its 365-day moving average,\" CryptoQuant said."
   },
   {
-   "title": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations",
-   "url": "https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations",
-   "pubDate": "Tue, 25 Aug 2026 12:03:55 +0000",
-   "source": "coindesk.com",
-   "summary": "One wallet bought heavily into a yield token, which pushed the price of its paired principal token down just enough to trigger liquidations across borrowers using it as collateral."
+   "title": "Coinbase, Better make token-backed mortgages generally available",
+   "url": "https://www.theblock.co/news/business/2026-08-26-coinbase-better-make-token-backed-mortgages-generally-available-412810",
+   "pubDate": "Wed, 26 Aug 2026 15:00:35 +0000",
+   "source": "theblock.co",
+   "summary": "Coinbase and Better expand token-backed mortgage access to Coinbase One members, with a 1% closing-cost credit now available."
   },
   {
-   "title": "Las Vegas businessman convicted in $24 million 'AI supercomputer' crypto Ponzi scheme",
-   "url": "https://www.coindesk.com/policy/2026/08/25/crypto-supercomputer-ponzi-schemer-convicted-faces-up-to-280-years-in-prison",
-   "pubDate": "Tue, 25 Aug 2026 11:46:18 +0000",
-   "source": "coindesk.com",
-   "summary": "Brent Kovar has been found guilty of running a crypto Ponzi scheme, defrauding at least 400 investors out of $24 million."
+   "title": "SEC sends crypto custody rule changes to White House for review",
+   "url": "https://www.theblock.co/news/regulation/2026-08-26-sec-sends-crypto-custody-rule-changes-to-white-house-for-review-412811",
+   "pubDate": "Wed, 26 Aug 2026 14:55:57 +0000",
+   "source": "theblock.co",
+   "summary": "A proposal from the SEC to change its rules governing how investment advisers hold digital assets was sent this week to the White House."
   },
   {
-   "title": "Bitcoin's surging price faces 1 key level that could signal if the bear market is really over",
-   "url": "https://www.coindesk.com/daybook-us/2026/08/25/bitcoin-s-surging-price-faces-1-key-level-that-could-signal-if-the-bear-market-is-really-over",
-   "pubDate": "Tue, 25 Aug 2026 11:15:02 +0000",
-   "source": "coindesk.com",
-   "summary": "Your day-ahead look for Aug. 25, 2026"
+   "title": "SOL treasury firm DeFi Development launches real-time ‘State of Solana’ intelligence platform",
+   "url": "https://www.theblock.co/news/markets/2026-08-26-sol-treasury-firm-defi-development-launches-real-time-state-of-solana-intelligence-platform-412798",
+   "pubDate": "Wed, 26 Aug 2026 14:07:21 +0000",
+   "source": "theblock.co",
+   "summary": "The Nasdaq-listed company holds roughly 2.3 million SOL worth about $208 million, while its shares have fallen 16% year to date."
   },
   {
-   "title": "A bitcoin short squeeze for the ages as futures open interest collapses",
-   "url": "https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses",
-   "pubDate": "Tue, 25 Aug 2026 10:57:02 +0000",
-   "source": "coindesk.com",
-   "summary": "Falling open interest and subdued funding rates suggest the rally remains structurally healthy."
+   "title": "‘Altitude sickness can wait’: Bitcoin’s historic short squeeze, Bessent catalyst may signal bull-market reset, analysts say",
+   "url": "https://www.theblock.co/news/markets/2026-08-26-altitude-sickness-can-wait-bitcoins-historic-short-squeeze-bessent-catalyst-may-signal-bull-market-reset-analysts-say-412785",
+   "pubDate": "Wed, 26 Aug 2026 11:47:25 +0000",
+   "source": "theblock.co",
+   "summary": "Bitwise CIO Matt Hougan said Treasury Secretary Scott Bessent's recent actions provide an additional macro catalyst."
   },
   {
-   "title": "Bitcoin extends 7-day advance to roughly 25%",
-   "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-extends-7-day-advance-to-roughly-25",
-   "pubDate": "Tue, 25 Aug 2026 10:52:03 +0000",
-   "source": "coindesk.com",
-   "summary": "Bitcoin crossed $80,000 for the first time since May, extending its seven-day advance to roughly 25%."
+   "title": "Bernstein sees bitcoin reaching $150,000 by mid-2027 amid ‘debasement trade,’ but cuts Strategy target to $350",
+   "url": "https://www.theblock.co/news/markets/2026-08-26-bernstein-sees-bitcoin-reaching-150000-by-mid-2027-amid-debasement-trade-but-cuts-strategy-target-to-350-412778",
+   "pubDate": "Wed, 26 Aug 2026 10:21:18 +0000",
+   "source": "theblock.co",
+   "summary": "Bernstein expects bitcoin to reach $150,000 by mid-2027 in its base case, before reaching a cycle peak of around $300,000 in 2029."
   },
   {
-   "title": "Solana ETFs extend growth streak to 5 days after year's biggest inflows",
-   "url": "https://www.coindesk.com/markets/2026/08/25/solana-etfs-extend-growth-streak-to-5-days-after-year-s-biggest-inflows",
-   "pubDate": "Tue, 25 Aug 2026 10:25:32 +0000",
-   "source": "coindesk.com",
-   "summary": "Monday's $33.5 million was the largest single-day inflow since December, pushing cumulative net inflows to a record $1.22 billion and trading volume to $166.8 million."
+   "title": "Revolut begins phased EURR stablecoin rollout in Denmark, Poland and Portugal",
+   "url": "https://www.theblock.co/news/business/2026-08-26-revolut-begins-phased-eurr-stablecoin-rollout-in-denmark-poland-and-portugal-412772",
+   "pubDate": "Wed, 26 Aug 2026 09:12:54 +0000",
+   "source": "theblock.co",
+   "summary": "Revolut began rolling out EURR, its first euro-pegged stablecoin, to customers in Denmark, Poland, and Portugal."
   },
   {
-   "title": "U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology",
-   "url": "https://www.coindesk.com/policy/2026/08/25/u-s-widens-iran-crackdown-to-encompass-crypto-gold-shipping-and-technology",
-   "pubDate": "Tue, 25 Aug 2026 08:47:18 +0000",
-   "source": "coindesk.com",
-   "summary": "Treasury says Ivan Obukhov processed over $100 million in crypto for IRGC-QF oil sales since 2023."
+   "title": "South Korea’s Shinhan to use Visa’s stablecoin platform for ‘future finance’ initiatives",
+   "url": "https://www.theblock.co/news/web3/2026-08-26-south-koreas-shinhan-visa-stablecoin-412765",
+   "pubDate": "Wed, 26 Aug 2026 08:43:43 +0000",
+   "source": "theblock.co",
+   "summary": "The two will also test the application of stablecoins in card payments, AI-based future payment models, and B2B and B2C payment businesses."
   },
   {
-   "title": "Franklin Templeton and Hashkey roll out U.S. tokenized money fund in Asia",
-   "url": "https://www.coindesk.com/business/2026/08/25/franklin-templeton-and-hashkey-roll-out-u-s-tokenized-money-fund-in-asia",
-   "pubDate": "Tue, 25 Aug 2026 07:55:18 +0000",
-   "source": "coindesk.com",
-   "summary": "Tokenized U.S. treasury and money market funds are one of the fastest-growing segments in the digital asset markets, growing fifteenfold in two years."
+   "title": "Tornado Cash developer Roman Storm’s retrial pushed back to April 2027",
+   "url": "https://www.theblock.co/news/regulation/2026-08-26-tornado-cash-roman-storm-retrial-april-2027-412761",
+   "pubDate": "Wed, 26 Aug 2026 08:00:17 +0000",
+   "source": "theblock.co",
+   "summary": "A jury convicted Storm on a count of money transmitting last year, but did not reach a verdict on other charges."
   },
   {
-   "title": "Live updates: Bitcoin settles in under $80,000, with interest rates headed lower on Tuesday",
-   "url": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
-   "pubDate": "Tue, 25 Aug 2026 07:40:11 +0000",
-   "source": "coindesk.com",
-   "summary": "Spot bitcoin funds took in $337.56 million on Aug. 24, extending an unbroken run of inflows that has now put real money behind a rally that started with a short squeeze."
+   "title": "Japan to work on blockchain-based stock settlement system, details expected early 2027: Nikkei",
+   "url": "https://www.theblock.co/news/regulation/2026-08-26-japan-blockchain-stock-settlement-system-412755",
+   "pubDate": "Wed, 26 Aug 2026 06:40:31 +0000",
+   "source": "theblock.co",
+   "summary": "If the plan is approved, the agencies could launch the system within a few years, and fully operational in the early 2030s."
   },
   {
-   "title": "Treasury’s bond buyback plan fights the market and heightens the danger, billionaire Druckenmiller says",
-   "url": "https://www.coindesk.com/markets/2026/08/25/governments-defending-prices-against-fundamentals-always-lose-billionaire-investor-druckenmiller-says",
-   "pubDate": "Tue, 25 Aug 2026 07:32:32 +0000",
-   "source": "coindesk.com",
-   "summary": "The billionaire investor argues the intervention removes a vital check on government borrowing and fiscal accountability while markets remain the better judge of prices."
+   "title": "Kalshi raised $1.12 billion via private equity offering since April, latest SEC filing shows",
+   "url": "https://www.theblock.co/news/web3/2026-08-26-kalshi-latest-form-d-412749",
+   "pubDate": "Wed, 26 Aug 2026 04:51:58 +0000",
+   "source": "theblock.co",
+   "summary": "It was reported earlier this month that Kalshi is looking to raise $750 million in fresh capital at a $40 billion valuation."
   },
   {
-   "title": "Monad proposes wallet upgrade that could survive lost keys and quantum attacks",
-   "url": "https://www.coindesk.com/tech/2026/08/25/monad-proposes-wallet-upgrade-that-could-survive-lost-keys-and-quantum-attacks",
-   "pubDate": "Tue, 25 Aug 2026 07:01:49 +0000",
-   "source": "coindesk.com",
-   "summary": "The Ethereum-compatible blockchain wants users to be able to replace the keys controlling an account without changing its address, opening the door to passkeys, recovery tools and post-quantum security."
-  },
-  {
-   "title": "Crypto rally spills into dog and cat memecoins as smaller tokens double in a week",
-   "url": "https://www.coindesk.com/markets/2026/08/25/crypto-rally-spills-into-dog-and-cat-memecoins-as-smaller-tokens-double-in-a-week",
-   "pubDate": "Tue, 25 Aug 2026 06:26:29 +0000",
-   "source": "coindesk.com",
-   "summary": "Robinhood Chain-based Cash Cat jumped more than 50% in a day, while several smaller animal-themed tokens have gained between 50% and 130% over the past week."
-  },
-  {
-   "title": "Bitcoin traders place $2.9 million bet on a rapid price jump above $82,000",
-   "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-traders-place-usd2-9-million-bet-on-a-rapid-price-jump-above-usd82-000",
-   "pubDate": "Tue, 25 Aug 2026 05:51:52 +0000",
-   "source": "coindesk.com",
-   "summary": "Traders are spending millions to position for further Bitcoin upside after its staggering rally to $80,000, though demand for downside protection remains firm, according to Laevitas."
-  },
-  {
-   "title": "Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning",
-   "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-tops-usd80-000-solana-jumps-8-but-rally-now-runs-into-overbought-warning",
-   "pubDate": "Tue, 25 Aug 2026 05:25:11 +0000",
-   "source": "coindesk.com",
-   "summary": "BTC is up more than 25% on the week after Treasury’s bond-buyback expansion sparked a rally, while Solana led majors Tuesday as validators vote on proposals to slow new SOL creation and raise daily burns."
-  },
-  {
-   "title": "Bitcoin hits $80,000 for the first time since May as crypto recovery accelerates",
-   "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-hits-usd80-000-for-the-first-time-since-may-as-crypto-recovery-accelerates",
-   "pubDate": "Tue, 25 Aug 2026 00:55:32 +0000",
-   "source": "coindesk.com",
-   "summary": "BTC has now surged 38% following its June plunge as shifting U.S. Treasury policy helped bring buyers back to crypto, rejuvenating ETF demand."
-  },
-  {
-   "title": "Bitcoin nears $80,000, but analysts say the next pullback will be key",
-   "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-nears-usd80-000-but-analysts-say-the-next-pullback-will-be-key",
-   "pubDate": "Mon, 24 Aug 2026 19:36:36 +0000",
-   "source": "coindesk.com",
-   "summary": "Analysts say consolidation could strengthen bitcoin’s rally, while thin trading above $80,000 may set up sharper price moves."
-  },
-  {
-   "title": "Crypto political group details list of U.S. congressional allies its backing this year",
-   "url": "https://www.coindesk.com/policy/2026/08/24/crypto-political-group-details-list-of-u-s-congressional-allies-its-backing-this-year",
-   "pubDate": "Mon, 24 Aug 2026 17:30:10 +0000",
-   "source": "coindesk.com",
-   "summary": "Stand With Crypto, a member group that rates the crypto friendliness of politicians, is supporting 32 U.S. House incumbents, with more endorsements coming."
+   "title": "RockawayX acquires Relayer Capital to expand crypto offerings in US",
+   "url": "https://www.theblock.co/news/business/2026-08-25-rockawayx-relayer-capital-412743",
+   "pubDate": "Wed, 26 Aug 2026 03:35:32 +0000",
+   "source": "theblock.co",
+   "summary": "\";inherits:false;initial-value:100%}@property --tw-inset-shadow{syntax:\"*\";inherits:false;initial-value:0 0 #0000}@property --tw-inset-shadow-color{syntax:\"*\";inherits:false}@property --tw-inset-shadow-alpha{syntax:\" \";inherits:false;initial-value:100%}@property --tw-ring-color{syntax:\"*\";inherits:false}@property --tw-ring-shadow{syntax:\"*\";inherits:false;initial-value:0 0 #0000}@property --tw-ins Institutional crypto intel Explore Try it free News Today's top stories Business Deals DeFi Ecosystems Macro Markets Regulation Web3 Data Market dashboards Indices Stocks Futures Stablecoins Treasuries Ratings Prices Live crypto prices Bitcoin Ethereum Solana XRP Crypto Converter ETF Trackers Research From our analysts Institutional Blockchains On-chain DeFi Protocols Intelligence Funding Stableco Cryptocurrency investment firm RockawayX has acquired crypto hedge fund Relayer Capital to add long and short strategies to its existing platform and expand its presence in the U.S. RockawayX, which has roughly $2 billion in assets under management, announced Tuesday that Relayer will be rebranded as the RockawayX Liquid Opportunities Fund, which will focus on identifying \"undervalued liquid tokens and crypto-related equities.\" Following the acquisition, Relayer founder Austin Barack will join RockawayX as CIO of the fund, according to the statement. The company is looking to raise $150 million for the vehicle, according to a Forbes report , citing sources familiar with the matter. Accordi"
   },
   {
    "title": "ZRO token surges as LayerZero unveils ATLAS exchange infrastructure built on Zero blockchain",
@@ -216,102 +307,39 @@
    "summary": "On Tuesday morning, Grayscale launched the first ETF to offer direct exposure to Zcash, the privacy-focused cryptocurrency."
   },
   {
-   "title": "Las Vegas businessman faces 280 years in prison after $24 million crypto fraud conviction",
-   "url": "https://www.theblock.co/news/regulation/2026-08-25-las-vegas-businessman-24-million-crypto-fraud-412690",
-   "pubDate": "Tue, 25 Aug 2026 07:53:23 +0000",
-   "source": "theblock.co",
-   "summary": "A federal jury convicted Las Vegas businessman Brent Kovar in a $24 million cryptocurrency scheme involving at least 400 investors."
+   "title": "SEC Readies Updated Rule for Crypto Custody",
+   "url": "https://www.pymnts.com/cryptocurrency/2026/sec-readies-updated-rule-for-crypto-custody/",
+   "pubDate": "Wed, 26 Aug 2026 17:56:25 +0000",
+   "source": "pymnts.com",
+   "summary": "Federal securities regulators issued a proposal on updated cryptocurrency custody rules for investment advisors. The Securities and Exchange Commission (SEC) sent its proposal to the White House’s Office of Management and Budget (OMB) on Tuesday (Aug. 25) per a post on its website. “This proposed rules and rule amendments would improve and modernize the regulations around custody of investment adviser client assets and fund assets, including to address crypto assets,” the SEC said. “Currently, investment advisers and investment companies have raised questions about how to hold crypto assets in"
   },
   {
-   "title": "Bitcoin holds above $80,000 backed by ETF flows; bull market case ‘early but optimistic,’ analyst says",
-   "url": "https://www.theblock.co/news/markets/2026-08-25-bitcoin-holds-above-80000-412674",
-   "pubDate": "Tue, 25 Aug 2026 06:46:31 +0000",
-   "source": "theblock.co",
-   "summary": "Analysts say it's still too early to tell if this will translate into a bull market, given sticky inflation and geopolitical uncertainty."
+   "title": "Dallas Fed Warns Tokenized Deposits Could Trigger Bank Rate Wars",
+   "url": "https://www.pymnts.com/cryptocurrency/2026/dallas-fed-economists-warn-tokenized-deposits-could-trigger-bank-rate-wars/",
+   "pubDate": "Wed, 26 Aug 2026 16:49:49 +0000",
+   "source": "pymnts.com",
+   "summary": "Widespread adoption of tokenized deposits could make it easier for depositors to move their funds to pursue higher interest rates and therefore require banks to raise their rates to remain competitive, two Federal Reserve Bank of Dallas economists wrote in a Tuesday (Aug. 25) blog post . If the weighted average life (WAL), or the amount of time deposit balances are expected to remain on a bank’s balance sheet, declines by 10%, the maturity transformation capacity of banks would shrink by $580 billion, according to the post. If the price sensitivity of deposits increases 10%, the duration risk "
   },
   {
-   "title": "Franklin Templeton partners with HashKey to offer tokenized money market fund in Asia",
-   "url": "https://www.theblock.co/news/business/2026-08-25-franklin-templeton-hashkey-tokenized-fund-412675",
-   "pubDate": "Tue, 25 Aug 2026 06:39:12 +0000",
-   "source": "theblock.co",
-   "summary": "HashKey said it has launched the Franklin OnChain US Government Liquidity Fund on the platform's Earn channel."
+   "title": "Crypto Group Opposes KYC on Stablecoin Wallet Transfers",
+   "url": "https://www.pymnts.com/cryptocurrency/2026/crypto-group-urges-regulators-to-keep-stablecoin-kyc-away-from-wallet-transfers/",
+   "pubDate": "Wed, 26 Aug 2026 15:47:10 +0000",
+   "source": "pymnts.com",
+   "summary": "The Blockchain Association is urging federal regulators to preserve a boundary between regulated stablecoin issuers and the decentralized networks on which their tokens circulate. In a Friday (Aug. 21) comment letter , the digital-asset trade group broadly endorsed proposed rules requiring permitted payment stablecoin issuers to maintain customer identification programs, or CIPs, comparable to those used by banks and other financial institutions under the Bank Secrecy Act. But the association said the final rules must clearly limit those requirements to primary-market relationships in which an"
   },
   {
-   "title": "Blockchain Association backs Treasury’s proposed GENIUS Act rules for stablecoin issuers",
-   "url": "https://www.theblock.co/news/regulation/2026-08-25-blockchain-association-backs-genius-act-412668",
-   "pubDate": "Tue, 25 Aug 2026 05:24:15 +0000",
-   "source": "theblock.co",
-   "summary": "It backs limiting client ID requirements to direct issuer-customer transactions in the primary market, while calling for clearer definitions."
+   "title": "Revolut Debuts Euro-Pegged Stablecoin in 3 Countries",
+   "url": "https://www.pymnts.com/cryptocurrency/2026/revolut-debuts-euro-pegged-stablecoin-in-3-countries/",
+   "pubDate": "Wed, 26 Aug 2026 13:15:42 +0000",
+   "source": "pymnts.com",
+   "summary": "Revolut is launching a European stablecoin as the digital tokens move further into mainstream finance. The U.K. FinTech’s EURR stablecoin is pegged to the euro and is being rolled out first to customers in Denmark, Poland and Portugal before expanding to other parts of the European Economic Area later in the year, Revolut announced Wednesday (Aug. 26). The company says EURR, which is issued by Bridg, will be integrated into Revolut’s app to let users switch between euros and cryptocurrency on chain. “This is only the first step in our vision for a full suite of Revolut stablecoins, denominated"
   },
   {
-   "title": "San Francisco-based gaming founder convicted of operating fraudulent crypto trading fund",
-   "url": "https://www.theblock.co/news/regulation/2026-08-24-san-francisco-gaming-founder-crypto-fraud-412662",
-   "pubDate": "Tue, 25 Aug 2026 02:08:02 +0000",
-   "source": "theblock.co",
-   "summary": "Dillman faces a maximum penalty of 20 years and a $250,000 fine for each count of conviction, according to the DOJ."
-  },
-  {
-   "title": "US escalates Iran pressure with sanctions on crypto, aviation, shipping and gold as part of ‘economic D-Day’",
-   "url": "https://www.theblock.co/news/regulation/2026-08-24-us-escalates-iran-pressure-sanctions-crypto-aviation-shipping-gold-economic-d-day-412648",
-   "pubDate": "Mon, 24 Aug 2026 19:23:02 +0000",
-   "source": "theblock.co",
-   "summary": "The U.S. Treasury Department is zeroing in on digital assets it says are being used to bolster Iran’s economy."
-  },
-  {
-   "title": "Crypto exchange volumes double in five days as market activity rebounds",
-   "url": "https://www.theblock.co/news/markets/2026-08-24-crypto-exchange-volumes-double-in-five-days-as-market-activity-rebounds-412641",
-   "pubDate": "Mon, 24 Aug 2026 18:07:20 +0000",
-   "source": "theblock.co",
-   "summary": "Monthly volume tells a similar story, with $490 billion traded so far in August compared to $670 billion in July."
-  },
-  {
-   "title": "Hyperliquid Policy Center urges SEC, CFTC to harmonize rules for perpetual contracts",
-   "url": "https://www.theblock.co/news/regulation/2026-08-24-hyperliquid-policy-center-urges-sec-cftc-harmonize-rules-perpetual-contracts-412601",
-   "pubDate": "Mon, 24 Aug 2026 16:18:24 +0000",
-   "source": "theblock.co",
-   "summary": "The push comes as Hyperliquid's multi-asset perpetuals gain scale and draw scrutiny from traditional exchanges."
-  },
-  {
-   "title": "Stand With Crypto ramps up midterm push with 32 House endorsements",
-   "url": "https://www.theblock.co/news/regulation/2026-08-24-stand-with-crypto-ramps-up-midterm-push-with-32-house-endorsements-412616",
-   "pubDate": "Mon, 24 Aug 2026 15:57:45 +0000",
-   "source": "theblock.co",
-   "summary": "Stand With Crypto is backing more than 30 House candidates as it looks to flex its political influence once more in the upcoming elections."
-  },
-  {
-   "title": "Strive acquires 1,110 bitcoin for $81.5 million as total holdings reach 21,356 BTC",
-   "url": "https://www.theblock.co/news/business/2026-08-24-strive-acquires-1110-bitcoin-for-81-5-million-as-total-holdings-reach-21356-btc-412604",
-   "pubDate": "Mon, 24 Aug 2026 15:39:14 +0000",
-   "source": "theblock.co",
-   "summary": "Strive purchased 1,110 bitcoin for $81.5 million, raising its total holdings to 21,356 BTC as the seventh-largest public company holder."
-  },
-  {
-   "title": "‘Upside move in ETH was overdue,’ Tom Lee says as Bitmine buys another 32,447 ether",
-   "url": "https://www.theblock.co/news/business/2026-08-24-upside-move-eth-was-overdue-tom-lee-says-bitmine-buys-more-ether-412589",
-   "pubDate": "Mon, 24 Aug 2026 13:36:31 +0000",
-   "source": "theblock.co",
-   "summary": "Bitmine's total crypto, cash, and other investments currently stand at $14.9 billion, and it owns over 4.8% of Ethereum's circulating supply."
-  },
-  {
-   "title": "Strategy sells $2 billion in MSTR shares, makes no bitcoin purchases, establishes $1.6 billion ‘USD Cash’ pool",
-   "url": "https://www.theblock.co/news/business/2026-08-24-strategy-mstr-strc-bitcoin-usd-reserve-412570",
-   "pubDate": "Mon, 24 Aug 2026 12:12:01 +0000",
-   "source": "theblock.co",
-   "summary": "Strategy's total holdings account for roughly 4% of the 21 million bitcoin supply cap — worth around $66 billion."
-  },
-  {
-   "title": "Gemini to provide crypto prediction markets venue for Apex’s brokerage clients",
-   "url": "https://www.theblock.co/news/web3/2026-08-24-gemini-crypto-prediction-market-apex-412557",
-   "pubDate": "Mon, 24 Aug 2026 11:01:02 +0000",
-   "source": "theblock.co",
-   "summary": "Under the alliance, brokerages that offer crypto event contracts through Apex will use Gemini for execution and clearing, the firms said."
-  },
-  {
-   "title": "Bernstein says Circle’s growth cycle can continue without the Clarity Act, sees 59% upside",
-   "url": "https://www.theblock.co/news/business/2026-08-24-bernstein-says-circles-growth-cycle-can-continue-without-the-clarity-act-sees-59-upside-412573",
-   "pubDate": "Mon, 24 Aug 2026 10:08:38 +0000",
-   "source": "theblock.co",
-   "summary": "Bernstein says Circle can sustain growth without the Clarity Act as USDC supply rebounds and stablecoin volumes continue expanding."
+   "title": "Banks Adopt AI and Stablecoins Faster Than Compliance Can Keep Up",
+   "url": "https://www.pymnts.com/cryptocurrency/2026/banks-adopt-ai-and-stablecoins-faster-than-compliance-can-keep-up/",
+   "pubDate": "Wed, 26 Aug 2026 08:00:02 +0000",
+   "source": "pymnts.com",
+   "summary": "Watch more: What’s Next in Payments With Flagright’s Chris Phillips A little paranoia may be useful when the technology moving money changes faster than the controls designed to police it. That is the premise Chris Phillips , director of Financial Crime Industry Engagement at Flagright , brought to a PYMNTS “ What’s Next in Payments ” interview centered on a maxim associated with former Intel CEO Andy Grove: Only the paranoid survive. Grove used the idea to describe strategic inflection points, when changes in technology, regulation, competition or customer behavior can undermine assumptions t"
   },
   {
    "title": "Stablecoin KYC Debate Moves to Exchanges and Wallets",
@@ -349,81 +377,165 @@
    "summary": "Stablecoins five years ago represented a new form of money looking for a reason to exist. This week offered a different picture. The reason for stablecoins as a cash alternative is emerging precisely as the technology itself becomes harder to see. Across payroll, merchant acquiring, card networks, creator payouts and corporate treasury, stablecoins are being inserted into payment flows without necessarily requiring the payer or recipient to behave like a crypto user. At the same time, U.S. regulators are moving toward a framework that could make the issuers behind those tokens look more like s"
   },
   {
-   "title": "CFTC Readies Own Crypto Market Rules as Congress Stalls CLARITY Act",
-   "url": "https://www.pymnts.com/cryptocurrency/2026/cftc-readies-own-crypto-market-rules-as-congress-stalls-clarity-act/",
-   "pubDate": "Fri, 21 Aug 2026 00:33:57 +0000",
-   "source": "pymnts.com",
-   "summary": "If Congress doesn’t pass the CLARITY Act, the Commodity Futures Trading Commission (CFTC) will use its existing authorities to begin establishing a crypto asset market regime, CFTC Chairman Michael S. Selig said Thursday (Aug. 20). In remarks delivered at the Innovation Advisory Committee Conference in Washington, D.C., Selig said: “We owe it to the American people to do so. President Trump promised to deliver a crypto asset market structure, and we will help him deliver if Congress will not.” Selig said he has directed CFTC staff to explore rules to codify a CFTC market structure for crypto a"
-  },
-  {
-   "title": "Grayscale Sees SEC Proposal Unleashing New Wave of US Token Offerings",
-   "url": "https://www.pymnts.com/cryptocurrency/2026/grayscale-sees-sec-proposal-unleashing-new-wave-of-us-token-offerings/",
-   "pubDate": "Thu, 20 Aug 2026 21:02:00 +0000",
-   "source": "pymnts.com",
-   "summary": "The Securities and Exchange Commission ’s (SEC) proposed Regulation Crypto Assets, which the regulator announced Tuesday (Aug. 18), could facilitate token-based fundraising in the United States, Grayscale Head of Research Zach Pandl said in an article published Wednesday (Aug. 19). Token-based fundraising, in turn, could bring more U.S. issuers on-chain and drive value to underlying networks such as Ethereum , Solana and BNB Chain , according to the article. Fundraising through the offering of newly issued tokens has been taking place overseas and not offered to U.S. investors due to regulator"
-  },
-  {
-   "title": "X Weighs Paying Influencers and Creators in Stablecoins",
-   "url": "https://www.pymnts.com/cryptocurrency/2026/x-weighs-paying-influencers-and-creators-in-stablecoins/",
-   "pubDate": "Thu, 20 Aug 2026 12:29:45 +0000",
-   "source": "pymnts.com",
-   "summary": "Social media platform X is reportedly exploring the use of stablecoins to pay influencers. That’s according to a report Thursday (Aug. 20) by CoinDesk, citing a source who also works with other social media companies testing the use of stablecoins to pay commissions to influencers who post content on their platforms. PYMNTS has contacted X for comment but has not yet gotten a reply. CoinDesk notes stablecoins have become a blockchain payments staple, allowing for quicker and lower-cost cross-border payments for businesses of all sizes. The report also points out that this isn’t the first time "
-  },
-  {
-   "title": "SEC Proposes Rules to Streamline Capital Formation for Digital Asset Entrepreneurs",
-   "url": "https://www.pymnts.com/cryptocurrency/2026/sec-proposes-rules-to-streamline-capital-formation-for-digital-asset-entrepreneurs/",
-   "pubDate": "Wed, 19 Aug 2026 00:47:37 +0000",
-   "source": "pymnts.com",
-   "summary": "The Securities and Exchange Commission (SEC) proposed new rules that it said in a Tuesday (Aug. 18) press release would create a clear framework for certain investment contracts involving crypto assets. Dubbed “Regulation Crypto Assets,” the proposed rule will be open for a 60-day public comment period following its publication in the Federal Register, according to the release. The proposed rules include two exemptions from the registration requirements of the Securities Act of 1933 that are tailored to certain investment contracts involving crypto assets: a one-time exemption that would permi"
-  },
-  {
-   "title": "Kraken Brings Multi-Asset Debit Card to US Market",
-   "url": "https://www.pymnts.com/cryptocurrency/2026/kraken-brings-multi-asset-debit-card-to-us-market/",
-   "pubDate": "Tue, 18 Aug 2026 20:51:22 +0000",
-   "source": "pymnts.com",
-   "summary": "Kraken has launched its multi-asset debit card, Krak Card, in the United States, about eight months after introducing the card in the United Kingdom and the European Economic Area (EEA), the company said in a Tuesday (Aug. 18) press release . The Krak Card allows customers to store money across more than 600 currencies and assets, including crypto assets, spend any of them at checkout and earn up to 2% cashback paid in their choice of U.S. dollars or bitcoin, according to the release. The card can be used anywhere Visa is accepted worldwide. At checkout, Krak converts assets into U.S. dollars "
-  },
-  {
-   "title": "HSBC, Standard Chartered  make first live tokenized deposit tranfer via Swift blockchain",
-   "url": "https://www.ledgerinsights.com/hsbc-standard-chartered-make-first-live-tokenized-deposit-tranfer-via-swift-blockchain/",
-   "pubDate": "Wed, 19 Aug 2026 09:33:16 +0000",
+   "title": "Visa joins BLOOM for stablecoin settlement. Shinhan adopts Visa Stablecoin Platform",
+   "url": "https://www.ledgerinsights.com/visa-joins-bloom-for-stablecoin-settlement-shinhan-adopts-visa-stablecoin-platform/",
+   "pubDate": "Wed, 26 Aug 2026 18:36:56 +0000",
    "source": "ledgerinsights.com",
-   "summary": "HSBC and Standard Chartered have announced the inaugural live tokenized deposit transaction using Swift’s blockchain-based ledger. Currently the vast majority of tokenized deposits are executed on single bank blockchains and hence only support transactions between customers of the same bank. Swift is enabling interoperability between these silos, using its blockchain to support 24/7 DLT-based cross […] The post HSBC, Standard Chartered make first live tokenized deposit tranfer via Swift blockchain appeared first on Ledger Insights - blockchain for enterprise ."
+   "summary": "Visa made two stablecoin announcements. It joined BLOOM, a Monetary Authority of Singapore initiative that aims to enable settlement involving regulated stablecoins and tokenized deposits, including the distribution and clearing of settlement assets. BLOOM, which stands for Borderless, Liquid, Open, Online, Multi-currency, already has several banks and stablecoin issuers as participants, including JP Morgan and […] The post Visa joins BLOOM for stablecoin settlement. Shinhan adopts Visa Stablecoin Platform appeared first on Ledger Insights - blockchain for enterprise ."
+  },
+  {
+   "title": "Russian Influence Network Used ChatGPT to Masquerade as Academic Experts",
+   "url": "https://decrypt.co/376662/russia-chatgpt-influence-campaign",
+   "pubDate": "Wed, 26 Aug 2026 22:46:03 +0000",
+   "source": "decrypt.co",
+   "summary": "Russian Influence Network Used ChatGPT to Masquerade as Academic Experts Coin Prices BTC $78,925.00 $2,500.70 $704.98 $1.41 $0.999977 $101.60 $0.335674 $1.035 $81.94 $0.087167 $797.51"
+  },
+  {
+   "title": "Bill Gates Wants a Robot Tax and Jobs Humans Can't Be Fired From",
+   "url": "https://decrypt.co/376663/bill-gates-robot-tax-jobs-humans-cant-be-fired",
+   "pubDate": "Wed, 26 Aug 2026 22:16:03 +0000",
+   "source": "decrypt.co",
+   "summary": "Gates is calling for AI tokens and robots to be taxed so firms think twice before swapping out workers, plus a bracket of \"human reserved\" roles that stay off-limits to automation."
+  },
+  {
+   "title": "Nvidia Shares Surge in After-Hours Trading After Record $96.2 Billion Revenue",
+   "url": "https://decrypt.co/376664/nvidia-shares-surge-record-q2-revenue",
+   "pubDate": "Wed, 26 Aug 2026 21:42:42 +0000",
+   "source": "decrypt.co",
+   "summary": "Nvidia Shares Surge in After-Hours Trading After Record $96.2 Billion Revenue Coin Prices BTC $78,925.00 $2,500.70 $704.98 $1.41 $0.999977 $101.60 $0.335674 $1.035 $81.94 $0.087167 $797.51"
+  },
+  {
+   "title": "What Traders Are Watching for Bitcoin's Next Move",
+   "url": "https://decrypt.co/376649/what-traders-watching-bitcoin-next-move",
+   "pubDate": "Wed, 26 Aug 2026 20:22:17 +0000",
+   "source": "decrypt.co",
+   "summary": "What Traders Are Watching for Bitcoin's Next Move Coin Prices BTC $78,925.00 $2,500.70 $704.98 $1.41 $0.999977 $101.60 $0.335674 $1.035 $81.94 $0.087167 $797.51"
+  },
+  {
+   "title": "Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana",
+   "url": "https://decrypt.co/376646/galaxy-crypto-credit-lines-bitcoin-ethereum-solana",
+   "pubDate": "Wed, 26 Aug 2026 19:56:03 +0000",
+   "source": "decrypt.co",
+   "summary": "Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana Coin Prices BTC $78,925.00 $2,500.70 $704.98 $1.41 $0.999977 $101.60 $0.335674 $1.035 $81.94 $0.087167 $797.51"
+  },
+  {
+   "title": "US Banks Join Forces to Build a Blockchain of Their Own",
+   "url": "https://decrypt.co/376644/banks-build-blockchain-bankchain-alliance",
+   "pubDate": "Wed, 26 Aug 2026 19:21:25 +0000",
+   "source": "decrypt.co",
+   "summary": "US Banks Join Forces to Build a Blockchain of Their Own Coin Prices BTC $78,925.00 $2,500.70 $704.98 $1.41 $0.999977 $101.60 $0.335674 $1.035 $81.94 $0.087167 $797.51"
+  },
+  {
+   "title": "Bitcoin Wallets Dormant for Over a Decade Move $40M in One Week",
+   "url": "https://decrypt.co/376641/bitcoin-wallets-dormant-decade-move-40m",
+   "pubDate": "Wed, 26 Aug 2026 18:44:17 +0000",
+   "source": "decrypt.co",
+   "summary": "Bitcoin Wallets Dormant for Over a Decade Move $40M in One Week Coin Prices BTC $78,925.00 $2,500.70 $704.98 $1.41 $0.999977 $101.60 $0.335674 $1.035 $81.94 $0.087167 $797.51"
+  },
+  {
+   "title": "Solana Treasury Firm Invites Investors to Look 'Beyond the Price of SOL'",
+   "url": "https://decrypt.co/376619/solana-treasury-sol-data-beyond-price",
+   "pubDate": "Wed, 26 Aug 2026 17:52:22 +0000",
+   "source": "decrypt.co",
+   "summary": "Solana Treasury Firm Invites Investors to Look 'Beyond the Price of SOL' Coin Prices BTC $78,925.00 $2,500.70 $704.98 $1.41 $0.999977 $101.60 $0.335674 $1.035 $81.94 $0.087167 $797.51"
+  },
+  {
+   "title": "'The Government Doesn't Own Our Data': Prosecuted GrapheneOS User",
+   "url": "https://decrypt.co/376631/the-government-doesnt-own-our-data-prosecuted-grapheneos-user",
+   "pubDate": "Wed, 26 Aug 2026 17:24:52 +0000",
+   "source": "decrypt.co",
+   "summary": "'The Government Doesn't Own Our Data': Prosecuted GrapheneOS User Coin Prices BTC $78,925.00 $2,500.70 $704.98 $1.41 $0.999977 $101.60 $0.335674 $1.035 $81.94 $0.087167 $797.51"
+  },
+  {
+   "title": "Crypto CEO Faces US Extradition Over Alleged $20 Million Token Scheme",
+   "url": "https://decrypt.co/376617/crypto-ceo-extradition-20-million-scheme",
+   "pubDate": "Wed, 26 Aug 2026 17:15:33 +0000",
+   "source": "decrypt.co",
+   "summary": "Manpreet Kohli, accused of making $20 million from an alleged scheme to manipulate the Saitama token, is a step closer to facing trial in Boston."
+  },
+  {
+   "title": "Tokenized Deposits Could Drain $700 Billion From Bank Lending, Dallas Fed Warns",
+   "url": "https://decrypt.co/376609/tokenized-deposits-bank-lending-dallas-fed",
+   "pubDate": "Wed, 26 Aug 2026 16:18:24 +0000",
+   "source": "decrypt.co",
+   "summary": "A shift toward faster, more rate-sensitive deposits could push banks into safer assets, constrain lending, and raise borrowing costs, Dallas Fed researchers said."
+  },
+  {
+   "title": "XRP Leads Crypto Pullback as Leverage Unwind Tests Rally",
+   "url": "https://decrypt.co/376601/xrp-price-leverage-unwind-tests-rally",
+   "pubDate": "Wed, 26 Aug 2026 15:29:49 +0000",
+   "source": "decrypt.co",
+   "summary": "XRP led losses among the 10 biggest cryptocurrencies today. The charts show the real test for its rally is only getting started."
+  },
+  {
+   "title": "Ethereum Devs Propose Deposit Contract Overhaul to Quantum-Proof Staking",
+   "url": "https://decrypt.co/376599/ethereum-devs-propose-deposit-contract-overhaul-to-quantum-proof-staking",
+   "pubDate": "Wed, 26 Aug 2026 15:04:58 +0000",
+   "source": "decrypt.co",
+   "summary": "The proposal would let validator keys grow to 8,192 bytes and adds a switch that permanently retires today's BLS signatures."
+  },
+  {
+   "title": "Digital Euro Will Offer 'Maximum Level of Privacy,' ECB Board Member Says",
+   "url": "https://decrypt.co/376590/digital-euro-will-offer-maximum-level-of-privacy-ecb-board-member-says",
+   "pubDate": "Wed, 26 Aug 2026 12:51:03 +0000",
+   "source": "decrypt.co",
+   "summary": "Piero Cipollone said the Eurosystem would not be able to link individuals to transactions, though the banks handling them still could."
+  },
+  {
+   "title": "Revolut Launches Euro-Pegged EURR Stablecoin",
+   "url": "https://decrypt.co/376575/revolut-launches-euro-pegged-eurr-stablecoin",
+   "pubDate": "Wed, 26 Aug 2026 12:31:13 +0000",
+   "source": "decrypt.co",
+   "summary": "EURR has gone live for selected customers in Denmark, Poland and Portugal, with a Luxembourg subsidiary of Stripe holding the reserves."
+  },
+  {
+   "title": "Morning Minute: LayerZero Announces ATLAS as New Settlement Engine",
+   "url": "https://decrypt.co/376580/morning-minute-layerzero-announces-atlas-as-new-settlement-engine",
+   "pubDate": "Wed, 26 Aug 2026 11:50:27 +0000",
+   "source": "decrypt.co",
+   "summary": "The market liked the news, with ZRO up 10% and jumping nearly 50% off its local bottom."
+  },
+  {
+   "title": "Roman Storm's Tornado Cash Retrial Pushed to April 2027",
+   "url": "https://decrypt.co/376577/roman-storms-tornado-cash-retrial-pushed-to-april-2027",
+   "pubDate": "Wed, 26 Aug 2026 10:42:35 +0000",
+   "source": "decrypt.co",
+   "summary": "Judge Katherine Polk Failla adjourned the retrial by more than six months, with Storm's motion for acquittal still undecided."
   },
   {
    "title": "Elon Musk’s SpaceX Plans $100 Billion Louisiana Spaceport",
    "url": "https://decrypt.co/376573/elon-musk-spacex-100-billion-spaceport",
    "pubDate": "Tue, 25 Aug 2026 22:16:03 +0000",
    "source": "decrypt.co",
-   "summary": "Elon Musk’s SpaceX Plans $100 Billion Louisiana Spaceport Coin Prices BTC $78,874.00 $2,453.58 $696.81 $1.45 $0.999898 $97.28 $0.336921 $1.039 $80.17 $0.086798 $777.61"
+   "summary": "The 10-year project in Vermilion Parish will include five launch complexes and infrastructure for Starship missions."
   },
   {
    "title": "XRP Hot Streak Cools as Traders Hit a Wall: Where Does It Go Next?",
    "url": "https://decrypt.co/376559/xrp-price-cools-where-next",
    "pubDate": "Tue, 25 Aug 2026 21:46:04 +0000",
    "source": "decrypt.co",
-   "summary": "XRP Hot Streak Cools as Traders Hit a Wall: Where Does It Go Next? Coin Prices BTC $78,874.00 $2,453.58 $696.81 $1.45 $0.999898 $97.28 $0.336921 $1.039 $80.17 $0.086798 $777.61"
+   "summary": "XRP has given back two days of gains after a vertical recovery, and the charts say the bounce just met a wall."
   },
   {
    "title": "Alibaba to Release Qwen 3.8-Flash-Next as a Preview of What Qwen 4 Will Offer",
    "url": "https://decrypt.co/376530/alibaba-qwen-3-8-flash-next-preview-qwen-4",
    "pubDate": "Tue, 25 Aug 2026 21:16:04 +0000",
    "source": "decrypt.co",
-   "summary": "Alibaba to Release Qwen 3.8-Flash-Next as a Preview of What Qwen 4 Will Offer Coin Prices BTC $78,874.00 $2,453.58 $696.81 $1.45 $0.999898 $97.28 $0.336921 $1.039 $80.17 $0.086798 $777.61"
+   "summary": "Alibaba's Qwen team is teasing its next architecture a day early—and the specs say it runs near-frontier scale on a fraction of the power."
   },
   {
    "title": "These Researchers Just Shrunk an AI Model and Somehow Made It Smarter",
    "url": "https://decrypt.co/376536/researchers-shrink-ai-model-made-smarter",
    "pubDate": "Tue, 25 Aug 2026 20:46:03 +0000",
    "source": "decrypt.co",
-   "summary": "These Researchers Just Shrunk an AI Model and Somehow Made It Smarter Coin Prices BTC $78,874.00 $2,453.58 $696.81 $1.45 $0.999898 $97.28 $0.336921 $1.039 $80.17 $0.086798 $777.61"
+   "summary": "A smaller, cheaper AI usually means a dumber one. A new technique flipped that—and your phone might be the winner."
   },
   {
    "title": "Bitcoin Open Interest Collapses to 12%. Is the Short Squeeze Over?",
    "url": "https://decrypt.co/376473/bitcoin-open-interest-price-short-squeeze",
    "pubDate": "Tue, 25 Aug 2026 20:16:04 +0000",
    "source": "decrypt.co",
-   "summary": "Bitcoin Open Interest Collapses to 12%. Is the Short Squeeze Over? Coin Prices BTC $78,874.00 $2,453.58 $696.81 $1.45 $0.999898 $97.28 $0.336921 $1.039 $80.17 $0.086798 $777.61"
+   "summary": "Crypto-margined Bitcoin futures have collapsed from near-total dominance to about 12%. But leveraged traders are still placing big bets."
   },
   {
    "title": "What's the Deal With Nancy Pelosi and the Bloom Energy Stock Surge?",
@@ -437,7 +549,7 @@
    "url": "https://decrypt.co/376503/crypto-fear-greed-index-extreme-greed",
    "pubDate": "Tue, 25 Aug 2026 19:11:04 +0000",
    "source": "decrypt.co",
-   "summary": "Crypto Market Flips From Fear to 'Extreme Greed' for First Time Since 2024 Coin Prices BTC $78,874.00 $2,453.58 $696.81 $1.45 $0.999898 $97.28 $0.336921 $1.039 $80.17 $0.086798 $777.61"
+   "summary": "The Crypto Fear and Greed Index was at 36, firmly in the fear zone, just a month ago."
   },
   {
    "title": "Mistral and HUMAIN Are Building 'Sovereign AI' in Saudi Arabia",
@@ -451,14 +563,14 @@
    "url": "https://decrypt.co/376489/gold-price-three-month-high-bitcoin",
    "pubDate": "Tue, 25 Aug 2026 17:24:54 +0000",
    "source": "decrypt.co",
-   "summary": "Gold Hits Three-Month High as Bitcoin Tests $80,000 Coin Prices BTC $78,874.00 $2,453.58 $696.81 $1.45 $0.999898 $97.28 $0.336921 $1.039 $80.17 $0.086798 $777.61"
+   "summary": "Gold extended its August rally as a weaker dollar and falling yields boosted demand, while Bitcoin briefly climbed above $80,000 for the first time since May."
   },
   {
    "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
    "url": "https://decrypt.co/376446/bitcoins-price-rally-outrunning-market",
    "pubDate": "Tue, 25 Aug 2026 16:45:59 +0000",
    "source": "decrypt.co",
-   "summary": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why Coin Prices BTC $78,874.00 $2,453.58 $696.81 $1.45 $0.999898 $97.28 $0.336921 $1.039 $80.17 $0.086798 $777.61"
+   "summary": "Bitcoin gained roughly 24% this week while the broader crypto market grew by less, a mismatch that shows up clearly in Bitcoin's rising share of the total crypto market."
   },
   {
    "title": "Crypto Group Warns Regulators Against Expanding Stablecoin KYC",
@@ -472,7 +584,7 @@
    "url": "https://decrypt.co/376441/crypto-fund-founder-convicted-of-fraud-over-fake-trading-bot",
    "pubDate": "Tue, 25 Aug 2026 14:56:10 +0000",
    "source": "decrypt.co",
-   "summary": "Crypto Fund Founder Convicted of Fraud Over Fake Trading Bot Coin Prices BTC $78,874.00 $2,453.58 $696.81 $1.45 $0.999898 $97.28 $0.336921 $1.039 $80.17 $0.086798 $777.61"
+   "summary": "Japheth Dillman told investors that Block Bits Capital's \"Autotrader\" software was finished and running, and took nearly $1 million."
   },
   {
    "title": "Dozens of Fake Firefox Wallet Extensions Linked to Crypto-Stealing Malware",
@@ -536,125 +648,6 @@
    "pubDate": "Mon, 24 Aug 2026 20:46:03 +0000",
    "source": "decrypt.co",
    "summary": "Ox Alpha is topping benchmark scores, reads a million tokens, takes video as input, and has developers guessing who's behind it."
-  },
-  {
-   "title": "Why the Bitcoin Rally Looks Like a Vote Against the Dollar",
-   "url": "https://decrypt.co/376394/bitcoins-price-rally-trade-against-dollar",
-   "pubDate": "Mon, 24 Aug 2026 20:16:03 +0000",
-   "source": "decrypt.co",
-   "summary": "Bitcoin and gold rose as the dollar weakened following expanded Treasury bond buybacks, reflecting concerns about U.S. fiscal policy, analysts say."
-  },
-  {
-   "title": "Coinbase Brings Tokenized Stocks to Ethereum L2 Base",
-   "url": "https://decrypt.co/376393/coinbase-tokenized-stocks-base-ethereum",
-   "pubDate": "Mon, 24 Aug 2026 19:43:43 +0000",
-   "source": "decrypt.co",
-   "summary": "The tokens represent shares held by regulated custodian Alpaca and can be traded or used in decentralized finance applications on Base."
-  },
-  {
-   "title": "Hyperliquid Hits Record High as $1.2 Billion Token Unlock Looms",
-   "url": "https://decrypt.co/376375/hypeliquid-price-record-high-token-unlock",
-   "pubDate": "Mon, 24 Aug 2026 18:30:27 +0000",
-   "source": "decrypt.co",
-   "summary": "Hyperliquid's token is riding a record into its largest remaining supply release."
-  },
-  {
-   "title": "Zcash Hits Eight-Year High as Futures Bets Nearly Double",
-   "url": "https://decrypt.co/376372/zcash-eight-year-high-price-futures-bets",
-   "pubDate": "Mon, 24 Aug 2026 17:50:35 +0000",
-   "source": "decrypt.co",
-   "summary": "ZEC broke above $880 while open interest in perpetual futures climbed to $1.8 billion."
-  },
-  {
-   "title": "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week—Only $2.6 Billion Was New Money",
-   "url": "https://decrypt.co/376349/bitcoin-ethereum-etfs-23-billion-aum-inflows",
-   "pubDate": "Mon, 24 Aug 2026 17:07:32 +0000",
-   "source": "decrypt.co",
-   "summary": "Bitcoin and Ethereum ETFs booked their strongest inflow week since October, but most of the gain came from coins investors already owned getting more valuable."
-  },
-  {
-   "title": "Bitmine Buys Another $81M in Ethereum as ETH Outperforms Bitcoin",
-   "url": "https://decrypt.co/376336/bitmine-81m-more-ethereum-eth-tops-bitcoin",
-   "pubDate": "Mon, 24 Aug 2026 15:43:36 +0000",
-   "source": "decrypt.co",
-   "summary": "Bitmine is about 187,000 Ethereum short of its 5% of supply target."
-  },
-  {
-   "title": "Morning Minute: Saylor’s Strategy Back in Green As BTC Soars to $78k",
-   "url": "https://decrypt.co/376321/morning-minute-saylors-strategy-back-in-green-as-btc-soars-to-78k",
-   "pubDate": "Mon, 24 Aug 2026 12:54:23 +0000",
-   "source": "decrypt.co",
-   "summary": "Bitcoin just closed its biggest weekly candle of all time in notional value, and 10 alt leaders put up 50%+ gains in massive crypto rebound."
-  },
-  {
-   "title": "Strategy Raises $2B Selling MSTR Stock, Establishes 'USD Cash' Pot",
-   "url": "https://decrypt.co/376325/strategy-raises-2b-selling-mstr-stock-establishes-usd-cash-pot",
-   "pubDate": "Mon, 24 Aug 2026 12:49:33 +0000",
-   "source": "decrypt.co",
-   "summary": "The company has not bought Bitcoin since June, and has now created a liquidity account it said may be spent on more of it."
-  },
-  {
-   "title": "Pakistan Sets September 5 Deadline for Crypto Firms to Register",
-   "url": "https://decrypt.co/376318/pakistan-sets-september-5-deadline-for-crypto-firms-to-register",
-   "pubDate": "Mon, 24 Aug 2026 12:14:27 +0000",
-   "source": "decrypt.co",
-   "summary": "Anyone serving Pakistani users since March must apply for clearance by September 5, then incorporate locally to keep going."
-  },
-  {
-   "title": "Bitcoin's Next Test Is $80,000 as Jackson Hole Meeting Looms",
-   "url": "https://decrypt.co/376315/bitcoins-next-test-is-80000-as-jackson-hole-meeting-looms",
-   "pubDate": "Mon, 24 Aug 2026 10:49:00 +0000",
-   "source": "decrypt.co",
-   "summary": "Kevin Warsh gives his first Jackson Hole keynote as Fed chair on Friday, with futures now pricing a September rate hike at 36%."
-  },
-  {
-   "title": "63% of Religious Books on Amazon Are Likely AI-Written, Study Finds",
-   "url": "https://decrypt.co/376295/religious-books-amazon-ai-written-study",
-   "pubDate": "Sun, 23 Aug 2026 16:31:04 +0000",
-   "source": "decrypt.co",
-   "summary": "Witchcraft books had the highest rate of likely AI-generated content at 78%, according to an Originality.ai analysis of more than 2,000 titles."
-  },
-  {
-   "title": "Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says",
-   "url": "https://decrypt.co/376265/robot-brains-chatgpt-moment-ace-robotics",
-   "pubDate": "Sun, 23 Aug 2026 14:31:04 +0000",
-   "source": "decrypt.co",
-   "summary": "The breakthrough could come from AI models that help robots understand and interact with the physical world, though widespread adoption may still be years away."
-  },
-  {
-   "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
-   "url": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
-   "pubDate": "Sat, 22 Aug 2026 17:31:03 +0000",
-   "source": "decrypt.co",
-   "summary": "The Entra ID flaw earned the highest possible severity score, but Microsoft says it patched the bug before publishing the CVE and found no evidence it was ever exploited."
-  },
-  {
-   "title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
-   "url": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
-   "pubDate": "Sat, 22 Aug 2026 15:31:04 +0000",
-   "source": "decrypt.co",
-   "summary": "A group of 20-odd developers is scanning the Bitcoin ecosystem for AI-discoverable flaws, warning that cheap, powerful models have handed attackers unprecedented reach."
-  },
-  {
-   "title": "A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds",
-   "url": "https://decrypt.co/376271/chatgpt-web-ai-written-pew",
-   "pubDate": "Sat, 22 Aug 2026 13:31:03 +0000",
-   "source": "decrypt.co",
-   "summary": "Pew Research scanned nearly half a million webpages with an AI detector and found the fingerprints concentrated on .com domains—and multiplying fast."
-  },
-  {
-   "title": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
-   "url": "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit",
-   "pubDate": "Fri, 21 Aug 2026 21:31:05 +0000",
-   "source": "decrypt.co",
-   "summary": "Coinkite's latest firmware requires users to add their own randomness when generating wallet seeds and fixes additional security issues uncovered during a three-week review."
-  },
-  {
-   "title": "Wall Street and Washington Fuel Bitcoin Rally: Here's What's Going On",
-   "url": "https://decrypt.co/376244/wall-street-washington-bitcoin-rally",
-   "pubDate": "Fri, 21 Aug 2026 20:07:05 +0000",
-   "source": "decrypt.co",
-   "summary": "Institutional buying, improving macro conditions and a friendlier regulatory outlook are supporting Bitcoin's rally, while billions in short liquidations have accelerated the move."
   },
   {
    "title": "Venezuela’s sanctions are stablecoins’ proof of concept",
@@ -1007,18 +1000,144 @@
    "summary": "From passageways to penumbras: a history of private life"
   },
   {
+   "title": "SHRINCS BIP published: Quantum-secure Bitcoin comes with a catch",
+   "url": "https://cointelegraph.com/magazine/shrincs-bip-is-published-quantum-secure-bitcoin-comes-with-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Thu, 27 Aug 2026 01:26:54 +0000",
+   "source": "cointelegraph.com",
+   "summary": "A new Bitcoin Improvement Proposal for the SHRINCS signature scheme has just been published to upgrade Bitcoin to quantum secure. Here’s everything you need to know."
+  },
+  {
+   "title": "Better launches Bitcoin-backed mortgages powered by Coinbase",
+   "url": "https://cointelegraph.com/news/better-launches-bitcoin-backed-mortgages-powered-by-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 26 Aug 2026 20:09:23 +0000",
+   "source": "cointelegraph.com",
+   "summary": "Better and Coinbase have launched a crypto-backed mortgage product that lets US homebuyers pledge Bitcoin as collateral for a down payment without having to sell it."
+  },
+  {
+   "title": "Here’s what happened in crypto today",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 26 Aug 2026 19:14:06 +0000",
+   "source": "cointelegraph.com",
+   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+  },
+  {
+   "title": "Chainalysis estimates $457B in taxable crypto activity, says CARF misses most",
+   "url": "https://cointelegraph.com/news/chainalysis-estimates-457b-in-potentially-taxable-crypto-activity-says-carf-misses-most-onchain-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 26 Aug 2026 17:48:34 +0000",
+   "source": "cointelegraph.com",
+   "summary": "The blockchain analytics firm said just 14% of the onchain activity it identified is covered by the OECD’s international crypto tax-reporting framework."
+  },
+  {
+   "title": "SEC sends crypto custody rule overhaul to White House for review",
+   "url": "https://cointelegraph.com/news/sec-crypto-custody-rules-investment-firms-white-house?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 26 Aug 2026 16:19:09 +0000",
+   "source": "cointelegraph.com",
+   "summary": "The securities regulator’s crypto custody overhaul could clarify how investment advisers and funds hold digital assets for clients as the proposal moves through review."
+  },
+  {
+   "title": "77% of Americans see crypto in retirement plans as risky: Survey",
+   "url": "https://cointelegraph.com/news/77-of-americans-see-crypto-in-retirement-plans-as-risky-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 26 Aug 2026 16:10:56 +0000",
+   "source": "cointelegraph.com",
+   "summary": "A new survey finds broad skepticism toward crypto in workplace retirement plans as US policymakers move to expand access to alternative assets."
+  },
+  {
+   "title": "Bitcoin dips below $78K as stocks, gold fall on higher US PCE Inflation data",
+   "url": "https://cointelegraph.com/markets/bitcoin-dips-below-78k-as-stocks-gold-fall-on-higher-us-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 26 Aug 2026 15:58:55 +0000",
+   "source": "cointelegraph.com",
+   "summary": "Bitcoin stayed away from challenging $80,000 after July US PCE inflation data came in slightly higher than anticipated, pressuring gold and risk assets."
+  },
+  {
+   "title": "Protocol upgrade decouples consensus from execution to solve scaling bottlenecks",
+   "url": "https://cointelegraph.com/ecosystem/protocol-upgrade-decouples-consensus-from-execution-to-solve-scaling-bottlenecks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 26 Aug 2026 15:04:32 +0000",
+   "source": "cointelegraph.com",
+   "summary": "CTDG Dev Hub participant’s protocol upgrade decouples consensus from execution, allowing network nodes to reach agreement on blocks before transaction execution completes."
+  },
+  {
+   "title": "SEC’s proposed crypto rules probably won’t spark new ICO boom",
+   "url": "https://cointelegraph.com/magazine/the-sec-wants-to-bring-back-icos-theres-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 26 Aug 2026 13:30:00 +0000",
+   "source": "cointelegraph.com",
+   "summary": "The SEC’s ‘regulation crypto assets’ proposals could create early-round FOMO. But some tokens may still fall into the no-man’s land between security and non-security."
+  },
+  {
+   "title": "Students want crypto classes but learn on social media: OKX survey",
+   "url": "https://cointelegraph.com/news/students-crypto-classes-learn-social-media-okx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 26 Aug 2026 13:00:00 +0000",
+   "source": "cointelegraph.com",
+   "summary": "A separate review found only about 28% of accredited US business schools offered blockchain courses, despite strong demand in the OKX poll."
+  },
+  {
+   "title": "Bernstein forecasts Bitcoin to reclaim $125K by late 2026 ahead of cycle peak",
+   "url": "https://cointelegraph.com/markets/bernstein-predicts-bitcoin-reclaim-125000-year-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 26 Aug 2026 12:32:36 +0000",
+   "source": "cointelegraph.com",
+   "summary": "Bernstein expects Bitcoin to reclaim $125,000 by late 2026, before reaching $300,000 in 2029 under its base case, with a bull case of $500,000."
+  },
+  {
+   "title": "Taurus links digital asset platforms to Swift’s blockchain ledger",
+   "url": "https://cointelegraph.com/news/taurus-digital-asset-platforms-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 26 Aug 2026 12:00:00 +0000",
+   "source": "cointelegraph.com",
+   "summary": "Taurus expects first institutional clients to connect in days, with initial DLT transactions through its platforms expected within weeks."
+  },
+  {
+   "title": "Supply absorption ‘key question’ as Bitcoin fails to reclaim $80K: Analysis",
+   "url": "https://cointelegraph.com/markets/supply-absorption-key-question-as-bitcoin-fails-to-reclaim-80k-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 26 Aug 2026 10:49:26 +0000",
+   "source": "cointelegraph.com",
+   "summary": "Bitcoin struggled to establish support at $80,000 as investor cohorts all returned to net profitability."
+  },
+  {
+   "title": "Japan weighs blockchain fast lane for securities cash settlement",
+   "url": "https://cointelegraph.com/news/japan-weighs-blockchain-fast-lane-for-securities-cash-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 26 Aug 2026 10:46:47 +0000",
+   "source": "cointelegraph.com",
+   "summary": "The FSA, Finance Ministry, BOJ and financial institutions plan to study the infrastructure and produce a development plan by early 2027."
+  },
+  {
+   "title": "Kalshi’s $1.5B equity offering is three-quarters sold at $1.12B",
+   "url": "https://cointelegraph.com/news/kalshi-1-5-billion-equity-offering-1-12-billion-sold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 26 Aug 2026 10:15:44 +0000",
+   "source": "cointelegraph.com",
+   "summary": "The Form D lists 71 investors and says Kalshi is relying on an exemption that allows certain private offerings without SEC registration."
+  },
+  {
+   "title": "Revolut rolls out euro stablecoin in 3 European markets",
+   "url": "https://cointelegraph.com/news/revolut-eurr-euro-stablecoin-europe-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 26 Aug 2026 08:45:41 +0000",
+   "source": "cointelegraph.com",
+   "summary": "The Bridge-issued EURR token will support multiple blockchains and external wallets, with wider EEA availability expected this year."
+  },
+  {
+   "title": "Tornado Cash developer Roman Storm’s retrial delayed to April 2027",
+   "url": "https://cointelegraph.com/news/roman-storm-retrial-delayed-april-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 26 Aug 2026 07:44:04 +0000",
+   "source": "cointelegraph.com",
+   "summary": "Judge Katherine Polk Failla adjourned the retrial in light of Storm’s pending motion for acquittal and related request for a continuance."
+  },
+  {
+   "title": "Bitcoin ETFs tear through 2026 outflows in 7-day hot streak",
+   "url": "https://cointelegraph.com/news/bitcoin-etf-august-inflows-surge-past-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 26 Aug 2026 07:30:31 +0000",
+   "source": "cointelegraph.com",
+   "summary": "The funds are $390 million short of October 2025’s inflow total after cutting their year-to-date net outflow deficit by more than half."
+  },
+  {
+   "title": "US state banking groups plan nationwide blockchain network for 2027",
+   "url": "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Wed, 26 Aug 2026 04:19:00 +0000",
+   "source": "cointelegraph.com",
+   "summary": "BankChain joins a growing field of bank-led networks building shared infrastructure for tokenized deposits and onchain payments."
+  },
+  {
    "title": "World Liberty Financial launches USD1 natively on Canton Network",
    "url": "https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "pubDate": "Tue, 25 Aug 2026 20:35:10 +0000",
    "source": "cointelegraph.com",
    "summary": "USD1 is the sixth-largest stablecoin, with a market capitalization of more than $4 billion, according to industry data."
-  },
-  {
-   "title": "Here’s what happened in crypto today",
-   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Tue, 25 Aug 2026 18:34:20 +0000",
-   "source": "cointelegraph.com",
-   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
   },
   {
    "title": "Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant",
@@ -1037,7 +1156,7 @@
   {
    "title": "Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report",
    "url": "https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Tue, 25 Aug 2026 16:47:40 +0000",
+   "pubDate": "Tue, 25 Aug 2026 16:49:00 +0000",
    "source": "cointelegraph.com",
    "summary": "Strategy’s biggest risk may not be a Bitcoin crash, but losing access to the capital markets that help it service $1.76 billion in annual obligations."
   },
@@ -1091,298 +1210,179 @@
    "summary": "India plans to test tokenized corporate bonds in a September pilot, with state-controlled REC issuing the debt and select investors using wholesale CBDC payments."
   },
   {
-   "title": "Shipyard winds down IPFS work after Protocol Labs ends funding",
-   "url": "https://cointelegraph.com/news/shipyard-winds-down-ipfs-protocol-labs-funding?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Tue, 25 Aug 2026 11:57:33 +0000",
-   "source": "cointelegraph.com",
-   "summary": "The funding loss leaves InterPlanetary File System software without dedicated maintainers and puts the future of key public services in Protocol Labs’ hands."
-  },
-  {
-   "title": "BTC RSI bullish divergence draws 2022 comparisons as analysis weighs new price trend",
-   "url": "https://cointelegraph.com/markets/bitcoin-rsi-bullish-divergence-draws-2022-comparisons-as-analysis-weighs-new-price-trend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Tue, 25 Aug 2026 10:51:00 +0000",
-   "source": "cointelegraph.com",
-   "summary": "Bitcoin price analysis eyes the potential end of its current macro downtrend based on weekly RSI signals."
-  },
-  {
-   "title": "Thailand moves closer to Bitcoin, Ether ETFs with draft rules",
-   "url": "https://cointelegraph.com/news/thailand-bitcoin-ether-etfs-draft-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Tue, 25 Aug 2026 10:20:14 +0000",
-   "source": "cointelegraph.com",
-   "summary": "Thailand’s SEC opened consultations on local Bitcoin and Ether ETF rules and qualification standards for foreign digital asset custodians."
-  },
-  {
-   "title": "Standard Chartered becomes first bank distributor of HKD stablecoin",
-   "url": "https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Tue, 25 Aug 2026 09:52:40 +0000",
-   "source": "cointelegraph.com",
-   "summary": "The bank plans tokenized money market fund settlements in the fourth quarter as HKDAP expands its phased rollout into conventional banking."
-  },
-  {
-   "title": "Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved",
-   "url": "https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Tue, 25 Aug 2026 08:46:47 +0000",
-   "source": "cointelegraph.com",
-   "summary": "Galaxy Research’s latest tally shows that more than half of 221 Coldcard hack victim reports involved individual losses exceeding 1 Bitcoin."
-  },
-  {
-   "title": "Business owner faces up to 280 years over $24M crypto Ponzi scheme",
-   "url": "https://cointelegraph.com/news/business-owner-280-years-24m-crypto-ponzi-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Tue, 25 Aug 2026 07:58:10 +0000",
-   "source": "cointelegraph.com",
-   "summary": "A federal jury convicted Brent Kovar of wire fraud, mail fraud and money laundering after he took $24 million from at least 400 investors."
-  },
-  {
-   "title": "Bitcoin ETFs add $338M as six-day inflow streak hits $2.26B",
-   "url": "https://cointelegraph.com/markets/bitcoin-etf-six-day-inflow-streak-2-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Tue, 25 Aug 2026 07:38:29 +0000",
-   "source": "cointelegraph.com",
-   "summary": "Bitcoin ETFs have drawn $2.26 billion over six trading days, while year-to-date net outflows have narrowed to about $2.57 billion."
-  },
-  {
-   "title": "US targets Iran’s crypto sector, cites over $100M in oil-linked payments",
-   "url": "https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Tue, 25 Aug 2026 05:29:29 +0000",
-   "source": "cointelegraph.com",
-   "summary": "The US Treasury expanded sanctions to Iran’s digital asset sector, alleging a UAE-based broker processed over $100 million in crypto for oil sales."
-  },
-  {
-   "title": "BNB Chain activates Pasteur hard fork to strengthen bridge security",
-   "url": "https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Tue, 25 Aug 2026 03:56:29 +0000",
-   "source": "cointelegraph.com",
-   "summary": "BNB Chain activates the Pasteur hard fork on BSC, closing bridge and validator security gaps while targeting greater transaction capacity."
-  },
-  {
-   "title": "Korean bank taps Ripple for payments, Pakistan opens crypto licensing: Asia Express",
-   "url": "https://cointelegraph.com/magazine/korean-bank-to-use-ripple-payments-japans-first-exchange-in-4-years-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Tue, 25 Aug 2026 02:03:55 +0000",
-   "source": "cointelegraph.com",
-   "summary": "Asia’s biggest crypto hubs are locked in a tax-cut arms race, while Ripple will help Korea’s Jeonbuk Bank move money across borders."
-  },
-  {
-   "title": "CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets",
-   "url": "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Mon, 24 Aug 2026 21:33:13 +0000",
-   "source": "cointelegraph.com",
-   "summary": "A judge stayed the CFTC’s civil case against a soldier who allegedly used nonpublic information for a Polymarket bet, but the regulator is trying to weigh in on the criminal case."
-  },
-  {
-   "title": "Gemini plans to distribute crypto prediction markets through Apex brokerages",
-   "url": "https://cointelegraph.com/news/gemini-plans-to-distribute-crypto-prediction-markets-through-apex-brokerages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Mon, 24 Aug 2026 20:46:16 +0000",
-   "source": "cointelegraph.com",
-   "summary": "The proposed deal would make Gemini the exclusive venue for crypto event contracts offered through Apex’s FCM, expanding its prediction-market reach to brokerage clients."
-  },
-  {
-   "title": "Bernstein sees new USDC growth cycle, sets $140 Circle price target",
-   "url": "https://cointelegraph.com/news/bernstein-circle-usdc-growth-140-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Mon, 24 Aug 2026 20:00:39 +0000",
-   "source": "cointelegraph.com",
-   "summary": "USDC supply increased by roughly $2 billion in seven days, with Bernstein citing higher transaction activity and several factors that could support further growth."
-  },
-  {
-   "title": "Coinbase-affiliated advocacy group endorses candidates for US midterms",
-   "url": "https://cointelegraph.com/news/coinbase-stand-crypto-advocacy-group-endorses-midterm-candidates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Mon, 24 Aug 2026 19:18:06 +0000",
-   "source": "cointelegraph.com",
-   "summary": "With just over two months until the US general election, Stand With Crypto announced its pick for politicians in its efforts to “elect the most pro-crypto Congress in history.”"
-  },
-  {
-   "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
-   "url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Mon, 24 Aug 2026 19:11:48 +0000",
-   "source": "cointelegraph.com",
-   "summary": "Coinbase’s B20 equities bring stocks including Apple and Nvidia onchain, allowing eligible non-US users to trade them 24/7 and use them across DeFi."
-  },
-  {
-   "title": "Bitcoin price hits $80K as 24-hour crypto short liquidations pass $220M",
-   "url": "https://cointelegraph.com/markets/bitcoin-price-hits-80k-as-24-hour-crypto-short-liquidations-pass-m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Mon, 24 Aug 2026 17:48:44 +0000",
-   "source": "cointelegraph.com",
-   "summary": "As BTC tops $80,000 for the first time since May, price analysis warns that the market still needs to sustain higher levels to challenge the bear-market thesis."
-  },
-  {
-   "title": "Strive buys 1,110 Bitcoin for $81.5M, holdings top 21K BTC; ASST shares surge 11%",
-   "url": "https://cointelegraph.com/news/strive-buys-1110-bitcoin-for-815m-holdings-top-21k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Mon, 24 Aug 2026 16:44:55 +0000",
-   "source": "cointelegraph.com",
-   "summary": "Strive’s Nasdaq-traded shares surged more than 11% as the Bitcoin treasury company said it paid an average of $73,409 per BTC, pushing its holdings to 21,356 Bitcoin."
-  },
-  {
-   "title": "Crypto advocacy groups oppose Illinois digital asset tax in court",
-   "url": "https://cointelegraph.com/news/cryptocurrency-organizations-oppose-illinois-digital-asset-tax-court?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Mon, 24 Aug 2026 16:05:48 +0000",
-   "source": "cointelegraph.com",
-   "summary": "Following a similar lawsuit filed by the Digital Chamber in July, two digital asset advocacy groups challenged Illinois’ 0.2% crypto tax on constitutional and due process grounds."
-  },
-  {
-   "title": "Scalable Capital opens platform to AI agents like Claude and ChatGPT",
-   "url": "https://www.finextra.com/newsarticle/48298/scalable-capital-opens-platform-to-ai-agents-like-claude-and-chatgpt?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 25 Aug 2026 14:17:00 GMT",
+   "title": "US treasury establishes 'Quantum-Readiness Task Force'",
+   "url": "https://www.finextra.com/newsarticle/48305/us-treasury-establishes-quantum-readiness-task-force?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Thu, 27 Aug 2026 00:01:00 GMT",
    "source": "finextra.com",
-   "summary": "Munich-based bank Scalable Capital has opened its platform to AI assistants, giving customers the option to let the likes of ChatGPT, Claude and Grok carry out trades on their behalf."
+   "summary": "The US treasury department has launched a 'Quantum-Readiness Task Force' to help prepare for the financial sector’s transition to quantum-safe technology."
   },
   {
-   "title": "Itoflow raises $2.5m for investment research AI agents",
-   "url": "https://www.finextra.com/newsarticle/48297/itoflow-raises-25m-for-investment-research-ai-agents?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 25 Aug 2026 13:05:00 GMT",
+   "title": "Canadian payment processor Helcim raises C$53m",
+   "url": "https://www.finextra.com/newsarticle/48306/canadian-payment-processor-helcim-raises-c53m?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Thu, 27 Aug 2026 00:01:00 GMT",
    "source": "finextra.com",
-   "summary": "Startup Itoflow has raised $2.5 million in pre-seed funding for its AI platform helping professional investment teams scale research and portfolio management."
+   "summary": "Helcim, a Canadian payment processor serving small and medium sized businesses, has raised C$53 million in a Series C funding round."
   },
   {
-   "title": "Revolut launches dedicated AI research lab built on its own foundation model",
-   "url": "https://www.finextra.com/newsarticle/48296/revolut-launches-dedicated-ai-research-lab-built-on-its-own-foundation-model?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 25 Aug 2026 09:53:00 GMT",
+   "title": "Young British investors trust AI more than TV or celebs",
+   "url": "https://www.finextra.com/newsarticle/48309/young-british-investors-trust-ai-more-than-tv-or-celebs?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Thu, 27 Aug 2026 00:01:00 GMT",
    "source": "finextra.com",
-   "summary": "Revolut has launched a dedicated AI research division built around its foundation model, Pragma, with the aim of developing a single, unified system capable of understanding the true nuance of financial behaviour in real time."
+   "summary": "Younger Brits trust AI tools more than TV and radio, the press, or social media influencers when it comes to investment advice, according to Financial Conduct Authority research."
   },
   {
-   "title": "Financial services industry publishes roadmap for equity issuance electronification",
-   "url": "https://www.finextra.com/newsarticle/48295/financial-services-industry-publishes-roadmap-for-equity-issuance-electronification?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 25 Aug 2026 09:27:00 GMT",
+   "title": "Brink's-NCR Atleos deal faces UK competition probe",
+   "url": "https://www.finextra.com/newsarticle/48312/brinks-ncr-atleos-deal-faces-uk-competition-probe?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 26 Aug 2026 20:50:00 GMT",
    "source": "finextra.com",
-   "summary": "In a step towards the first fully electronic IPO, the FIX Trading Community (FIX) and the Investment Association (IA), have published an industry best practice framework to support the modernisation of equity capital raising processes."
+   "summary": "The UK's Competition and Markets Authority (CMA) has launched an inquiry into cash management giant Brink's' planned $6.6 billion deal to buy ATM operator NCR Atleos."
   },
   {
-   "title": "CommBank rolls out payout platform in advance of cheque phase out",
-   "url": "https://www.finextra.com/newsarticle/48294/commbank-rolls-out-payout-platform-in-advance-of-cheque-phase-out?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 25 Aug 2026 09:12:00 GMT",
+   "title": "Lloyds customers suffer another app outage",
+   "url": "https://www.finextra.com/newsarticle/48310/lloyds-customers-suffer-another-app-outage?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 26 Aug 2026 16:07:00 GMT",
    "source": "finextra.com",
-   "summary": "CommBank’s venture scaling arm, x15ventures, has launched PaidIt – a new platform to help organisations more easily manage remediation payments, refunds, and other payouts."
+   "summary": "Lloyds Banking Group customers have been hit with a second app outage in the space of a fortnight, with thousands of users reporting problems accessing their accounts."
   },
   {
-   "title": "NatWest partners Enterprise Nation to back small businesses",
-   "url": "https://www.finextra.com/newsarticle/48291/natwest-partners-enterprise-nation-to-back-small-businesses?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 25 Aug 2026 00:01:00 GMT",
+   "title": "Multiplier raises $6m to build AI for asset managers",
+   "url": "https://www.finextra.com/newsarticle/48307/multiplier-raises-6m-to-build-ai-for-asset-managers?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 26 Aug 2026 14:06:00 GMT",
    "source": "finextra.com",
-   "summary": "NatWest has teamed up with Enterprise Nation to help small businesses find practical support, advice, workspace and funding opportunities."
+   "summary": "Multiplier, an AI startup making agent harnesses for asset managers, has raised $6 million in a seed financing round."
   },
   {
-   "title": "AI-native financial services startup Neno raises €6.6 million",
-   "url": "https://www.finextra.com/newsarticle/48292/ai-native-financial-services-startup-neno-raises-66-million?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 25 Aug 2026 00:01:00 GMT",
+   "title": "Japan to form study group for blockchain-based settlement of stock and bonds",
+   "url": "https://www.finextra.com/newsarticle/48304/japan-to-form-study-group-for-blockchain-based-settlement-of-stock-and-bonds?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 26 Aug 2026 11:36:00 GMT",
    "source": "finextra.com",
-   "summary": "Dutch fintech Neno has raised €6.6 million in seed funding to bring its AI-native accounting and tax offering for SMEs to the wider European market."
+   "summary": "Japan's FSA, finance ministry and central bank are planning to develop a national blockchain-based settlement infrastructure for stocks and Japanese government bonds (JGBs), the Nikkei reported Wednesday."
   },
   {
-   "title": "Pay.com.au brings Aussie rewards platform to the US",
-   "url": "https://www.finextra.com/newsarticle/48293/paycomau-brings-aussie-rewards-platform-to-the-us?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Mon, 24 Aug 2026 18:51:00 GMT",
+   "title": "Ex-Lunar founders raise €8.2m to launch AI-native audit firm Repodo",
+   "url": "https://www.finextra.com/newsarticle/48303/ex-lunar-founders-raise-82m-to-launch-ai-native-audit-firm-repodo?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 26 Aug 2026 09:58:00 GMT",
    "source": "finextra.com",
-   "summary": "Australian payments and rewards platform pay.com.au has raised US$28 million in Series E funding to launch in the US."
+   "summary": "Ken Villum Klausen, Peter Andreasen and Joachim Strøjer Hansen, who co-founded and helped build Nordic digital bank Lunar as CEO, CFO and CPO respectively, have raised €8.2 million in pre-seed funding to launch Repodo, a new authorised audit firm built around AI from the ground up."
   },
   {
-   "title": "India set to tokenise corporate bond market - Reuters",
-   "url": "https://www.finextra.com/newsarticle/48290/india-set-to-tokenise-corporate-bond-market---reuters?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Mon, 24 Aug 2026 12:32:00 GMT",
+   "title": "Goldman Sachs partner warns that AI could erode bankers' reasoning skills",
+   "url": "https://www.finextra.com/newsarticle/48302/goldman-sachs-partner-warns-that-ai-could-erode-bankers-reasoning-skills?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 26 Aug 2026 09:19:00 GMT",
    "source": "finextra.com",
-   "summary": "India's corporate bond market is set to undergo its first use of tokenisation in a move that could enable instant settlement of transactions."
+   "summary": "Chris Chruchman, a Goldman Sachs partner leading one of the bank's flagship AI projects, has warned that the technology could degrade bankers' reasoning skills if relied on too heavily by employees."
   },
   {
-   "title": "ADIB appoints first chief AI officer",
-   "url": "https://www.finextra.com/newsarticle/48289/adib-appoints-first-chief-ai-officer?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Mon, 24 Aug 2026 10:50:00 GMT",
+   "title": "Revolut rolls out euro stablecoin",
+   "url": "https://www.finextra.com/newsarticle/48301/revolut-rolls-out-euro-stablecoin?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 26 Aug 2026 08:58:00 GMT",
    "source": "finextra.com",
-   "summary": "Abu Dhabi Islamic Bank(ADIB) has named Pedro Uria-Recio as its inaugural chief AI officer."
+   "summary": "Revolut has begun a phased rollout of its first stablecoin, euro-backed EURR, to eligible customers in Denmark, Poland, and Portugal, with wider availability in other EEA markets expected later this year."
   },
   {
-   "title": "Stablecoin platform Fasset hits $1bn valuation",
-   "url": "https://www.finextra.com/newsarticle/48288/stablecoin-platform-fasset-hits-1bn-valuation?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Mon, 24 Aug 2026 10:24:00 GMT",
+   "title": "Google Cloud launches AI platform for financial professionals",
+   "url": "https://www.finextra.com/newsarticle/48299/google-cloud-launches-ai-platform-for-financial-professionals?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 26 Aug 2026 00:01:00 GMT",
    "source": "finextra.com",
-   "summary": "US-based start-up Fasset, which is described as an AI-powered stablecoin neobanking platform, has reached unicorn status after its latest fund raising effort."
+   "summary": "Google Cloud has unveiled a purpose-built agentic AI offering engineered for financial professionals, with Deutsche Bank signed up as an early adopter."
   },
   {
-   "title": "Responsible Fintech Institute debuts quantum pilot",
-   "url": "https://www.finextra.com/newsarticle/48287/responsible-fintech-institute-debuts-quantum-pilot?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Mon, 24 Aug 2026 09:33:00 GMT",
+   "title": "Visa joins MAS-led project to pilot stablecoin settlement",
+   "url": "https://www.finextra.com/newsarticle/48300/visa-joins-mas-led-project-to-pilot-stablecoin-settlement?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 26 Aug 2026 00:01:00 GMT",
    "source": "finextra.com",
-   "summary": "Non-profit fintech, Responsible Fintech Institute (RFI), has launched a pilot designed to examine post-quantum security for digital assets transactions"
+   "summary": "Visa has joined a Monetary Authority of Singapore (MAS)-led project focused on connecting traditional payments and stablecoin networks."
   },
   {
-   "title": "Clear Street launches electronic execution across Europe and Asia Pacific",
-   "url": "https://www.finextra.com/pressarticle/110725/clear-street-launches-electronic-execution-across-europe-and-asia-pacific?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 25 Aug 2026 16:25:00 GMT",
+   "title": "Vikar Technologies and Swivel team on account funding for FIs",
+   "url": "https://www.finextra.com/pressarticle/110737/vikar-technologies-and-swivel-team-on-account-funding-for-fis?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 26 Aug 2026 20:46:00 GMT",
    "source": "finextra.com",
-   "summary": "Clear Street (\"Clear Street\" or \"the Company\"), a cloud-native financial infrastructure technology firm on a mission to give every sophisticated investor access to every asset in every market, today announced the launch of electronic execution in Europe and Asia-Pacific, extending its algorithmic trading offering beyond the US and Canada for the first time."
+   "summary": "Vikar Technologies, a leading provider of digital account opening and lending solutions for financial institutions (FIs), announced a strategic partnership with SWIVEL, a subsidiary of SWBC and leading fintech innovator, to integrate SWIVEL’s real-time payment processing platform into Vikar’s account opening ecosystem."
   },
   {
-   "title": "34 malware families target 1,243 mobile banking and fintech apps across 90 countries globally",
-   "url": "https://www.finextra.com/pressarticle/110724/34-malware-families-target-1243-mobile-banking-and-fintech-apps-across-90-countries-globally?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 25 Aug 2026 15:53:00 GMT",
+   "title": "Movemint expands to banking sector",
+   "url": "https://www.finextra.com/pressarticle/110736/movemint-expands-to-banking-sector?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 26 Aug 2026 15:34:00 GMT",
    "source": "finextra.com",
-   "summary": "Banking fraud now starts on the mobile device."
+   "summary": "Movemint today announced the launch of its embedded personalization technology to the banking sector, giving financial institutions (FIs) the data-driven tools to instantly scale loans, deposits, and service offers."
   },
   {
-   "title": "Bluefin and Visa collaborate on in-person payment acceptance",
-   "url": "https://www.finextra.com/pressarticle/110723/bluefin-and-visa-collaborate-on-in-person-payment-acceptance?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 25 Aug 2026 15:44:00 GMT",
+   "title": "Vanguard to acquire Altruist",
+   "url": "https://www.finextra.com/pressarticle/110735/vanguard-to-acquire-altruist?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 26 Aug 2026 14:43:00 GMT",
    "source": "finextra.com",
-   "summary": "Bluefin, the global leader in payment and data security infrastructure for integrated and orchestrated commerce, and Visa (NYSE: V), a world leader in digital payments, today announced a new card-present acceptance offering that combines Bluefin's PCI-validated P2PE solution with Visa Acceptance Solutions."
+   "summary": "Vanguard and Altruist, an AI-forward wealth technology and custody platform serving financial advisors, announced today that they have entered into a definitive agreement under which Vanguard will acquire Altruist."
   },
   {
-   "title": "Nacha welcomes Finastra to preferred partner programme",
-   "url": "https://www.finextra.com/pressarticle/110722/nacha-welcomes-finastra-to-preferred-partner-programme?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 25 Aug 2026 15:41:00 GMT",
+   "title": "Sweetwater goes live with Gr4vy",
+   "url": "https://www.finextra.com/pressarticle/110734/sweetwater-goes-live-with-gr4vy?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 26 Aug 2026 14:35:00 GMT",
    "source": "finextra.com",
-   "summary": "Nacha today welcomed Finastra as a Nacha Preferred Partner for ACH Experience, ISO 20022, and Risk and Fraud Prevention."
+   "summary": "Sweetwater, the number one online retailer for music makers, has chosen Gr4vy, the cloud-based payment orchestration platform, to modernize its payment infrastructure and simplify payment operations through a single orchestration layer."
   },
   {
-   "title": "Citi selets Caplight to provide pricing for its new Digital Depositary Receipt (DDR) product",
-   "url": "https://www.finextra.com/pressarticle/110721/citi-selets-caplight-to-provide-pricing-for-its-new-digital-depositary-receipt-ddr-product?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 25 Aug 2026 14:09:00 GMT",
+   "title": "Avaloq appoints Nidhi Singh as chief product and development officer",
+   "url": "https://www.finextra.com/pressarticle/110733/avaloq-appoints-nidhi-singh-as-chief-product-and-development-officer?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 26 Aug 2026 13:47:00 GMT",
    "source": "finextra.com",
-   "summary": "Caplight, the leading data and technology platform for private company securities, was selected by Citi to provide independent pricing for its new Digital Depositary Receipt (DDR) product."
+   "summary": "Avaloq today announces the appointment of Nidhi Singh as Chief Product and Development Officer and member of the Group Executive Board, effective 7 September."
   },
   {
-   "title": "EDX Markets integrates Figure’s YLDS as collateral and treasury asset",
-   "url": "https://www.finextra.com/pressarticle/110719/edx-markets-integrates-figures-ylds-as-collateral-and-treasury-asset?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 25 Aug 2026 14:00:00 GMT",
+   "title": "Federal Home Loan Bank of Atlanta selects ACI Connetic",
+   "url": "https://www.finextra.com/pressarticle/110732/federal-home-loan-bank-of-atlanta-selects-aci-connetic?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 26 Aug 2026 13:45:00 GMT",
    "source": "finextra.com",
-   "summary": "EDX Markets, a leading digital asset technology firm that combines an institutional-only trading venue with a central clearinghouse, today announced the integration of YLDS, the first SEC-registered, yield-bearing digital security issued by Figure Certificate Company (“FCC”), a subsidiary of Figure Technology Solutions, Inc. (Nasdaq: FIGR; OPEN: FGRS), into its ecosystem."
+   "summary": "ACI Worldwide (NASDAQ: ACIW), an original innovator in global payments technology, today announced that Federal Home Loan Bank of Atlanta (FHLBank Atlanta) has selected ACI Connetic for the payment processing behind its member funding services. The work will cover the Bank’s activity on the Fedwire Funds Service."
   },
   {
-   "title": "ANZ customer scam losses fall despite increased fraudulent activity",
-   "url": "https://www.finextra.com/pressarticle/110718/anz-customer-scam-losses-fall-despite-increased-fraudulent-activity?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 25 Aug 2026 12:18:00 GMT",
+   "title": "Tieto and Siirto partner to improve e-invoicing experience in Finland",
+   "url": "https://www.finextra.com/pressarticle/110731/tieto-and-siirto-partner-to-improve-e-invoicing-experience-in-finland?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 26 Aug 2026 13:43:00 GMT",
    "source": "finextra.com",
-   "summary": "ANZ has recorded a significant reduction in customer scam losses, despite cybercriminals continuing to evolve their scam activity, according to new data released during Scams Awareness Week."
+   "summary": "Tieto and Siirto, an instant payment method with more than 1 million registered users in Finland, are partnering to make digital invoicing more accessible, efficient and user-friendly for both businesses and consumers in Finland."
   },
   {
-   "title": "More than three in four 18 to 24-year-olds have used AI for personal finance - Lloyds",
-   "url": "https://www.finextra.com/pressarticle/110717/more-than-three-in-four-18-to-24-year-olds-have-used-ai-for-personal-finance---lloyds?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 25 Aug 2026 12:15:00 GMT",
+   "title": "Taurus enables financial institutions to connect to Swift's blockchain-based shared ledger",
+   "url": "https://www.finextra.com/pressarticle/110720/taurus-enables-financial-institutions-to-connect-to-swifts-blockchain-based-shared-ledger?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 26 Aug 2026 13:00:00 GMT",
    "source": "finextra.com",
-   "summary": "According to new analysis from Lloyds Banking Group, more than three in four (76%) 18 to 24-year-olds have used AI for personal finance – making them the UK's most enthusiastic adopters of AI for money management."
+   "summary": "Taurus, a leader in digital asset infrastructure, is enabling financial institutions to connect to Swift’s blockchain-based shared ledger, with the first live clients expected in a couple of days."
   },
   {
-   "title": "AI-driven portfolio management platform Standard Metrics raises $20 million",
-   "url": "https://www.finextra.com/pressarticle/110716/ai-driven-portfolio-management-platform-standard-metrics-raises-20-million?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 25 Aug 2026 09:46:00 GMT",
+   "title": "Abound chooses Monad for blockchain-based growth plan",
+   "url": "https://www.finextra.com/pressarticle/110730/abound-chooses-monad-for-blockchain-based-growth-plan?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 26 Aug 2026 12:12:00 GMT",
    "source": "finextra.com",
-   "summary": "SAN FRANCISCO, Aug. 24, 2026 /PRNewswire/ -- Standard Metrics, the AI-driven portfolio management platform for venture capital and private equity, today announced it has raised $20M in Series B funding led by 8VC with participation from Salesforce Ventures, Spark Capital, January Capital, First Trust Capital Partners, Socii Capital, Kindergarten Ventures, Calm Ventures, Gaingels, and more."
+   "summary": "Abound, the super-app for Indians in the US backed by Times Internet (Times of India Group), grew past $500 Million in remittance volumes served in the last year, with US and India markets accounting for the bulk of volumes."
   },
   {
-   "title": "Stripe celebrates 10 years in Singapore by expanding its infrastructure for global businesses",
-   "url": "https://www.finextra.com/pressarticle/110714/stripe-celebrates-10-years-in-singapore-by-expanding-its-infrastructure-for-global-businesses?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 25 Aug 2026 09:25:00 GMT",
+   "title": "Standard Chartered becomes first G-SIB to issue digitally native notes on Euroclear’s D-FMI",
+   "url": "https://www.finextra.com/pressarticle/110729/standard-chartered-becomes-first-g-sib-to-issue-digitally-native-notes-on-euroclears-d-fmi?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 26 Aug 2026 10:45:00 GMT",
    "source": "finextra.com",
-   "summary": "Stripe today shared new tools to accelerate the global expansion of Asian businesses, from expanded multi-currency treasury capabilities and new payment methods, to the ability to sell domestically in dozens of countries without a local entity."
+   "summary": "Standard Chartered today announced the issuance of a USD 200 million three-year floating-rate digitally native notes (DNNs), becoming the first Global Systemically Important Bank (G-SIB) and the first UK Issuer to issue on Euroclear’s Digital Financial Market Infrastructure (D-FMI)."
   },
   {
-   "title": "Payabl. teams with Visa to help merchants resolve disputes and prevent costly chargebacks",
-   "url": "https://www.finextra.com/pressarticle/110713/payabl-teams-with-visa-to-help-merchants-resolve-disputes-and-prevent-costly-chargebacks?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 25 Aug 2026 09:23:00 GMT",
+   "title": "Climate Impact X to mergewith Carbonplace",
+   "url": "https://www.finextra.com/pressarticle/110728/climate-impact-x-to-mergewith-carbonplace?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 26 Aug 2026 09:50:00 GMT",
    "source": "finextra.com",
-   "summary": "European financial technology provider payabl. has expanded its relationship with Visa to extend access to real-time dispute management tools for merchants across the UK and EU."
+   "summary": "Climate Impact X (CIX), a global environmental markets exchange headquartered in Singapore, and Carbonplace, a London-based full-service platform for carbon portfolio management and trading, have announced their intent to merge, bringing together complementary capabilities to build the financial market infrastructure underpinning the next phase of environmental markets."
   },
   {
-   "title": "MDT and OnTrac partners to help credit unions build AI readiness",
-   "url": "https://www.finextra.com/pressarticle/110712/mdt-and-ontrac-partners-to-help-credit-unions-build-ai-readiness?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Mon, 24 Aug 2026 18:42:00 GMT",
+   "title": "TransUnion launches next-generation consumer credit score",
+   "url": "https://www.finextra.com/pressarticle/110727/transunion-launches-next-generation-consumer-credit-score?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 26 Aug 2026 09:48:00 GMT",
    "source": "finextra.com",
-   "summary": "Member Driven Technologies (MDT), a CUSO that helps credit unions navigate complex financial technology ecosystems, today announced a partnership with OnTrac AI, an AI development and consulting firm, to extend MDT’s Transformational Consulting capabilities with deeper AI readiness, strategy and implementation expertise."
+   "summary": "TransUnion, a global information and insights company and one of the UK’s leading credit reference agencies, has today announced the launch of its next-generation consumer credit score."
+  },
+  {
+   "title": "Is Escrow Really the Answer to Most Resiliency Concerns?",
+   "url": "https://www.finextra.com/videoarticle/3591/is-escrow-really-the-answer-to-most-resiliency-concerns?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 26 Aug 2026 15:00:00 GMT",
+   "source": "finextra.com",
+   "summary": "Joining the FinextraTV studio, Wayne Scott, Global Regulatory Compliance Lead, Escode described the things that underpin a resiliency discussion, growing in complexity. Scott explained how many have some idea about how to protect their software from harm, but are missing a strong focus across supply failure, service deterioration, and concentration risk. When going further into the top of concentration, Scott spoke about how leaders often use the adage 'too big to fail’ but have underestimated that many are too big to save. He said this is why resiliency is so crucial and described how, while "
   },
   {
    "title": "The Future of Payments is More Than Just the Next 'Shiny New Toy'",
@@ -1469,13 +1469,6 @@
    "summary": "Joining FinextraTV for an episode of Unplugged, Tripp Wall, Founder and CEO, Pantheon Regeneration and Managing Partner, Trailhead Capital discussed his light bulb moment that prompted a new asset thesis for investable conservation. Providing context into his journey from alternative asset management to ecology, philanthropy and environmental regeneration, Wall explained how his financial background created a strong basis for improving existing nature asset frameworks. Wall went on to discuss the use of AI within nature bio-characteristic assesments, the future of sustainable approaches to dat"
   },
   {
-   "title": "How Has the Data Discussion Evolved Since the Proliferation of AI?",
-   "url": "https://www.finextra.com/videoarticle/3578/how-has-the-data-discussion-evolved-since-the-proliferation-of-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 04 Aug 2026 15:00:00 GMT",
-   "source": "finextra.com",
-   "summary": "Attending the Communify Intelligence Experience in London, Leon Saunders Calvert, President and Managing Director, Economist Enterprise spoke to FinextraTV to provide insights into how approaches and perceptions towards data have changed. Saunders Calvert said that the importance of data has not changed, but how it can be used and applied has significantly evolved. He mentions many of the opportunities that have arisen since the growth in AI and how this has dramatically transformed the data discussion, and equally the task of sustaining trust and preventing hallucinations. He emphasised the c"
-  },
-  {
    "title": "Investing in thriving communities - preparing for the Sustainable Finance Live hackathon",
    "url": "https://www.finextra.com/event-info/622/investing-in-thriving-communities---preparing-for-the-sustainable-finance-live-hackathon?utm_medium=rssfinextra&utm_source=finextrafeed",
    "pubDate": "Tue, 01 Sep 2026 15:00:00 GMT",
@@ -1560,6 +1553,13 @@
    "summary": "How can FIs effectively integrate agents to create a more connected response to regulatory change?"
   },
   {
+   "title": "Beyond connectivity: Creating more value across the payments lifecycle",
+   "url": "https://www.finextra.com/event-info/637/beyond-connectivity-creating-more-value-across-the-payments-lifecycle-?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Tue, 20 Oct 2026 15:00:00 GMT",
+   "source": "finextra.com",
+   "summary": "What practical considerations should the industry have for building a more connected and efficient payments ecosystem?"
+  },
+  {
    "title": "AI in payments: Short-term gains, long-term transformation",
    "url": "https://www.finextra.com/event-info/635/ai-in-payments-short-term-gains-long-term-transformation?utm_medium=rssfinextra&utm_source=finextrafeed",
    "pubDate": "Wed, 21 Oct 2026 15:00:00 GMT",
@@ -1567,109 +1567,123 @@
    "summary": "In five years’ time, will AI make payments more efficient, or will it fundamentally change how money moves around the world?"
   },
   {
-   "title": "The background check is becoming an API call — and that's the real question hanging over Checkr",
-   "url": "https://www.finextra.com/blogposting/32631/the-background-check-is-becoming-an-api-call--and-thats-the-real-question-hanging-over-checkr?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 25 Aug 2026 14:28:33 GMT",
+   "title": "Simplifying KYC complexities through the right technology",
+   "url": "https://www.finextra.com/blogposting/32646/simplifying-kyc-complexities-through-the-right-technology?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 26 Aug 2026 18:00:26 GMT",
    "source": "finextra.com",
-   "summary": "Every few years a category that used to be a product quietly turns into a primitive. Payments did it..."
+   "summary": "Geopolitical instabilities continue to add further pressure on sanction regimes, making them increas..."
   },
   {
-   "title": "From Pull to Push: The Shift to Embedded, AI-Driven Banking",
-   "url": "https://www.finextra.com/blogposting/32630/from-pull-to-push-the-shift-to-embedded-ai-driven-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 25 Aug 2026 13:44:08 GMT",
+   "title": "Digital wallets are changing the expectations around corporate payments",
+   "url": "https://www.finextra.com/blogposting/32645/digital-wallets-are-changing-the-expectations-around-corporate-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 26 Aug 2026 17:10:56 GMT",
    "source": "finextra.com",
-   "summary": "Banking is undergoing a quiet but profound transformation. While most people still interact with th"
+   "summary": "New data from the Global Payments Report 2026 puts hard numbers behind a shift most people in payme..."
   },
   {
-   "title": "White Label Crypto Wallet Development: The Complete Guide for Businesses",
-   "url": "https://www.finextra.com/blogposting/32628/white-label-crypto-wallet-development-the-complete-guide-for-businesses?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 25 Aug 2026 12:30:49 GMT",
+   "title": "Binary Options Risk Management: What Owners Often Miss",
+   "url": "https://www.finextra.com/blogposting/32644/binary-options-risk-management-what-owners-often-miss?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 26 Aug 2026 15:15:10 GMT",
    "source": "finextra.com",
-   "summary": "A crypto wallet used to be little more than a place to hold Bitcoin or Ethereum and send assets from..."
+   "summary": "I know developing any kind of software is not as easy as it looks. Let's take a simple example. You ..."
   },
   {
-   "title": "Why Is Cash Forecasting Still So Difficult?",
-   "url": "https://www.finextra.com/blogposting/32627/why-is-cash-forecasting-still-so-difficult?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 25 Aug 2026 12:13:07 GMT",
+   "title": "AI readiness, not cost, now decides KYC build vs. buy",
+   "url": "https://www.finextra.com/blogposting/32642/ai-readiness-not-cost-now-decides-kyc-build-vs-buy?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 26 Aug 2026 12:53:09 GMT",
    "source": "finextra.com",
-   "summary": "Large organisations have spent decades improving their financial systems. ERP platforms record trans..."
+   "summary": "Picture a compliance team in a regulatory review. The examiner is not asking about system architectu..."
   },
   {
-   "title": "From policy to practice - the case for shared responsibility in tackling fraud",
-   "url": "https://www.finextra.com/blogposting/32625/from-policy-to-practice---the-case-for-shared-responsibility-in-tackling-fraud?utm_medium=rssfinextra&utm_source=finextrafeed",
-   "pubDate": "Tue, 25 Aug 2026 09:40:31 GMT",
+   "title": "The Reliability Economy: Why Consistency Wins in Fintech",
+   "url": "https://www.finextra.com/blogposting/32641/the-reliability-economy-why-consistency-wins-in-fintech?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "pubDate": "Wed, 26 Aug 2026 12:49:52 GMT",
    "source": "finextra.com",
-   "summary": "The responsibility for tackling fraud has long fallen disproportionately on financial institutions, ..."
+   "summary": "Fintech has built its reputation on disruption. From mobile banking and digital wallets to real-time..."
   },
   {
-   "title": "Canada’s BMO and Scotiabank Beat Earnings Targets as Trade War Escalates",
-   "url": "https://www.pymnts.com/news/banking/2026/canadas-bmo-and-scotiabank-beat-earnings-targets-as-trade-war-escalates/",
-   "pubDate": "Tue, 25 Aug 2026 22:27:31 +0000",
+   "title": "Bank of England Welcomes Government Plan to Drive UK Payments Innovation",
+   "url": "https://www.pymnts.com/news/payments-innovation/2026/bank-of-england-welcomes-government-plan-to-drive-uk-payments-innovation/",
+   "pubDate": "Thu, 27 Aug 2026 01:53:35 +0000",
    "source": "pymnts.com",
-   "summary": "Canadian banks are not being harmed by the effects of new U.S. tariffs that impact some of their customers, and the banks may even find new opportunities, Reuters reported Tuesday (Aug. 25). Bank of Montreal ( BMO ) and Bank of Nova Scotia ( Scotiabank ) reported earnings Tuesday that beat quarterly profit estimates, according to the report. The banks’ CEOs said they are working with their clients on liquidity investment decisions, supply chain adjustments and market diversification, per the report. BMO CEO Darryl White said that the bank’s clients have “adjusted very well” to the impact of tr"
+   "summary": "The British Treasury plans to give the Bank of England a new “secondary objective” to support innovation in payments technology and digital currencies, including stablecoins, Reuters reported Wednesday (Aug. 26). The proposed objective aims to ensure that regulation keeps up with changes in technology, and it would require the bank to report annually to parliament on its progress, according to the report. City Minister Lucy Rigby said in the report: “Whilst financial stability will always remain the Bank’s primary objective, this secondary objective will support the Bank to continue to drive i"
   },
   {
-   "title": "Block’s Local Commerce Network Adds 30,000 Sellers",
-   "url": "https://www.pymnts.com/checkout-conversion/2026/blocks-local-commerce-network-adds-30000-sellers/",
-   "pubDate": "Tue, 25 Aug 2026 21:20:47 +0000",
+   "title": "FIFA World Cup Adds $3.5 Billion to New York and New Jersey Economies",
+   "url": "https://www.pymnts.com/economy/2026/fifa-world-cup-adds-3-5-billion-to-new-york-and-new-jersey-economies/",
+   "pubDate": "Thu, 27 Aug 2026 01:07:45 +0000",
    "source": "pymnts.com",
-   "summary": "Block ’s local commerce network, Neighborhoods , has added 30,000 more sellers, the company said in a Tuesday (Aug. 25) press release . Neighborhoods connects sellers who use Block’s Square with customers who use the company’s Cash App , according to the release. The program is built into Square Point of Sale and Square Terminal and is designed to help local businesses earn repeat visits. It enables customers to earn Local Cash equal to 10% of their order subtotal, up to $10 per order, on qualifying purchases with participating Neighborhoods sellers. They can then redeem the Local Cash on a fu"
+   "summary": "The FIFA World Cup 2026 generated $3.5 billion in total economic impact across New York and New Jersey, New York Gov. Kathy Hochul said in a Wednesday (Aug. 26) press release . Citing a study conducted by Tourism Economics , an Oxford Economics company, Hochul said World Cup activity in New York and New Jersey generated $1.9 billion in direct economic activity, $693 million in indirect business activity and $916 million in inducted economic activity, according to the release. The direct spending included $653 million in lodging, $346 million in food and beverage, $264 million in retail, $200 m"
   },
   {
-   "title": "3M Uses AI to Tame Its 60,000-Product Portfolio",
-   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/3m-uses-ai-to-tame-its-60000-product-portfolio/",
-   "pubDate": "Tue, 25 Aug 2026 20:45:00 +0000",
+   "title": "Nvidia CEO Says AI Is Already Productive, Not Just Promising",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-ceo-says-ai-is-already-productive-not-just-promising/",
+   "pubDate": "Thu, 27 Aug 2026 00:56:10 +0000",
    "source": "pymnts.com",
-   "summary": "3M sells more than 60,000 products, spanning adhesives, abrasives, films, automotive materials, electronics and safety gear, so many that finding the right product has become its own obstacle to a sale. The company launched Ask 3M, an AI assistant that gives industrial customers direct, self-service access to its technical expertise, 3M said in its own announcement. The tool focuses on industrial adhesives and tapes, with plans to expand into more categories over time. Ask 3M’s answers are grounded in verified 3M documentation rather than open internet data. An engineer can type a question in "
+   "summary": "Artificial intelligence has moved past the hype stage, according to Nvidia’s CEO. Jensen Huang put it plainly on the company’s second quarter earnings call that “AI has reached its inflection point. It’s doing useful work. Its tokens are productive and profitable. Now, compute is revenue.” What matters now, he told analysts, is that “AI is now doing productive and useful work” and “generating profitable tokens,” not whether it has cleared some abstract intelligence threshold. He waved off the industry’s fixation on artificial general intelligence entirely, calling AGI benchmarks “kind of sense"
   },
   {
-   "title": "Amazon Clothing Share Doubles as Walmart Loses Ground",
-   "url": "https://www.pymnts.com/news/retail/2026/amazon-clothing-share-doubles-as-walmart-loses-ground/",
-   "pubDate": "Tue, 25 Aug 2026 20:25:44 +0000",
+   "title": "Google Shifts AI Safety Unit out of DeepMind Lab to Global Affairs",
+   "url": "https://www.pymnts.com/google/2026/google-shifts-ai-safety-unit-out-of-deepmind-lab-to-global-affairs/",
+   "pubDate": "Wed, 26 Aug 2026 23:43:27 +0000",
    "source": "pymnts.com",
-   "summary": "Amazon ’s share of U.S. clothing spending has doubled since 2019 while Walmart ’s has edged lower, a six-year divergence that was still widening during the first half of 2026. PYMNTS Intelligence estimates that Amazon accounted for 17.0% of U.S. clothing spending in 2025, compared with 8.5% in 2019. Walmart moved from 7.3% to 6.2% over the same period. The figures in the PYMNTS analysis measure company clothing revenue against U.S. clothing category retail sales using Census Bureau data. That produced a much different competitive picture from the one that existed before the pandemic. Amazon’s "
+   "summary": "Google is moving its “AI responsibility” unit out of Google DeepMind and into Google’s global affairs organization, the Wall Street Journal reported Wednesday (Aug. 26), citing an internal email. The AI responsibility unit includes 90 people and has teams focused on the chemical, biological, radiological and nuclear risks of Google’s AI models; the ways people interact with AI; and the psychological impacts of chatbots, according to the report. The organization the unit is moving away from, Google DeepMind, is the company’s research lab developing frontier AI models, while the one it is joinin"
   },
   {
-   "title": "Cybersecurity Firms Weigh Controlled Internet Access for Frontier AI During Testing",
-   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/cybersecurity-firms-weigh-controlled-internet-access-for-frontier-ai-during-testing/",
-   "pubDate": "Tue, 25 Aug 2026 20:04:10 +0000",
+   "title": "Instinct Nears $2.5 Billion Valuation as AI Assistants Take Over Daily Chores",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/instinct-nears-2-5-billion-valuation-as-ai-assistants-take-over-daily-chores/",
+   "pubDate": "Wed, 26 Aug 2026 23:09:06 +0000",
    "source": "pymnts.com",
-   "summary": "Artificial intelligence (AI) labs and cybersecurity firms are considering ways to give advanced AI models controlled access to the internet during testing, rather than trying to keep the models confined to a sandbox, Bloomberg reported Tuesday (Aug. 25). This consideration comes after OpenAI , Anthropic and Meta disclosed separate incidents in which models escaped a sandbox, accessed the internet and breached other companies’ real servers, according to the report. Giving advanced models controlled access to the internet would allow companies to get a better understanding of the models’ true ca"
+   "summary": "Instinct , the developer of an artificial intelligence (AI)-powered assistant that seems to be gaining traction among early adopters, is raising a $250 million Series B at a $2.5 billion valuation, the Wall Street Journal reported Wednesday (Aug. 26), citing its interview with Instinct Founder Noah Shinn . Instinct was founded in 2025 and has raised $350 million, including the new round. The company began testing its AI assistant in private beta in February and experienced a surge in popularity earlier this month as users posted about its capabilities, according to the report. Users of Instinc"
   },
   {
-   "title": "Kalshi Asks SEC to Slow Product Launches From Rival Cboe",
-   "url": "https://www.pymnts.com/legal/2026/kalshi-asks-sec-to-slow-product-launches-from-rival-cboe/",
-   "pubDate": "Tue, 25 Aug 2026 19:26:02 +0000",
+   "title": "Anthropic Escalates Cloud Spending With $45 Billion Nscale Agreement",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-escalates-cloud-spending-with-45-billion-nscale-agreement/",
+   "pubDate": "Wed, 26 Aug 2026 22:38:04 +0000",
    "source": "pymnts.com",
-   "summary": "Prediction market Kalshi reportedly wants federal regulators to delay products from rival Cboe Global Markets . That’s according to a report Tuesday (Aug. 25) from Bloomberg News, which calls this the latest example of the growing friction between prediction markets and incumbent financial exchanges. The report said Kalshi wrote this month to the Securities and Exchange Commission (SEC), asking the commission to hold off new binary options contracts related to specific line items in corporate earnings reports, an offering that would compete with some of the event contracts that Kalshi now offe"
+   "summary": "Anthropic has agreed to pay $45 billion to rent cloud computing power from neocloud company Nscale ’s West Virginia data center, which is set to start operating in late 2027, Bloomberg reported Wednesday (Aug. 26), citing unnamed sources. The six-year commitment covers about 460 megawatts of power, according to the report. Neither Anthropic nor Nscale immediately replied to PYMNTS’ request for comment. According to the Bloomberg report, Anthropic has also signed other deals for computing power in recent months, including ones amounting to $50 billion with Fluidstack , $10 billion with Volta In"
   },
   {
-   "title": "Treasury Unveils Post-Quantum Readiness Task Force",
-   "url": "https://www.pymnts.com/cybersecurity/2026/treasury-unveils-post-quantum-readiness-task-force/",
-   "pubDate": "Tue, 25 Aug 2026 18:58:36 +0000",
+   "title": "Open Finance Exposes the Limits of the Primary Account",
+   "url": "https://www.pymnts.com/news/banking/2026/open-finance-exposes-the-limits-of-the-primary-account/",
+   "pubDate": "Wed, 26 Aug 2026 22:06:05 +0000",
    "source": "pymnts.com",
-   "summary": "The U.S. Treasury Department announced Monday (Aug. 24) the launch of a public-private initiative aimed at helping financial institutions and systems migrate from today’s widely used cryptographic tools to a new generation of security systems that can withstand quantum-computing attacks. The Quantum-Readiness Task Force will bring together government officials, financial institutions, market infrastructure operators and technology providers “to help accelerate the U.S. financial sector’s transition to quantum-safe technology in an orderly and operationally resilient manner, building on the G7 "
+   "summary": "A primary financial relationship loses some of its value when the provider can see only a fraction of the customer’s money. Consumers now routinely distribute checking, savings, credit and investments among several institutions and apps. For banks and FinTechs, that creates two gaps. Money held elsewhere can’t generate deposits, transactions or other business for the provider. Just as important, activity elsewhere can hide changes in the customer’s finances that could signal an opportunity or a problem. Account primacy has traditionally meant becoming the institution where customers receive in"
   },
   {
-   "title": "Priority Intros New Ticketing Payment Process for NFL’s Buccaneers",
-   "url": "https://www.pymnts.com/partnerships/2026/priority-intros-new-ticketing-payment-process-for-nfls-buccaneers/",
-   "pubDate": "Tue, 25 Aug 2026 18:56:40 +0000",
+   "title": "X9 Wants Fraud Data to Move as Fast as Money",
+   "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/new-forum-wants-banks-speaking-the-same-fraud-language/",
+   "pubDate": "Wed, 26 Aug 2026 21:05:39 +0000",
    "source": "pymnts.com",
-   "summary": "Priority Commerce has launched a new partnership with the NFL’s Tampa Bay Buccaneers . The collaboration, announced Tuesday (Aug. 25), will see Priority provide a new ticketing payment process for the team, while also deploying its Passport treasury orchestration solution. According to a news release, this technology will help the Buccaneers optimize payment costs, track ticket transactions and interchange activity, and streamline operations. “As sports organizations’ operations grow more complex, commerce solutions that unify payments and treasury visibility are essential,” said Tom Priore , "
+   "summary": "The U.S. payments industry does not lack fraud data. It lacks agreement about what that data means. The Accredited Standards Committee X9’s new Payment Fraud Forum, which holds its first meeting Sept. 10, is targeting exactly that problem. The initiative brings together participants including Federal Reserve Financial Services, The Clearing House (TCH) and the U.S. Faster Payments Council to develop common approaches for identifying, categorizing, reporting and sharing fraud across payment types. Its work could eventually contribute to industry standards. “Payment fraud is an industrywide chal"
   },
   {
-   "title": "Gatik Raises $200 Million to Expand Autonomous Trucking Model",
-   "url": "https://www.pymnts.com/news/investment-tracker/2026/gatik-raises-200-million-to-expand-autonomous-trucking-model/",
-   "pubDate": "Tue, 25 Aug 2026 18:31:03 +0000",
+   "title": "39 State Bankers Groups Join Forces to Build Blockchain Network",
+   "url": "https://www.pymnts.com/blockchain/2026/39-state-bankers-groups-join-forces-to-build-industry-owned-blockchain-network/",
+   "pubDate": "Wed, 26 Aug 2026 20:43:40 +0000",
    "source": "pymnts.com",
-   "summary": "Autonomous trucking company Gatik has raised $200 million in new funding. The new financing, announced in a news release Tuesday (Aug. 25), will help Gatik expand its model, designed to transport goods along what it calls the “high-frequency regional routes” linking distribution centers and stores. “These routes are time-sensitive, operationally complex and essential to keeping shelves stocked as customer expectations shift toward faster, more predictable access to everyday products,” Gatik said in a news release. The release notes that Gatik now has more than $600 million in contracted revenu"
+   "summary": "Thirty-nine state bankers associations have formed an organization dedicated to creating a blockchain network that will be owned, designed and governed by the industry. Dubbed the BankChain Alliance , the organization is in the process of selecting a technology partner and is targeting a 2027 launch, it said in a Tuesday (Aug. 25) press release . The BankChain Alliance aims to design a blockchain network that will allow financial institutions of all sizes to provide smart payment tools, tokenized deposits, stablecoins, automated settlement and other emerging banking capabilities, according to "
   },
   {
-   "title": "Payment Timing Uncertainty Is Costing CFOs Billions",
-   "url": "https://www.pymnts.com/news/b2b-payments/2026/payment-timing-uncertainty-is-costing-cfos-billions/",
-   "pubDate": "Tue, 25 Aug 2026 18:26:07 +0000",
+   "title": "Hotel Pricing AI Software Faces Test After Court Revives Atlantic City Case",
+   "url": "https://www.pymnts.com/legal/2026/hotel-pricing-ai-software-faces-test-after-court-revives-atlantic-city-case/",
+   "pubDate": "Wed, 26 Aug 2026 20:03:41 +0000",
    "source": "pymnts.com",
-   "summary": "The biggest opportunity for chief financial officers (CFOs) isn’t adding another day to pay. It’s eliminating the uncertainty inside the days they already have. Today’s corporate working-capital playbook has become almost reflexive: shorten days sales outstanding (DSO), stretch days payable outstanding (DPO), squeeze inventory. Working-capital optimization, in this static sense, becomes a negotiation over who gets to hold the cash. But there is a problem with optimizing the number of days on either side of the cash conversion cycle. Eventually, somebody else has to give them up. A buyer extend"
+   "summary": "Picture a hotel handing its private pricing data to a computer program, while the hotel across the street is feeding its own numbers into that same program. That is the scenario at the heart of a lawsuit against several Atlantic City casino hotels, and a federal appeals court just ruled it can move forward. The case raises a question that reaches far past one boardwalk: can software turn competitors into secret price partners, even if no human ever picks up the phone? The law firm Mandelbaum Barrett PC laid out the details in a recent post, and the story centers on a shared revenue management "
+  },
+  {
+   "title": "RTP gears up for int’l reach",
+   "url": "https://www.paymentsdive.com/news/rtp-gears-up-for-intl-reach/828839/",
+   "pubDate": "Wed, 26 Aug 2026 10:55:00 -0400",
+   "source": "paymentsdive.com",
+   "summary": "The Bank of New York and other financial institutions are preparing for a pilot next year that will stretch the real-time payments network across borders."
+  },
+  {
+   "title": "Priority Tech buys IntelliPay for up to $15M",
+   "url": "https://www.paymentsdive.com/news/priority-tech-buys-intellipay-for-up-to-15m/828831/",
+   "pubDate": "Wed, 26 Aug 2026 10:40:00 -0400",
+   "source": "paymentsdive.com",
+   "summary": "The payments company is gaining a new government payments business with its deal for Utah-based IntelliPay."
   },
   {
    "title": "Building Block’s Square base",
@@ -1677,6 +1691,13 @@
    "pubDate": "Tue, 25 Aug 2026 10:45:19 -0400",
    "source": "paymentsdive.com",
    "summary": "The fintech is expanding its efforts to market local restaurants using its point-of-sale system across Cash App’s user base."
+  },
+  {
+   "title": "Amex’s low fraud rate turns on its closed system",
+   "url": "https://www.paymentsdive.com/news/amexs-low-fraud-rate-turns-on-its-closed-system/828716/",
+   "pubDate": "Tue, 25 Aug 2026 10:38:00 -0400",
+   "source": "paymentsdive.com",
+   "summary": "More access to cardholder and merchant data also gives the card network an edge in fraud detection over its rivals."
   },
   {
    "title": "Walmart adds digital wallet options",
@@ -1719,27 +1740,6 @@
    "pubDate": "Thu, 20 Aug 2026 10:32:00 -0400",
    "source": "paymentsdive.com",
    "summary": "It’s not just the elderly being drawn into fraud. Young people are also increasingly prey for financial crime, according to a Federal Reserve report."
-  },
-  {
-   "title": "Visa, DOJ lawyers clash ahead of trial",
-   "url": "https://www.paymentsdive.com/news/visa-doj-lawyers-clash-ahead-of-trial/828378/",
-   "pubDate": "Thu, 20 Aug 2026 10:08:00 -0400",
-   "source": "paymentsdive.com",
-   "summary": "The government and card network are trading accusations of overly broad discovery requests and ‘gamesmanship’ in the DOJ’s debit card lawsuit."
-  },
-  {
-   "title": "Stripe, OpenRouter finally strike a deal",
-   "url": "https://www.paymentsdive.com/news/stripe-openrouter-finally-strike-a-deal/828326/",
-   "pubDate": "Wed, 19 Aug 2026 15:50:00 -0400",
-   "source": "paymentsdive.com",
-   "summary": "The payments behemoth’s acquisition of the AI spend management firm has been in the works for weeks. The reported price tag: $7.5 billion."
-  },
-  {
-   "title": "Weave scooped up for $650M",
-   "url": "https://www.paymentsdive.com/news/weave-scooped-up-for-650m/828260/",
-   "pubDate": "Wed, 19 Aug 2026 10:30:00 -0400",
-   "source": "paymentsdive.com",
-   "summary": "The latest purchase by Fransciso Partners adds to the private equity firm’s stockpile of payments companies, including one it bought earlier this month."
   },
   {
    "title": "Walmart to finally start accepting Apple Pay and Google Pay",
@@ -1880,6 +1880,27 @@
    "pubDate": "Fri, 05 Jun 2026 20:00:00 +0000",
    "source": "techcrunch.com",
    "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West."
+  },
+  {
+   "title": "Revolut Unveils a Euro-Backed Stablecoin in Three Countries",
+   "url": "https://www.paymentsjournal.com/revolut-unveils-a-euro-backed-stablecoin-in-three-countries/",
+   "pubDate": "Wed, 26 Aug 2026 18:00:00 +0000",
+   "source": "paymentsjournal.com",
+   "summary": "U.S. dollars back nearly every stablecoin on the market, but there are signs that non-USD tokens are gaining traction. In a notable development in this trend, UK-based fintech Revolut plans to debut its first euro-backed stablecoin, EURR, in Denmark, Poland, and Portugal. This is expected to be just the first phase in the firm’s broader European expansion for the stablecoin. Down the road, Revolut also plans to offer stablecoins pegged to other fiat currencies. The EURR launch is facilitated by a subsidiary of Bridge, the stablecoin infrastructure firm that has significantly expanded its footp"
+  },
+  {
+   "title": "BNPL Plans May Be Raising Retailers’ Prices",
+   "url": "https://www.paymentsjournal.com/bnpl-plans-may-be-raising-retailers-prices/",
+   "pubDate": "Wed, 26 Aug 2026 17:04:22 +0000",
+   "source": "paymentsjournal.com",
+   "summary": "Buy-now, pay-later plans have had a huge effect on consumer behavior, but they may play a larger role in retailers’ actions than was previously thought. New research from Olin Business School at Washington University in St. Louis suggests the growing payment option can influence retail prices and inventory decisions as well as increase the financial burden on consumers. After running millions of simulated scenarios, the researchers found that accepting BNPL does not necessarily lead to higher retail revenues. Though BNPL increases the number of products sold, what the retailer actually keeps f"
+  },
+  {
+   "title": "Building a Successful Payments Strategy: How ISOs and ISVs Can Drive Scalable Growth Together",
+   "url": "https://www.paymentsjournal.com/building-a-successful-payments-strategy-how-isos-and-isvs-can-drive-scalable-growth-together/",
+   "pubDate": "Wed, 26 Aug 2026 13:00:00 +0000",
+   "source": "paymentsjournal.com",
+   "summary": "The payments industry continues to evolve at a rapid pace, driven by innovations such as agentic commerce, instant payments, and embedded financial services. Yet for Independent Sales Organizations (ISOs), the most significant shift may be how merchants purchase payment solutions. Today, more than 90% of U.S. small businesses rely on Independent Software Vendor (ISV) solutions to run their operations [1] , making software a primary driver of payments adoption. As a result, offering payment processing alone is no longer a sustainable strategy for ISOs seeking to expand their market presence and"
   },
   {
    "title": "Top 5 Business Credit Card Issuers",
@@ -8861,25 +8882,60 @@
    "summary": "Although the United States has shown little interest in establishing a central bank digital currency (CBDC) of its own, other nations around the world continue to advance their research and pilot programs. The Bank for International Settlements (BIS), which has taken the lead in the development of CDBCs, announced six new blockchain-related projects last year. However, the landscape isn’t yet fully cleared for CBDCs to take center stage. A report from Javelin Strategy & Research, CBDCs: Where Are We Now? , looks at the progress of key projects around the world, why the UK is emerging as a lead"
   },
   {
-   "title": "Checkout.com Reaffirms Core Payments Focus via eBay Partnership",
-   "url": "https://www.paymentsjournal.com/checkout-com-reaffirms-core-payments-focus-via-ebay-partnership/",
-   "pubDate": "Wed, 16 Apr 2025 18:30:00 +0000",
-   "source": "paymentsjournal.com",
-   "summary": "eBay is expanding its global payment platform capabilities and enhancing customer experience through a new partnership with UK-based digital payments processor Checkout.com. With more than 2.3 billion live listings, eBay is one of the world’s largest online marketplaces, serving millions of customers in 190 markets. For eBay, Checkout brings valuable expertise in fraud prevention and AI-driven transaction optimization, simplifying operations for merchants. It’s an important win for Checkout, which is recovering from the loss of its lucrative Binance business and working to rebuild its reputati"
+   "title": "Revolut Debuts Euro Stablecoin EURR in Denmark, Poland and Portugal",
+   "url": "https://fintechnews.sg/136340/digitalassets/revolut-euro-stablecoin/",
+   "pubDate": "Wed, 26 Aug 2026 09:39:45 +0000",
+   "source": "fintechnews.sg",
+   "summary": "Revolut has launched its first stablecoin as part of plans to expand its cryptocurrency services. The euro-denominated token, called EURR, is designed to maintain a value of €1. It is issued by payments infrastructure provider Bridge and integrated into the Revolut app. Eligible customers can use EURR across supported crypto services, external wallets and blockchain networks. The token offers a euro-based alternative to stablecoins pegged to the US dollar. Revolut will begin rolling out EURR in phases this month, starting with customers in Denmark, Poland and Portugal. The company plans to exp"
   },
   {
-   "title": "Klarna Expands U.S. BNPL Footprint with Clover Agreement",
-   "url": "https://www.paymentsjournal.com/klarna-expands-u-s-bnpl-footprint-with-clover-agreement/",
-   "pubDate": "Wed, 16 Apr 2025 17:09:04 +0000",
-   "source": "paymentsjournal.com",
-   "summary": "In a year full of major moves, Klarna has signed a deal to bring its buy now, pay later products to Clover’s point-of-sale systems. Clover is one of the leading POS providers in the U.S., and this partnership will bring Klarna to over 100 of Clover’s merchants , with a broader rollout slated for early next year. There’s also potential for the two fintechs to expand their offerings to e-commerce merchants in the future. This deal marks another step forward in Klarna’s mission to bring BNPL to Main Street,.  While BNPL products have traditionally been associated with e-commerce platforms, compan"
+   "title": "Singapore Fintech Festival 2026 Sets Its Sights on Finance’s Next Big Shifts",
+   "url": "https://fintechnews.sg/136335/singapore-fintech-festival-2026/singapore-fintech-festival-2026/",
+   "pubDate": "Wed, 26 Aug 2026 08:53:02 +0000",
+   "source": "fintechnews.sg",
+   "summary": "The Singapore Fintech Festival (SFF) will return in November with a focus on five forces reshaping global finance. The event will run from 18 to 20 November 2026, bringing together policymakers, regulators, financial institutions, technology companies, investors and entrepreneurs. Organised by the Monetary Authority of Singapore (MAS) and the Global Finance & Technology Network (GFTN) , in collaboration with the Association of Banks in Singapore, the festival will focus on technology, geoeconomics, capital, talent and policy. Sopnendu Mohanty Sopnendu Mohanty, Group Chief Executive Officer, GF"
   },
   {
-   "title": "Why Generative AI’s Impact Is Still Years Away",
-   "url": "https://www.paymentsjournal.com/why-generative-ais-impact-is-still-years-away/",
-   "pubDate": "Wed, 16 Apr 2025 13:00:00 +0000",
-   "source": "paymentsjournal.com",
-   "summary": "Given the number of people having conversations with ChatGPT and creating quirky AI-generated art for social media, it’s easy to assume that artificial intelligence has already arrived as a major force in the American tech world. But in reality, its impact on the business landscape has been limited so far—and it may still be a few years before we see widespread, serious adoption. Generative AI Isn’t Happening Like We’ve Been Told , a report from Christopher Miller , the Lead Analyst of Emerging Payments at Javelin Strategy & Research, looks at why this revolution has been slow to materialize. "
+   "title": "Nacha Taps Finastra for ACH Payments and ISO 20022 Support",
+   "url": "https://fintechnews.sg/136328/payments/finastra-nacha/",
+   "pubDate": "Wed, 26 Aug 2026 07:56:57 +0000",
+   "source": "fintechnews.sg",
+   "summary": "Nacha has named Finastra a preferred partner for ACH processing, ISO 20022 and fraud controls. Finastra provides ACH processing through its Global PAYplus and Payments To Go platforms. The systems are designed to help US financial institutions move from traditional batch processing to a more scalable model while supporting Same Day ACH. Nacha’s Preferred Partner Program is open to technology providers whose products support its strategy for advancing the US ACH Network. Jane Larimer “The ACH Network, including Same Day ACH, continues to show great strength, as we saw in the first half of 2026,"
+  },
+  {
+   "title": "Google Cloud Rolls Out Its First Finance-Specific Gemini Platform",
+   "url": "https://fintechnews.sg/136323/ai/gemini-financial-services/",
+   "pubDate": "Wed, 26 Aug 2026 07:40:01 +0000",
+   "source": "fintechnews.sg",
+   "summary": "Google Cloud is taking Gemini deeper into banking with AI agents built for financial workflows. Gemini Enterprise for Financial Services is available in preview for capital markets and corporate banking. CME Group and Deutsche Bank are among the institutions using the platform. The platform combines a Google-managed Financial Research agent with more than 50 specialised skills and 13 data connectors. It can produce reports using market data, news feeds, regulatory filings and internal databases, with citations, confidence scores and data snapshots for auditing. “Financial professionals are loo"
+  },
+  {
+   "title": "StashAway Acquires MakeGoodwill to Offer Online Wills for S$179",
+   "url": "https://fintechnews.sg/136319/wealthtech/stashaway-makegoodwill/",
+   "pubDate": "Wed, 26 Aug 2026 06:50:51 +0000",
+   "source": "fintechnews.sg",
+   "summary": "StashAway has acquired digital wills platform MakeGoodwill as it moves into legacy planning. MakeGoodwill allows Singapore residents to create a will online through a series of guided questions. The process takes about an hour. To make the will legally valid, customers must print and sign it in the presence of two independent witnesses. MakeGoodwill will continue to operate as a standalone brand following the acquisition. Michele Ferrario “Our clients spend years building wealth for a better future, often with their families in mind. Yet many never plan how to protect that wealth and pass it o"
+  },
+  {
+   "title": "Sacombank Upgrades Its Banking System With Temenos and IBM",
+   "url": "https://fintechnews.sg/136312/vietnam/sacombank-temenos/",
+   "pubDate": "Wed, 26 Aug 2026 05:29:06 +0000",
+   "source": "fintechnews.sg",
+   "summary": "Vietnam’s Sacombank has upgraded the infrastructure behind its retail and small business banking services. The bank moved to the latest version of the Temenos Core Banking platform, shifting from an on-premises deployment to a hybrid cloud environment running on Red Hat OpenShift and IBM Power infrastructure. The system serves millions of customers and processes 13 million transactions daily. Temenos reported that the upgrade improved application performance by 200%, made deployment cycles three times faster and reduced Sacombank’s server footprint by 50%. Luu Danh Duc “The upgrade of our Teme"
+  },
+  {
+   "title": "DBS Brings Back S$3 PayLah! Cashback at Hawkers, Heartland Shops From 29 Aug",
+   "url": "https://fintechnews.sg/136307/payments/dbs-paylah-cashback-2026/",
+   "pubDate": "Wed, 26 Aug 2026 04:22:49 +0000",
+   "source": "fintechnews.sg",
+   "summary": "DBS will offer up to S$3 PayLah! cashback at participating hawkers and heartland businesses every Saturday from 29 August 2026. The campaign will run for 17 Saturdays until 19 December, five weeks longer than its previous edition. Around 2.7 million rewards will be available, about 40% more than last year. The first 160,000 customers on each eligible day can receive the cashback when they scan to pay with DBS PayLah! at participating hawker stalls, coffee shops, wet markets and heartland shops. The offer forms part of the DBS Saturday Savings programme under the bank’s S$10 million support pac"
+  },
+  {
+   "title": "Revolut Steps Up AI Push With Dedicated Research Arm",
+   "url": "https://fintechnews.sg/136301/digital-banking-news-singapore/revolut-research/",
+   "pubDate": "Wed, 26 Aug 2026 04:00:29 +0000",
+   "source": "fintechnews.sg",
+   "summary": "Revolut has launched a research division to develop AI for fraud detection, credit risk and product recommendations. Revolut Research sits within the company’s AI department and will oversee work on machine learning models for financial services. It also plans to collaborate with academic and technology institutions. The unit is developing PRAGMA, a family of foundation models built using NVIDIA technology. The models provide a shared intelligence layer for functions including risk assessment and platform operations. According to an NVIDIA case study , PRAGMA was trained on about 26 million us"
   },
   {
    "title": "Flagright Joins Nacha Push Against US Bank Payment Fraud",
@@ -8896,130 +8952,109 @@
    "summary": "Stripe has added six Asian payment methods for businesses using its platform, with ShopeePay and SPayLater set to follow across Southeast Asia in Q4 2026. Businesses can now accept cross-border payments through Samsung Pay, MoMo, GCash, Touch ’n Go, PromptPay and TrueMoney. The expansion comes as Stripe marks 10 years in Singapore. More than 80,000 businesses and sole proprietors in the country now use Stripe, with over six in ten selling internationally. Businesses Can Sell in 195 Countries Without Local Entities Stripe has also made Managed Payments available to digital businesses selling to"
   },
   {
-   "title": "Over 3,000 Residents to Get Free Meals Under New OCBC Programme",
-   "url": "https://fintechnews.sg/136267/financial-inclusion/ocbc-free-meals/",
-   "pubDate": "Tue, 25 Aug 2026 03:53:45 +0000",
-   "source": "fintechnews.sg",
-   "summary": "OCBC and North East CDC will provide 165,000 free warm meals to 1,000 lower-income households over one year from September 2026. The two organisations have committed a combined S$500,000 to Warm Meals @ North East, with support from the Ministry of Social and Family Development (MSF). More than 3,000 residents across Tampines, Punggol and Pasir Ris-Changi are expected to benefit. Koh Ching Ching Koh Ching Ching, Head of Group Brand and Communications, OCBC, said, “No family should have to worry about where their next warm, wholesome meal will come from. That is why partnering MSF and North Eas"
-  },
-  {
-   "title": "Revolut Taps Former GXS Bank CEO for Singapore Advisory Board",
-   "url": "https://fintechnews.sg/136263/digital-banking-news-singapore/revolut-singapore-board/",
-   "pubDate": "Tue, 25 Aug 2026 03:23:59 +0000",
-   "source": "fintechnews.sg",
-   "summary": "Revolut has tapped former GXS Bank CEO Charles Wong and two other senior leaders for its new Singapore advisory board. Wong joins former Minister of State Teo Ser Luck and corporate governance specialist Yvonne Aw on the three-member panel. They will advise the fintech’s local leadership on regulatory engagement, business strategy and sustainable growth as it expands its products and workforce in the market. Raymond Ng Raymond Ng, CEO of Revolut Singapore and Southeast Asia, said, “We are strengthening our local operating model to ensure robust oversight as our business grows. Ser Luck, Charle"
-  },
-  {
-   "title": "Visa, Nium Pilot Stablecoin Settlements Beyond Business Days Under MAS’ BLOOM",
-   "url": "https://fintechnews.sg/136206/payments/visa-nium-bloom/",
-   "pubDate": "Tue, 25 Aug 2026 00:00:21 +0000",
-   "source": "fintechnews.sg",
-   "summary": "Visa is working with Nium to explore seven-day stablecoin settlement through Singapore’s BLOOM initiative. Led by the Monetary Authority of Singapore (MAS) , BLOOM stands for Borderless, Liquid, Open, Online and Multi-currency. It brings together financial institutions and other industry participants to test faster and more programmable cross-border payments. Maybank Singapore also recently joined BLOOM to help develop common standards and infrastructure for tokenised cross-border payments. Nium is Visa’s first pilot partner under BLOOM. Payment settlements typically take place on business day"
-  },
-  {
-   "title": "Clicx Bank Tightens Screening as Digital Loans Resume After Nearly Three Weeks",
-   "url": "https://fintechnews.sg/136214/thailand/clicx-bank-digital-loans/",
-   "pubDate": "Mon, 24 Aug 2026 09:33:49 +0000",
-   "source": "fintechnews.sg",
-   "summary": "Clicx Bank has resumed digital lending after a pause of nearly three weeks with stricter checks for applicants. The Bangkok Post reported that Thailand’s first virtual bank reopened applications on 21 August. It had stopped accepting them on 2 August after unexpectedly high demand caused processing delays. The pause came one day after Clicx introduced the lending service. The bank later warned against deliberate defaults following social media posts encouraging borrowers to avoid repayment. Suchot Piamchol, Senior Director for Modelling Supervision and Risk Assessment at the Bank of Thailand, "
-  },
-  {
-   "title": "DBS Takes Its AI Training Playbook to Singapore’s Finance Sector in Industry First",
-   "url": "https://fintechnews.sg/136201/ai/dbs-ibf-ai-training/",
-   "pubDate": "Mon, 24 Aug 2026 08:39:21 +0000",
-   "source": "fintechnews.sg",
-   "summary": "DBS will draw on its experience providing AI training to 40,000 employees to help build AI skills across Singapore’s financial sector. The bank has signed a MoU with the Institute of Banking and Finance Singapore (IBF) covering workforce development, job redesign and young talent development. DBS described it as IBF’s first such agreement with a financial institution. The organisations will develop IBF-recognised programmes covering AI governance, responsible AI, prompt engineering and practical applications. The 40,000 employees trained by DBS globally include 14,800 in Singapore. They will a"
-  },
-  {
-   "title": "Fasset Earns Unicorn Badge After US$68 Million Funding Round",
-   "url": "https://fintechnews.sg/136196/digitalassets/fasset-funding-unicorn/",
-   "pubDate": "Mon, 24 Aug 2026 07:50:58 +0000",
-   "source": "fintechnews.sg",
-   "summary": "Fasset has raised US$68 million in a Series C funding round led by Japan’s SBI Group, valuing the stablecoin neobanking platform at US$1 billion. The investment expands Fasset’s existing relationship with SBI Group, which includes a partnership with its international remittance arm SBI Remit. The remittance network supports bank account transfers to around 200 countries. SBI Group views Fasset as a bridge between Japan and high-growth markets. The companies plan to develop stablecoin settlement infrastructure across Asia Pacific, the Middle East and Africa. The round follows a US$51 million Se"
-  },
-  {
-   "title": "UOB, Temasek, and EDB Leaders Among New Singapore Fintech Association Advisors",
-   "url": "https://fintechnews.sg/136185/fintech/singapore-fintech-association-advisors/",
-   "pubDate": "Mon, 24 Aug 2026 07:23:56 +0000",
-   "source": "fintechnews.sg",
-   "summary": "Leaders from UOB, Temasek, Enterprise Singapore and the Economic Development Board (EDB) have joined the Singapore Fintech Association’s (SFA) advisory council. The four members will serve a two-year term from 1 August 2026 to 31 July 2028. They are Pee Beng Kong, EVP at EDB ; Wong Zeng Yi, Assistant MD at Enterprise Singapore ; Pradyumna Agrawal, MD of Investment at Temasek ; and Lee Zhu Kuang, MD and Group Head of UOB ’s Innovation Group. SFA formed the Strategic Advisory Council in 2024 to provide guidance on trends, opportunities and national priorities affecting fintech and financial serv"
-  },
-  {
-   "title": "More Millennials Turn to DBS Treasures to Invest as User Numbers Nearly Triple",
-   "url": "https://fintechnews.sg/136179/wealthtech/dbs-investment/",
-   "pubDate": "Mon, 24 Aug 2026 05:06:49 +0000",
-   "source": "fintechnews.sg",
-   "summary": "DBS nearly tripled the number of millennial retail customers moving to DBS Treasures in the first half of 2026. The increase comes as customers in their 30s and early 40s seek wealth advice and begin investing earlier amid longer lifespans and growing financial commitments. The trend extended beyond millennials. Overall, the number of retail customers moving to DBS Treasures rose 180% year-on-year in the first half of 2026. Investment balances among customers who joined DBS Treasures in 2025 have since grown nearly sixfold. Andrew Bok “Starting earlier and staying invested over the long run gi"
-  },
-  {
-   "title": "Payouts.com and Casper partner on agent payments",
-   "url": "https://fintech.global/2026/08/25/payouts-com-and-casper-partner-on-agent-payments/?utm_source=rss&utm_medium=rss&utm_campaign=payouts-com-and-casper-partner-on-agent-payments",
-   "pubDate": "Tue, 25 Aug 2026 21:47:27 +0000",
+   "title": "WealthReach partners VastAdvisor on advisor marketing",
+   "url": "https://fintech.global/2026/08/26/wealthreach-partners-vastadvisor-on-advisor-marketing/?utm_source=rss&utm_medium=rss&utm_campaign=wealthreach-partners-vastadvisor-on-advisor-marketing",
+   "pubDate": "Wed, 26 Aug 2026 17:18:51 +0000",
    "source": "fintech.global",
-   "summary": "Payouts.com , the financial operating system for humans and AI agents, and the Casper Association, the Swiss non-profit that stewards the Casper Network blockchain, have partnered to bring x402 agent payments into live production use. Under the agreement, Payouts.com will add Casper Network as a settlement rail within its AgentWallet and Digital Employees platform. Casper is described as the first WebAssembly-native Layer 1 blockchain to run the x402 protocol on its mainnet, and because Payouts.com already supports x402 natively, the two firms say the integration does not require protocol chan"
+   "summary": "WealthReach , an AI-powered organic growth platform built for registered investment advisors (RIAs) and wealth management firms, has partnered with VastAdvisor , a governed AI organic growth operating system for the wealth management industry, to help advisory practices connect their organic visibility efforts with paid digital advertising. Under the partnership, WealthReach identifies visitors to an RIA’s website who would otherwise remain anonymous, along with people actively researching topics tied to the firm’s services elsewhere online, and automatically feeds those contacts into VastAdvi"
   },
   {
-   "title": "Bluefin and Visa team up on card-present payments",
-   "url": "https://fintech.global/2026/08/25/bluefin-and-visa-team-up-on-card-present-payments/?utm_source=rss&utm_medium=rss&utm_campaign=bluefin-and-visa-team-up-on-card-present-payments",
-   "pubDate": "Tue, 25 Aug 2026 21:39:30 +0000",
+   "title": "N26 data: Gen Z leads Europe’s investing shift",
+   "url": "https://fintech.global/2026/08/26/n26-data-gen-z-leads-europes-investing-shift/?utm_source=rss&utm_medium=rss&utm_campaign=n26-data-gen-z-leads-europes-investing-shift",
+   "pubDate": "Wed, 26 Aug 2026 17:13:47 +0000",
    "source": "fintech.global",
-   "summary": "Bluefin , the global leader in payment and data security infrastructure for integrated and orchestrated commerce, and Visa, a world leader in digital payments, have launched a joint card-present acceptance offering. The new solution merges Bluefin’s PCI-validated point-to-point encryption (P2PE) technology with Visa Acceptance Solutions, giving merchants, software providers and enterprise organisations a single, unified route to secure in-person payment acceptance. It brings Visa’s global payment reach together with Bluefin’s card-present security infrastructure in one integrated package. The "
+   "summary": "Digital bank N26 , the Berlin-headquartered mobile banking platform, has published new data showing a significant rise in investment activity among its youngest customers. According to N26’s figures, assets under custody held by its Gen Z customers, defined as those aged between 18 and 29, grew by 45% during the first half of 2026, outpacing growth recorded across any other age group on the platform. This cohort now represents 28% of all equity and digital asset investors using N26, and customers under 35 collectively account for half of the platform’s total investor base. A voluntary survey c"
   },
   {
-   "title": "Solace Care nets €2.1m to redefine end-of-life care",
-   "url": "https://fintech.global/2026/08/25/solace-care-nets-e2-1m-to-redefine-end-of-life-care/?utm_source=rss&utm_medium=rss&utm_campaign=solace-care-nets-e2-1m-to-redefine-end-of-life-care",
-   "pubDate": "Tue, 25 Aug 2026 21:29:51 +0000",
+   "title": "Clear Street launches EMEA and APAC execution",
+   "url": "https://fintech.global/2026/08/26/clear-street-launches-emea-and-apac-execution/?utm_source=rss&utm_medium=rss&utm_campaign=clear-street-launches-emea-and-apac-execution",
+   "pubDate": "Wed, 26 Aug 2026 17:06:12 +0000",
    "source": "fintech.global",
-   "summary": "Solace Care , the Stockholm-based end-of-life platform, has closed a €2.1m pre-seed round, marking what it claims to be the largest pre-seed raise to date by a European end-of-life platform. The round was led by Spintop Ventures, with participation from Plug and Play, the global InsurTech investor whose network spans major carriers. A group of senior Nordic insurance figures also invested personally, among them Caroline Farberger, former chief executive of ICA Försäkring; Fredrik Solberg, former chief executive of Eir Insurance and a former senior finance leader at Zurich Insurance; Emil Lager"
+   "summary": "Clear Street, a cloud-native financial infrastructure technology firm that aims to give sophisticated investors access to every asset in every market, has launched electronic execution across Europe and Asia-Pacific, marking the first time its algorithmic trading offering has extended beyond the US and Canada. The rollout gives clients access to 27 new markets through a single connection, with positions and trades visible in the same real-time ledger that underpins Clear Street’s existing US business. Across EMEA, the company now provides execution on primary exchanges in 22 markets, together "
   },
   {
-   "title": "Obie and RentSpree team up on landlord cover",
-   "url": "https://fintech.global/2026/08/25/obie-and-rentspree-team-up-on-landlord-cover/?utm_source=rss&utm_medium=rss&utm_campaign=obie-and-rentspree-team-up-on-landlord-cover",
-   "pubDate": "Tue, 25 Aug 2026 17:55:57 +0000",
+   "title": "Explainability becomes AML’s new AI currency",
+   "url": "https://fintech.global/2026/08/26/explainability-becomes-amls-new-ai-currency/?utm_source=rss&utm_medium=rss&utm_campaign=explainability-becomes-amls-new-ai-currency",
+   "pubDate": "Wed, 26 Aug 2026 15:38:29 +0000",
    "source": "fintech.global",
-   "summary": "Obie , a leading provider of insurance solutions for landlords and real estate investors, has joined forces with RentSpree , a leading rental software platform that helps real estate professionals and landlords simplify the leasing process, to embed landlord insurance directly into RentSpree’s existing workflow. Through the collaboration, RentSpree customers can now tap into Obie’s landlord insurance offering without leaving the platform they already use to manage their rentals. Landlords are able to obtain a direct quote and buy cover suited to their investment property in the same place they"
+   "summary": "Artificial intelligence has sharpened detection, cut false positives and surfaced patterns that rules-based anti-money laundering (AML) systems simply cannot see. Yet according to new analysis from Napier AI , many institutions remain stuck running pilots rather than scaling AI across their compliance operations, held back not by technology but by trust. Napier AI’s research argues that the real barrier to adoption is confidence. As regulators build explainability, auditability and governance into supervisory expectations, trust is becoming the deciding factor in whether AI moves from experime"
   },
   {
-   "title": "FGV Capital closes $35m fund to back FinTech startups",
-   "url": "https://fintech.global/2026/08/25/fgv-capital-closes-35m-fund-to-back-fintech-startups/?utm_source=rss&utm_medium=rss&utm_campaign=fgv-capital-closes-35m-fund-to-back-fintech-startups",
-   "pubDate": "Tue, 25 Aug 2026 17:29:33 +0000",
+   "title": "Why metadata, not more data, drives market insight",
+   "url": "https://fintech.global/2026/08/26/why-metadata-not-more-data-drives-market-insight/?utm_source=rss&utm_medium=rss&utm_campaign=why-metadata-not-more-data-drives-market-insight",
+   "pubDate": "Wed, 26 Aug 2026 15:33:04 +0000",
    "source": "fintech.global",
-   "summary": "FGV Capital , A US-based venture capital firm, has closed its second investment fund at $35m, exceeding its original $25m target as it prepares to deploy the capital into early-stage companies across FinTech, financial access and AI. Investors in Fund II include Reinsurance Group of America (RGA), MassMutual, Bank of America and the Stellar Development Foundation, alongside foundations, fund of funds, family offices and high-net-worth individuals. The close takes FGV Capital’s total assets under management above $60m. The firm plans to use Fund II to back businesses operating across FinTech, f"
+   "summary": "Financial professionals today are not short of information. Breaking news, earnings releases, regulatory filings, research reports and alternative data all compete for attention. According to LSEG Data & Analytics , the real challenge is no longer finding information, but finding the right information quickly enough to trust it and act on it. LSEG Data & Analytics notes that in fast-moving markets, more content does not automatically translate into better insight. It can instead create delay, duplication and uncertainty for analysts, portfolio managers, traders and risk teams. This is why fina"
   },
   {
-   "title": "Zeidler Group launches AI questionnaire review tool",
-   "url": "https://fintech.global/2026/08/25/zeidler-group-launches-ai-questionnaire-review-tool/?utm_source=rss&utm_medium=rss&utm_campaign=zeidler-group-launches-ai-questionnaire-review-tool",
-   "pubDate": "Tue, 25 Aug 2026 17:16:18 +0000",
+   "title": "AI coding agents expose a new software testing risk",
+   "url": "https://fintech.global/2026/08/26/ai-coding-agents-expose-a-new-software-testing-risk/?utm_source=rss&utm_medium=rss&utm_campaign=ai-coding-agents-expose-a-new-software-testing-risk",
+   "pubDate": "Wed, 26 Aug 2026 15:25:31 +0000",
    "source": "fintech.global",
-   "summary": "Zeidler Group , the technology-driven law firm and regulatory compliance services provider, has unveiled AI Questionnaire Review, a new intelligent review tool built into its Zeidler Due Diligence (ZDD) platform. The tool allows users to analyse an entire due diligence questionnaire (DDQ) in one step, flagging missing responses, incomplete answers and any compliance, regulatory or operational issues that may need closer attention. Rather than only confirming whether a question has been answered, the system assesses whether each response genuinely addresses what was asked, checks for clarity an"
+   "summary": "Artificial intelligence is accelerating software development, with coding agents increasingly able to build features, restructure code and fix defects with limited human intervention. For RegTech firms developing software used in tax due diligence and other high-stakes processes, the technology could shorten development cycles while allowing teams to deliver new capabilities faster. But greater reliance on AI-generated code also creates a new control problem. As coding agents take on more development work, businesses need stronger automated testing to determine whether those changes actually d"
   },
   {
-   "title": "CleverChain accepted into NVIDIA Inception programme",
-   "url": "https://fintech.global/2026/08/25/cleverchain-accepted-into-nvidia-inception-programme/?utm_source=rss&utm_medium=rss&utm_campaign=cleverchain-accepted-into-nvidia-inception-programme",
-   "pubDate": "Tue, 25 Aug 2026 16:56:56 +0000",
+   "title": "EDGE Markets brings 24/7 deposits to ProphetX traders",
+   "url": "https://fintech.global/2026/08/26/edge-markets-brings-24-7-deposits-to-prophetx-traders/?utm_source=rss&utm_medium=rss&utm_campaign=edge-markets-brings-24-7-deposits-to-prophetx-traders",
+   "pubDate": "Wed, 26 Aug 2026 15:19:38 +0000",
    "source": "fintech.global",
-   "summary": "CleverChain , an AI-driven financial crime compliance technology provider, has been welcomed into NVIDIA Inception , a worldwide initiative built to back companies advancing innovative work in artificial intelligence and accelerated computing. Through NVIDIA Inception, participating businesses are given the tools to uncover fresh AI opportunities, refine their technology and scale their operations, with the programme offering tailored support at every stage. By taking part in the scheme, CleverChain will now be able to tap into NVIDIA’s most current developer tools alongside technical resource"
+   "summary": "EDGE Markets , a financial services company focused on alternative financial markets, has partnered with ProphetX to bring 24/7 real-time funding to the sports exchange. The partnership integrates EDGE Connect, EDGE Markets’ private closed-loop settlement network, into ProphetX’s funding infrastructure. Eligible EDGE Boost customers will be able to move up to $1m a day into their ProphetX accounts, with transfers available 24 hours a day, 365 days a year and no deposit fees. The companies said traditional account-funding methods can involve lower transaction limits, processing delays and fees,"
   },
   {
-   "title": "Does regulatory reporting need a rethink?",
-   "url": "https://fintech.global/2026/08/25/does-regulatory-reporting-need-a-rethink/?utm_source=rss&utm_medium=rss&utm_campaign=does-regulatory-reporting-need-a-rethink",
-   "pubDate": "Tue, 25 Aug 2026 16:27:58 +0000",
+   "title": "Locked out abroad: the identity gap Tomoarrow wants to close",
+   "url": "https://fintech.global/2026/08/26/locked-out-abroad-the-identity-gap-tomoarrow-wants-to-close/?utm_source=rss&utm_medium=rss&utm_campaign=locked-out-abroad-the-identity-gap-tomoarrow-wants-to-close",
+   "pubDate": "Wed, 26 Aug 2026 15:19:16 +0000",
    "source": "fintech.global",
-   "summary": "Regulatory reporting is a core pillar of compliance within financial institutions, but costs and complexity continue to rise, creating a host of challenges. The Bank of England’s ‘Future of Finance’ report estimated that regulatory reporting costs UK banks between £2bn and £4.5bn annually. As firms face more regulations, especially those expanding across borders, the number of rules they must report on grows. Adding to this challenge is a shift in how reporting is conducted, with regulators moving away from periodic reports to real-time, creating more strain on existing reporting systems. Desp"
+   "summary": "Tomoarrow , a South Korean FinTech and RegTech company, has launched an eKYC solution designed to help international users verify their identities without needing locally issued credentials. The solution, TomoIDV, creates a client-specific Pseudonymous Permanent Identifier (PPID), allowing businesses to recognise returning customers while limiting exposure of their underlying identity information. TomoIDV uses home-country identity documents, mobile numbers, selfies and liveness checks, alongside authoritative data sources in the user’s home country where available. The launch comes as more pe"
   },
   {
-   "title": "AI is changing how tax operations manage compliance",
-   "url": "https://fintech.global/2026/08/25/ai-is-changing-how-tax-operations-manage-compliance/?utm_source=rss&utm_medium=rss&utm_campaign=ai-is-changing-how-tax-operations-manage-compliance",
-   "pubDate": "Tue, 25 Aug 2026 15:42:44 +0000",
+   "title": "Submission friction now beats price in agent choices",
+   "url": "https://fintech.global/2026/08/26/submission-friction-now-beats-price-in-agent-choices/?utm_source=rss&utm_medium=rss&utm_campaign=submission-friction-now-beats-price-in-agent-choices",
+   "pubDate": "Wed, 26 Aug 2026 14:58:13 +0000",
    "source": "fintech.global",
-   "summary": "For decades, tax operations have largely been treated as a back-office compliance function, with teams responsible for collecting documentation, validating customer information, managing withholding obligations and meeting increasingly complex reporting requirements. TAINA Technology ‘s latest analysis argues that AI is now beginning to change this model, shifting tax operations away from repetitive manual processing and towards more intelligent, automated workflows. Tax professionals traditionally spend significant amounts of time reviewing forms, checking supporting documentation, validating"
+   "summary": "Ivans, provider of the Ivans Exchange connectivity platform for insurance agencies and carriers, has published its 2026 Insurance Agency-Carrier Connectivity Trends survey report , finding that friction within the submissions process has overtaken product and price as the leading factor in how independent agents decide where to place business. According to the findings, 90% of agents said they have cut back on business with a carrier because of submission-related friction, with the need to re-enter risk data across several carrier portals identified as the biggest frustration, named by 74% of "
   },
   {
-   "title": "ShardLab bets on StoreHub to expand SEA payments",
-   "url": "https://fintech.global/2026/08/25/shardlab-bets-on-storehub-to-expand-sea-payments/?utm_source=rss&utm_medium=rss&utm_campaign=shardlab-bets-on-storehub-to-expand-sea-payments",
-   "pubDate": "Tue, 25 Aug 2026 15:23:45 +0000",
+   "title": "Itoflow bags $2.5m to bring AI to portfolio management",
+   "url": "https://fintech.global/2026/08/26/itoflow-bags-2-5m-to-bring-ai-to-portfolio-management/?utm_source=rss&utm_medium=rss&utm_campaign=itoflow-bags-2-5m-to-bring-ai-to-portfolio-management",
+   "pubDate": "Wed, 26 Aug 2026 14:50:16 +0000",
    "source": "fintech.global",
-   "summary": "ShardLab , the FinTech venture studio backed by global investment firm Hashed, has taken a strategic stake in StoreHub , a Southeast Asian commerce and payments platform, as the companies launch a joint venture focused on developing new payment and rewards products. The partnership will allow the companies to develop and test new products across StoreHub’s existing merchant network, with concepts that demonstrate demand potentially scaled across the region. The companies have not yet disclosed details of the specific products they plan to launch. StoreHub provides point-of-sale, payments, loya"
+   "summary": "Itoflow , the London-based AI platform helping professional investment teams scale portfolio research and management, has secured $2.5m in pre-seed funding. The round was led by Balderton Capital, with participation from a group of angel investors including Cleo founder and CEO Barney Hussey-Yeo. Itoflow said the fresh capital would be used to grow its engineering and quantitative research teams, speed up product development and support its commercial and regulatory efforts. Set up in 2026, Itoflow is developing AI agents that absorb how individual investment firms approach research, risk mana"
+  },
+  {
+   "title": "MoonPay Adds Discover Network to U.S. Crypto Onramp Card Options",
+   "url": "https://thefintechtimes.com/moonpay-adds-discover-network-to-u-s-crypto-onramp-card-options/",
+   "pubDate": "Wed, 26 Aug 2026 18:00:33 +0000",
+   "source": "thefintechtimes.com",
+   "summary": "MoonPay has added Discover Network as a supported card network on its US crypto onramp, completing a trio of major American card schemes alongside Visa and Mastercard . The integration means Discover cardholders can now purchase and sell digital assets across MoonPay’s network of more than 500 enterprise partners, which includes wallets, exchanges and consumer applications. Richard Harrison, VP of banking and payments partnerships at MoonPay The company, founded in 2019 and headquartered in New York, says it has built a deliberate strategy of matching every mainstream consumer payment rail. Mo"
+  },
+  {
+   "title": "Ozone API brings cVRP Infrastructure to Non-CMA9 Banks in 8 weeks",
+   "url": "https://thefintechtimes.com/ozone-api-brings-cvrp-infrastructure-to-non-cma9-banks-in-8-weeks/",
+   "pubDate": "Wed, 26 Aug 2026 13:01:02 +0000",
+   "source": "thefintechtimes.com",
+   "summary": "Ozone API has launched a dedicated commercial Variable Recurring Payments product for UK banks and payment service providers that sit outside the CMA9 mandatory compliance group. The company says any institution can go live with a fully OBL 4.0-compliant cVRP infrastructure in 8 to 10 weeks via its Ozone Connect integration layer, with no internal build required and no need for a dedicated standards-monitoring team. The timing is deliberate. The UK Payments Initiative, a 31-organisation consortium that includes NatWest Group , Nationwide , Monzo , Mastercard Open Banking Services , GoCardless "
+  },
+  {
+   "title": "The Fintech Landscape of Canada in 2026",
+   "url": "https://thefintechtimes.com/the-fintech-landscape-of-canada-in-2026/",
+   "pubDate": "Wed, 26 Aug 2026 13:00:49 +0000",
+   "source": "thefintechtimes.com",
+   "summary": "The following is an overview of the fintech ecosystem and its relation to wider economic development of Canada in 2026. Canada should have been an open-banking pioneer. It has one of the world’s most developed financial systems, near-universal access to banking, a highly connected population and Toronto is one of North America’s largest financial centres. The country has also produced internationally recognised technology companies and one of the world’s most successful home-grown fintechs. Yet in one important respect, Canada has been surprisingly slow. While Britain introduced open banking y"
+  },
+  {
+   "title": "Fastest Route to Market: Digital Assets and the Next Layer of Licensing Complexity",
+   "url": "https://thefintechtimes.com/fastest-route-to-market-digital-assets-and-the-next-layer-of-licensing-complexity/",
+   "pubDate": "Wed, 26 Aug 2026 09:00:12 +0000",
+   "source": "thefintechtimes.com",
+   "summary": "Part 2 of 4 in the series Fastest Route to Market: Licensing Roadmaps for FinTechs. By Taft’s FinTech Practice Framing the problem: when ‘money transmission’ is not enough In Part 1 of our four-part series, Fastest Route to Market: Money Transmission Licensing Roadmaps for FinTechs, we explained why many early-stage FinTechs begin with federal Money Services Business (MSB) registration and state money transmitter licensing as the foundational framework for moving, holding, and managing customer fiat balances. For many payments, remittance, and wallet businesses, that structure can remain the p"
+  },
+  {
+   "title": "Airwallex Commits $43 Million to Drive UAE Expansion and Fuel Regional Autonomous Finance Infrastructure",
+   "url": "https://thefintechtimes.com/airwallex-commits-43-million-to-drive-uae-expansion-and-fuel-regional-autonomous-finance-infrastructure/",
+   "pubDate": "Wed, 26 Aug 2026 08:26:16 +0000",
+   "source": "thefintechtimes.com",
+   "summary": "The cross-border payment landscape across the Middle East is undergoing a massive architectural shift as high-growth enterprises demand real-time, multi-currency liquidity rails. Accelerating its global footprint across the UK, Europe, Middle East, and Africa (EMEA) region, global AI-native financial operating system Airwallex is investing $43 million (AED 158 million) in the United Arab Emirates over the next five years. The substantial capital commitment is designed to directly address the operational friction faced by regional enterprises expanding into international markets. By funding new"
   },
   {
    "title": "Tokenisation: Why Interoperability Decides the UK’s £33bn Prize",
@@ -9057,39 +9092,11 @@
    "summary": "While several European Union member states have yet to issue a single MiCA (Markets in Crypto-Assets) licence, Latvia has quietly transformed into one of the leading Web3 hubs in Northern Europe. Reinis Znotiņš and Viktors Valainis argue that public-private cooperation has made Latvia a leading MiCA licensing hub, ahead of far larger EU economies. To date, numerous EU countries, including Poland, Portugal, Romania, Hungary and Greece, have not registered any MiCA-compliant entities. In contrast, Latvia has already issued ten licences, placing it ahead of European economic heavyweights like Spa"
   },
   {
-   "title": "The Fintech Landscape of Spain in 2026",
-   "url": "https://thefintechtimes.com/the-fintech-landscape-of-spain-in-2026/",
-   "pubDate": "Mon, 24 Aug 2026 08:00:10 +0000",
-   "source": "thefintechtimes.com",
-   "summary": "The following showcases an in-depth 2026 overview of developments of fintech and the wider digital landscape of Spain. Ask someone in Spain to pay back their share of dinner and there is a good chance they will not ask for cash or bank details. They will simply say: “Hazme un Bizum .” Few phrases better illustrate how deeply fintech has entered everyday Spanish life. What began as a convenient way of transferring money between friends has become part of the country’s financial vocabulary. Parents send money to children through Bizum. Customers pay small businesses with it. Charities accept don"
-  },
-  {
-   "title": "Taranis Capital, The Fintech Times and Co-Labs Global Form Strategic Alliance to De-Risk and Accelerate DeepTech Innovation",
-   "url": "https://thefintechtimes.com/taranis-capital-the-fintech-times-and-co-labs-global-form-strategic-alliance-to-de-risk-and-accelerate-deeptech-innovation/",
-   "pubDate": "Mon, 24 Aug 2026 07:40:41 +0000",
-   "source": "thefintechtimes.com",
-   "summary": "In a market defined by tighter capital, escalating regulatory scrutiny, and an increasingly crowded vendor landscape, three industry leaders have joined forces to create a new model for scaling financial technology. Taranis Capital , The Fintech Times , and Co-Labs Global are collaborating on a strategic initiative designed to de-risk and accelerate growth across FinTech, AI, RegTech, and BioTech in the UK and internationally. By combining institutional capital, global media reach, and multi-stakeholder ecosystem orchestration, the alliance aims to bridge the gap between high-potential technol"
-  },
-  {
-   "title": "London Stock Exchange to Launch 24/5 Venue LSE 24 in 2027",
-   "url": "https://thefintechtimes.com/london-stock-exchange-to-launch-24-5-venue-lse-24-in-2027/",
-   "pubDate": "Sun, 23 Aug 2026 13:00:36 +0000",
-   "source": "thefintechtimes.com",
-   "summary": "The London Stock Exchange has announced plans to launch LSE 24, a new trading venue designed to operate near-continuously from Monday to Friday, extending market access well beyond the existing 08:00 to 16:30 window on the Main Market. The venue will run from 17:00 to 07:50 each weekday, with a 30-minute pause for end-of-day processing, and will be built on LSEG’s existing financial market infrastructure. Exchange Traded Products will be the first asset class to go live, targeted for H1 2027 subject to regulatory approval. Client testing is scheduled to begin by the end of 2026. The LSE cited "
-  },
-  {
-   "title": "United Arab Emirates: Fintech Is Part of the Economic Model",
-   "url": "https://thefintechtimes.com/united-arab-emirates-fintech-is-part-of-the-economic-model/",
-   "pubDate": "Sun, 23 Aug 2026 05:00:06 +0000",
-   "source": "thefintechtimes.com",
-   "summary": "The following showcases the 2026 developments of fintech and wider digital of the United Arab Emirates (UAE). There was a time when the United Arab Emirates had to convince fintech companies to come. That is increasingly no longer the problem. Dubai and Abu Dhabi now compete for international banks, hedge funds, cryptocurrency businesses, payment companies, family offices and fintech entrepreneurs. Digital banking has become normal, buy-now-pay-later (BNPL) is mainstream and the country is developing its own central bank digital currency. The transformation has happened remarkably quickly. In "
-  },
-  {
-   "title": "Alipay+ Adds Hang Seng Bank as Cross-Border QR Network Expands",
-   "url": "https://thefintechtimes.com/alipay-adds-hang-seng-bank-as-cross-border-qr-network-expands/",
-   "pubDate": "Sun, 23 Aug 2026 02:00:29 +0000",
-   "source": "thefintechtimes.com",
-   "summary": "Alipay+, Ant International ‘s unified wallet gateway, has added Hang Seng Bank as its first Hong Kong banking partner, extending the network’s reach to Hang Seng Mobile App users who can now scan QR codes at more than 100 million merchants across 55-plus countries and regions, including the Chinese Mainland. The partnership is part of a broader expansion of Alipay+’s bank partner roster, which already includes Public Bank Berhad in Malaysia, Bank of the Philippine Islands and Asia United Bank in the Philippines, OCBC in Singapore, Kasikorn Bank and Siam Commercial Bank in Thailand, and Vietcom"
+   "title": "Reports: Stablecoin compliance in 2026; Revolut - The Dawn of Modern Banking; Stablecoin playbook",
+   "url": "https://www.fintechwrapup.com/p/reports-stablecoin-compliance-in",
+   "pubDate": "Wed, 26 Aug 2026 08:01:42 GMT",
+   "source": "fintechwrapup.com",
+   "summary": "What does stablecoin compliance look like in 2026? We are all busy with technology and how great it is, but without the right compliance, stablecoins won't work. Between 2023 and 2026, the GENIUS Act, MiCA, the UK's FCA regime, and dedicated frameworks from MAS, the HKMA and VARA all came into force on top of a rewritten FATF Travel Rule. Now the question is which rules apply to your specific activity, and that rarely has a simple answer. A bank or a payments company can all touch the same stablecoin and carry completely different obligations, depending on their role and stacks. If you want to"
   },
   {
    "title": "Deep Dive: The AI Model Gateway/Router Directory For Fintechs and Banks",
@@ -9223,13 +9230,6 @@
    "pubDate": "Sun, 12 Jul 2026 08:01:38 GMT",
    "source": "fintechwrapup.com",
    "summary": "Chainlink The transitional grandfathering window under Article 143(3) of the Markets in Crypto-Assets Regulation (MiCA) has officially expired across all 27 European Union (EU) and 30 European Economic Area (EEA) member states. This milestone marks the definitive end of the highly fragmented national Virtual Asset Service Provider (VASP) registries and establishes a single, harmonized authorization framework for Crypto-Asset Service Providers (CASPs). For fintech founders, payments strategists, and venture capitalists, this shift represents a hard boundary: any entity providing crypto-asset se"
-  },
-  {
-   "title": "AI Agents Are About to Change Payments Operations - David Rosa (General Manager, Rapyd)",
-   "url": "https://www.fintechwrapup.com/p/rapyd",
-   "pubDate": "Fri, 10 Jul 2026 08:00:40 GMT",
-   "source": "fintechwrapup.com",
-   "summary": "Stablecoins. AI agents. Cross-border payments. The future of money is changing faster than most companies realize. In this episode of the WRAP UP podcast, I sit down with David Rosa, General Manager at Rapyd , to discuss one of the biggest transformations happening across financial services today. We explore the launch of OpenUSD and what it means for the stablecoin market, why Rapyd believes stablecoins are solving real-world payment problems, and how AI is already reshaping the economics of payments businesses. David also explains how Rapyd uses AI to onboard merchants, automate internal ope"
   }
  ]
 }
