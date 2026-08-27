@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-08-27T02:09:41.496318+00:00",
+ "fetched_at": "2026-08-27T03:33:54.500652+00:00",
  "count": 1318,
  "errors": [
   "insights4vc.substack.com: HTTP Error 403: Forbidden"
@@ -181,6 +181,13 @@
    "summary": "Once valued at $2.5 billion, Copper was being marketed by investment bank Cantor Fitzgerald at around $500 million in May this year."
   },
   {
+   "title": "First quantum-resistant Bitcoin transaction successfully executed, StarkWare says",
+   "url": "https://www.theblock.co/news/defi/2026-08-26-first-quantum-resistant-bitcoin-transaction-starkware-412863",
+   "pubDate": "Thu, 27 Aug 2026 02:24:36 +0000",
+   "source": "theblock.co",
+   "summary": "Still, StarkWare says Bitcoin needs a protocol-level upgrade to make it fully safe from quantum computing threats."
+  },
+  {
    "title": "Hyperliquid Policy Center, TradeXYZ urge CFTC to create path for US oil perpetuals",
    "url": "https://www.theblock.co/news/regulation/2026-08-26-hyperliquid-policy-center-tradexyz-urges-cftc-create-path-us-oil-perpetuals-412834",
    "pubDate": "Wed, 26 Aug 2026 16:06:46 +0000",
@@ -300,13 +307,6 @@
    "summary": "Each pToken represents a pro-rata ownership stake in an underlying Arcus perpetuals account at a fixed market and leverage level."
   },
   {
-   "title": "Grayscale debuts first Zcash ETF of its kind as privacy coin surges",
-   "url": "https://www.theblock.co/news/regulation/2026-08-25-grayscale-debuts-zcash-etf-412654",
-   "pubDate": "Tue, 25 Aug 2026 12:00:00 +0000",
-   "source": "theblock.co",
-   "summary": "On Tuesday morning, Grayscale launched the first ETF to offer direct exposure to Zcash, the privacy-focused cryptocurrency."
-  },
-  {
    "title": "SEC Readies Updated Rule for Crypto Custody",
    "url": "https://www.pymnts.com/cryptocurrency/2026/sec-readies-updated-rule-for-crypto-custody/",
    "pubDate": "Wed, 26 Aug 2026 17:56:25 +0000",
@@ -388,7 +388,7 @@
    "url": "https://decrypt.co/376662/russia-chatgpt-influence-campaign",
    "pubDate": "Wed, 26 Aug 2026 22:46:03 +0000",
    "source": "decrypt.co",
-   "summary": "Russian Influence Network Used ChatGPT to Masquerade as Academic Experts Coin Prices BTC $78,925.00 $2,500.70 $704.98 $1.41 $0.999977 $101.60 $0.335674 $1.035 $81.94 $0.087167 $797.51"
+   "summary": "Russian Influence Network Used ChatGPT to Masquerade as Academic Experts Coin Prices BTC $78,909.00 $2,497.51 $703.43 $1.41 $0.999937 $101.73 $0.335012 $1.035 $81.33 $0.087052 $788.73"
   },
   {
    "title": "Bill Gates Wants a Robot Tax and Jobs Humans Can't Be Fired From",
@@ -402,49 +402,49 @@
    "url": "https://decrypt.co/376664/nvidia-shares-surge-record-q2-revenue",
    "pubDate": "Wed, 26 Aug 2026 21:42:42 +0000",
    "source": "decrypt.co",
-   "summary": "Nvidia Shares Surge in After-Hours Trading After Record $96.2 Billion Revenue Coin Prices BTC $78,925.00 $2,500.70 $704.98 $1.41 $0.999977 $101.60 $0.335674 $1.035 $81.94 $0.087167 $797.51"
+   "summary": "Nvidia Shares Surge in After-Hours Trading After Record $96.2 Billion Revenue Coin Prices BTC $78,909.00 $2,497.51 $703.43 $1.41 $0.999937 $101.73 $0.335012 $1.035 $81.33 $0.087052 $788.73"
   },
   {
    "title": "What Traders Are Watching for Bitcoin's Next Move",
    "url": "https://decrypt.co/376649/what-traders-watching-bitcoin-next-move",
    "pubDate": "Wed, 26 Aug 2026 20:22:17 +0000",
    "source": "decrypt.co",
-   "summary": "What Traders Are Watching for Bitcoin's Next Move Coin Prices BTC $78,925.00 $2,500.70 $704.98 $1.41 $0.999977 $101.60 $0.335674 $1.035 $81.94 $0.087167 $797.51"
+   "summary": "What Traders Are Watching for Bitcoin's Next Move Coin Prices BTC $78,909.00 $2,497.51 $703.43 $1.41 $0.999937 $101.73 $0.335012 $1.035 $81.33 $0.087052 $788.73"
   },
   {
    "title": "Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana",
    "url": "https://decrypt.co/376646/galaxy-crypto-credit-lines-bitcoin-ethereum-solana",
    "pubDate": "Wed, 26 Aug 2026 19:56:03 +0000",
    "source": "decrypt.co",
-   "summary": "Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana Coin Prices BTC $78,925.00 $2,500.70 $704.98 $1.41 $0.999977 $101.60 $0.335674 $1.035 $81.94 $0.087167 $797.51"
+   "summary": "Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana Coin Prices BTC $78,909.00 $2,497.51 $703.43 $1.41 $0.999937 $101.73 $0.335012 $1.035 $81.33 $0.087052 $788.73"
   },
   {
    "title": "US Banks Join Forces to Build a Blockchain of Their Own",
    "url": "https://decrypt.co/376644/banks-build-blockchain-bankchain-alliance",
    "pubDate": "Wed, 26 Aug 2026 19:21:25 +0000",
    "source": "decrypt.co",
-   "summary": "US Banks Join Forces to Build a Blockchain of Their Own Coin Prices BTC $78,925.00 $2,500.70 $704.98 $1.41 $0.999977 $101.60 $0.335674 $1.035 $81.94 $0.087167 $797.51"
+   "summary": "US Banks Join Forces to Build a Blockchain of Their Own Coin Prices BTC $78,909.00 $2,497.51 $703.43 $1.41 $0.999937 $101.73 $0.335012 $1.035 $81.33 $0.087052 $788.73"
   },
   {
    "title": "Bitcoin Wallets Dormant for Over a Decade Move $40M in One Week",
    "url": "https://decrypt.co/376641/bitcoin-wallets-dormant-decade-move-40m",
    "pubDate": "Wed, 26 Aug 2026 18:44:17 +0000",
    "source": "decrypt.co",
-   "summary": "Bitcoin Wallets Dormant for Over a Decade Move $40M in One Week Coin Prices BTC $78,925.00 $2,500.70 $704.98 $1.41 $0.999977 $101.60 $0.335674 $1.035 $81.94 $0.087167 $797.51"
+   "summary": "Bitcoin Wallets Dormant for Over a Decade Move $40M in One Week Coin Prices BTC $78,909.00 $2,497.51 $703.43 $1.41 $0.999937 $101.73 $0.335012 $1.035 $81.33 $0.087052 $788.73"
   },
   {
    "title": "Solana Treasury Firm Invites Investors to Look 'Beyond the Price of SOL'",
    "url": "https://decrypt.co/376619/solana-treasury-sol-data-beyond-price",
    "pubDate": "Wed, 26 Aug 2026 17:52:22 +0000",
    "source": "decrypt.co",
-   "summary": "Solana Treasury Firm Invites Investors to Look 'Beyond the Price of SOL' Coin Prices BTC $78,925.00 $2,500.70 $704.98 $1.41 $0.999977 $101.60 $0.335674 $1.035 $81.94 $0.087167 $797.51"
+   "summary": "Solana Treasury Firm Invites Investors to Look 'Beyond the Price of SOL' Coin Prices BTC $78,909.00 $2,497.51 $703.43 $1.41 $0.999937 $101.73 $0.335012 $1.035 $81.33 $0.087052 $788.73"
   },
   {
    "title": "'The Government Doesn't Own Our Data': Prosecuted GrapheneOS User",
    "url": "https://decrypt.co/376631/the-government-doesnt-own-our-data-prosecuted-grapheneos-user",
    "pubDate": "Wed, 26 Aug 2026 17:24:52 +0000",
    "source": "decrypt.co",
-   "summary": "'The Government Doesn't Own Our Data': Prosecuted GrapheneOS User Coin Prices BTC $78,925.00 $2,500.70 $704.98 $1.41 $0.999977 $101.60 $0.335674 $1.035 $81.94 $0.087167 $797.51"
+   "summary": "Samuel Tunick, facing five years over a wiped phone, said he was secretly placed on a watch list as a suspected terrorist."
   },
   {
    "title": "Crypto CEO Faces US Extradition Over Alleged $20 Million Token Scheme",
@@ -1623,7 +1623,7 @@
    "summary": "Artificial intelligence has moved past the hype stage, according to Nvidia’s CEO. Jensen Huang put it plainly on the company’s second quarter earnings call that “AI has reached its inflection point. It’s doing useful work. Its tokens are productive and profitable. Now, compute is revenue.” What matters now, he told analysts, is that “AI is now doing productive and useful work” and “generating profitable tokens,” not whether it has cleared some abstract intelligence threshold. He waved off the industry’s fixation on artificial general intelligence entirely, calling AGI benchmarks “kind of sense"
   },
   {
-   "title": "Google Shifts AI Safety Unit out of DeepMind Lab to Global Affairs",
+   "title": "Google Shifts AI Safety Unit Out of DeepMind Lab to Global Affairs",
    "url": "https://www.pymnts.com/google/2026/google-shifts-ai-safety-unit-out-of-deepmind-lab-to-global-affairs/",
    "pubDate": "Wed, 26 Aug 2026 23:43:27 +0000",
    "source": "pymnts.com",
@@ -8882,6 +8882,27 @@
    "summary": "Although the United States has shown little interest in establishing a central bank digital currency (CBDC) of its own, other nations around the world continue to advance their research and pilot programs. The Bank for International Settlements (BIS), which has taken the lead in the development of CDBCs, announced six new blockchain-related projects last year. However, the landscape isn’t yet fully cleared for CBDCs to take center stage. A report from Javelin Strategy & Research, CBDCs: Where Are We Now? , looks at the progress of key projects around the world, why the UK is emerging as a lead"
   },
   {
+   "title": "TRM Labs Taps MAS Veteran Ziqing Ang to Lead APAC Policy",
+   "url": "https://fintechnews.sg/136390/blockchain/ziqing-ang-trm-labs/",
+   "pubDate": "Thu, 27 Aug 2026 03:20:07 +0000",
+   "source": "fintechnews.sg",
+   "summary": "TRM Labs has appointed former Monetary Authority of Singapore (MAS) official Ziqing Ang to lead its policy work across APAC. As Head of Policy for APAC, Ang will engage regulators, policymakers, law enforcement agencies and private institutions on digital asset crime and emerging threats. She spent more than eight years at MAS in financial markets development and reserve management. Her work included supporting Singapore’s capital markets initiatives, managing fixed income portfolios and contributing to research for the country’s official foreign reserves. Ang later joined digital asset bank S"
+  },
+  {
+   "title": "DBS and Stripe Join Forces on Global Payments, Agentic AI in Asia",
+   "url": "https://fintechnews.sg/136372/payments/dbs-stripe-cross-border-payments/",
+   "pubDate": "Thu, 27 Aug 2026 02:58:43 +0000",
+   "source": "fintechnews.sg",
+   "summary": "DBS and Stripe are teaming up to help Asian businesses accept payments and manage funds across international markets. The partnership combines DBS’ pan-Asian banking network with Stripe’s global financial infrastructure. Stripe will use DBS’ digital banking and money movement services to help merchants collect payments across borders. The bank’s cash management services will also help Stripe manage liquidity across its corporate entities as the company expands in Asia and develops into a full-stack financial infrastructure provider. DBS will explore using Stripe’s global platform and embedded "
+  },
+  {
+   "title": "Techcombank Reportedly Weighs 15% Stake Deal Worth US$2 Billion",
+   "url": "https://fintechnews.sg/136369/fintech/bnp-paribas-kb-kookmin-techcombank-stake/",
+   "pubDate": "Thu, 27 Aug 2026 02:39:06 +0000",
+   "source": "fintechnews.sg",
+   "summary": "Techcombank is weighing BNP Paribas and KB Kookmin as potential strategic investors in a deal that could reach US$2 billion, according to an exclusive Reuters report. The French and South Korean banks are separately discussing the acquisition of a stake of at least 15% in the Vietnamese lender, according to two people familiar with the matter. Neither discussion has produced a formal agreement and both could end without a transaction. The sources expect Techcombank to choose no more than one of the prospective investors. Foreign Ownership Rules Could Shape the Deal Overseas shareholders alread"
+  },
+  {
    "title": "Revolut Debuts Euro Stablecoin EURR in Denmark, Poland and Portugal",
    "url": "https://fintechnews.sg/136340/digitalassets/revolut-euro-stablecoin/",
    "pubDate": "Wed, 26 Aug 2026 09:39:45 +0000",
@@ -8929,27 +8950,6 @@
    "pubDate": "Wed, 26 Aug 2026 04:22:49 +0000",
    "source": "fintechnews.sg",
    "summary": "DBS will offer up to S$3 PayLah! cashback at participating hawkers and heartland businesses every Saturday from 29 August 2026. The campaign will run for 17 Saturdays until 19 December, five weeks longer than its previous edition. Around 2.7 million rewards will be available, about 40% more than last year. The first 160,000 customers on each eligible day can receive the cashback when they scan to pay with DBS PayLah! at participating hawker stalls, coffee shops, wet markets and heartland shops. The offer forms part of the DBS Saturday Savings programme under the bank’s S$10 million support pac"
-  },
-  {
-   "title": "Revolut Steps Up AI Push With Dedicated Research Arm",
-   "url": "https://fintechnews.sg/136301/digital-banking-news-singapore/revolut-research/",
-   "pubDate": "Wed, 26 Aug 2026 04:00:29 +0000",
-   "source": "fintechnews.sg",
-   "summary": "Revolut has launched a research division to develop AI for fraud detection, credit risk and product recommendations. Revolut Research sits within the company’s AI department and will oversee work on machine learning models for financial services. It also plans to collaborate with academic and technology institutions. The unit is developing PRAGMA, a family of foundation models built using NVIDIA technology. The models provide a shared intelligence layer for functions including risk assessment and platform operations. According to an NVIDIA case study , PRAGMA was trained on about 26 million us"
-  },
-  {
-   "title": "Flagright Joins Nacha Push Against US Bank Payment Fraud",
-   "url": "https://fintechnews.sg/136278/payments/flagright-ach-compliance/",
-   "pubDate": "Tue, 25 Aug 2026 07:52:20 +0000",
-   "source": "fintechnews.sg",
-   "summary": "Flagright has joined Nacha ’s Preferred Partner programme for ACH compliance, fraud monitoring, and risk and fraud prevention. Nacha governs the US Automated Clearing House (ACH) Network, which supports electronic bank payments such as direct deposits and direct payments. Flagright’s platform monitors incoming and outgoing payment activity for unusual patterns. It assesses transaction and account behaviour alongside payment amounts and the histories of customers and counterparties. Financial institutions can configure rules to identify rapid fund movements, unusual payment patterns, possible a"
-  },
-  {
-   "title": "Stripe Adds GCash, Touch ’n Go, and PromptPay for Singapore Businesses",
-   "url": "https://fintechnews.sg/136275/payments/stripe-singapore-expansion/",
-   "pubDate": "Tue, 25 Aug 2026 07:09:31 +0000",
-   "source": "fintechnews.sg",
-   "summary": "Stripe has added six Asian payment methods for businesses using its platform, with ShopeePay and SPayLater set to follow across Southeast Asia in Q4 2026. Businesses can now accept cross-border payments through Samsung Pay, MoMo, GCash, Touch ’n Go, PromptPay and TrueMoney. The expansion comes as Stripe marks 10 years in Singapore. More than 80,000 businesses and sole proprietors in the country now use Stripe, with over six in ten selling internationally. Businesses Can Sell in 195 Countries Without Local Entities Stripe has also made Managed Payments available to digital businesses selling to"
   },
   {
    "title": "WealthReach partners VastAdvisor on advisor marketing",
