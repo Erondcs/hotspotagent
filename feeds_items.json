@@ -1,10 +1,24 @@
 {
- "fetched_at": "2026-08-28T04:29:52.010125+00:00",
+ "fetched_at": "2026-08-28T06:18:50.016792+00:00",
  "count": 1319,
  "errors": [
   "insights4vc.substack.com: HTTP Error 403: Forbidden"
  ],
  "items": [
+  {
+   "title": "Bitcoin is trading at a premium on Coinbase after a long time. Here's what it means",
+   "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-is-trading-at-a-premium-on-coinbase-after-a-long-time",
+   "pubDate": "Fri, 28 Aug 2026 05:02:22 +0000",
+   "source": "coindesk.com",
+   "summary": "The indictor has flipped positive for the first time since May as BTC looks to establish a foothold above $80,000."
+  },
+  {
+   "title": "Bitcoin under $80,000, solana leads majors higher before Warsh's Jackson Hole debut",
+   "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-holds-usd80-000-solana-leads-majors-higher-before-warsh-s-jackson-hole-debut",
+   "pubDate": "Fri, 28 Aug 2026 04:40:52 +0000",
+   "source": "coindesk.com",
+   "summary": "Every major but HYPE gained over 24 hours, capping a week that added 9% to bitcoin and 20% to solana."
+  },
   {
    "title": "An XRP treasury company backed by Ripple is a shareholder vote away from Nasdaq",
    "url": "https://www.coindesk.com/markets/2026/08/28/an-xrp-treasury-company-backed-by-ripple-is-a-shareholder-vote-away-from-nasdaq",
@@ -167,18 +181,11 @@
    "summary": "The SHRINCS proposal would let bitcoin transactions use larger, quantum-resistant approvals while preserving more network capacity than existing post-quantum signature designs."
   },
   {
-   "title": "Binance co-founders CZ and Yi He adopted Simpsons cartoon aliases ‘Homer’ and ‘Marge’ in company meetings",
-   "url": "https://www.coindesk.com/business/2026/08/27/binance-co-founders-changpeng-cz-zhao-and-yi-he-used-the-simpsons-cartoon-aliases-homer-and-marge-in-company-meetings",
-   "pubDate": "Thu, 27 Aug 2026 05:25:28 +0000",
-   "source": "coindesk.com",
-   "summary": "Yi, who is now the co-CEO of Binance alongside its other chief Richard Teng, still uses the name Marge in meetings and chats."
-  },
-  {
-   "title": "Bitcoin below $79,000, XRP leads losses as traders start betting on a Fed hike",
-   "url": "https://www.coindesk.com/markets/2026/08/27/bitcoin-below-usd79-000-xrp-leads-losses-as-traders-start-betting-on-a-fed-hike",
-   "pubDate": "Thu, 27 Aug 2026 04:35:18 +0000",
-   "source": "coindesk.com",
-   "summary": "Every major token except solana and BNB is flat or lower over 24 hours, with bitcoin holding a 14% weekly gain and XRP 28%."
+   "title": "Dunamu and Visa partner on stablecoin, AI business; Open Standard’s OUSD under consideration",
+   "url": "https://www.theblock.co/news/business/2026-08-28-dunamu-visa-partner-stablecoin-ai-ousd-412988",
+   "pubDate": "Fri, 28 Aug 2026 06:00:22 +0000",
+   "source": "theblock.co",
+   "summary": "Dunamu specifically said that the partnership will explore potential usage of Open USD in future collaborations."
   },
   {
    "title": "XRP treasury firm Evernorth says SEC registration now effective, clearing way for Nasdaq listing",
@@ -305,13 +312,6 @@
    "pubDate": "Wed, 26 Aug 2026 16:06:46 +0000",
    "source": "theblock.co",
    "summary": "The CFTC should adopt a regulatory framework for energy perpetual contracts, the Hyperliquid Policy Center and TradeXYZ said in a letter."
-  },
-  {
-   "title": "CryptoQuant says bitcoin has entered bull market but needs to cross $83,000 for ‘official’ confirmation",
-   "url": "https://www.theblock.co/news/markets/2026-08-26-cryptoquant-bitcoin-bull-market-83000-official-confirmation-412822",
-   "pubDate": "Wed, 26 Aug 2026 16:02:01 +0000",
-   "source": "theblock.co",
-   "summary": "\"Historically, bitcoin's bull markets have 'officially' begun when price crosses above its 365-day moving average,\" CryptoQuant said."
   },
   {
    "title": "Mirae Embarks on Push to Build $109 Billion Digital Asset Empire",
@@ -1000,6 +1000,20 @@
    "summary": "From passageways to penumbras: a history of private life"
   },
   {
+   "title": "Here’s what happened in crypto today",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Fri, 28 Aug 2026 05:50:05 +0000",
+   "source": "cointelegraph.com",
+   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+  },
+  {
+   "title": "The Sandbox pledges 1:1 repayment after $700K bridge exploit",
+   "url": "https://cointelegraph.com/news/the-sandbox-compensation-sand-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Fri, 28 Aug 2026 05:40:48 +0000",
+   "source": "cointelegraph.com",
+   "summary": "Eligible holders on Base and BNB Chain will receive Ethereum-based SAND from the project’s treasury, with claims expected to open within two weeks."
+  },
+  {
    "title": "Abu Dhabi royal backs 49% stake in Trump-linked crypto bank venture: WSJ",
    "url": "https://cointelegraph.com/news/abu-dhabi-royal-trump-world-liberty-crypto-bank-wsj?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "pubDate": "Fri, 28 Aug 2026 04:17:09 +0000",
@@ -1012,13 +1026,6 @@
    "pubDate": "Thu, 27 Aug 2026 20:39:40 +0000",
    "source": "cointelegraph.com",
    "summary": "The transaction used the Marshall Islands-issued USDM1 bond as collateral and completed the full repo cycle on the Canton Network in under 10 minutes."
-  },
-  {
-   "title": "Here’s what happened in crypto today",
-   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Thu, 27 Aug 2026 19:27:53 +0000",
-   "source": "cointelegraph.com",
-   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
   },
   {
    "title": "Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen",
@@ -1201,13 +1208,6 @@
    "pubDate": "Wed, 26 Aug 2026 12:32:36 +0000",
    "source": "cointelegraph.com",
    "summary": "Bernstein expects Bitcoin to reclaim $125,000 by late 2026, before reaching $300,000 in 2029 under its base case, with a bull case of $500,000."
-  },
-  {
-   "title": "Taurus links digital asset platforms to Swift’s blockchain ledger",
-   "url": "https://cointelegraph.com/news/taurus-digital-asset-platforms-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Wed, 26 Aug 2026 12:00:00 +0000",
-   "source": "cointelegraph.com",
-   "summary": "Taurus expects first institutional clients to connect in days, with initial DLT transactions through its platforms expected within weeks."
   },
   {
    "title": "RQD* Clearing raises $74 million",
@@ -1679,11 +1679,11 @@
    "summary": "Bitcoin climbed above $80,000 this week for the first time since May, with renewed demand from institutional investors and improving interest from retail investors, Bloomberg reported Thursday (Aug. 27). The report attributed Bitcoin’s recovery to a “brighter mood” in speculative markets, a retail appetite for risk that is also driving interest in artificial intelligence investments, and a return of inflows to bitcoin exchange-traded funds (ETFs). Investors added $2.6 billion to U.S. bitcoin ETFs over the last eight trading sessions, and firmer U.S. demand drove trading to a premium on Coinbas"
   },
   {
-   "title": "Card fees have staying power",
-   "url": "https://www.paymentsdive.com/news/card-fees-have-staying-power/828957/",
+   "title": "Interchange fees’ staying power",
+   "url": "https://www.paymentsdive.com/news/interchange-fees-staying-power/828957/",
    "pubDate": "Thu, 27 Aug 2026 11:19:36 -0400",
    "source": "paymentsdive.com",
-   "summary": "Merchants keep attacking the fees, but the charges keep coming because consumers love swiping their cards."
+   "summary": "Merchants keep attacking card fees, but the charges keep coming because consumers love swiping their cards."
   },
   {
    "title": "Is the nickel nearing a revamp?",
@@ -8889,6 +8889,13 @@
    "summary": "The pervasive threat of fraud means organizations must be cautious when sending any payment, including when matching employee contributions to charitable organizations. According to Forbes, there are increasing instances where employees are manipulating programs intended to benefit nonprofits and charities in order to funnel funds from their employers. In some cases, employees have set up phony foundations and made contributions solely to exploit the charitable gift match. These bad actors have sometimes even recruited co-workers, friends, or family members to donate to these fake nonprofits t"
   },
   {
+   "title": "Asian Cybercrime Networks Turn to Decentralization, AI Tools, New Research Finds",
+   "url": "https://fintechnews.sg/136418/security/asian-cybercrime-networks-turn-to-decentralization-ai-tools-new-research-finds/",
+   "pubDate": "Fri, 28 Aug 2026 06:02:08 +0000",
+   "source": "fintechnews.sg",
+   "summary": "Across Asia-Pacific (APAC), cybercrime syndicates are increasingly employing decentralization strategies to evade detection and disruption, according to a new report by the Asia/Pacific Group on Money Laundering (APG), a regional inter-governmental body based in Australia. This comes in response to the intensified efforts of law enforcement and regulatory authorities to dismantle these large-scale criminal groups. The AGP research, which involved polling public sector agencies and private sector entities and interviewing industry stakeholders, revealed that 35% of its member jurisdictions have"
+  },
+  {
    "title": "HSBC Weighs Singapore Restructuring to Unite Wholesale, Retail and Private Banking",
    "url": "https://fintechnews.sg/136472/fintech/hsbc-singapore-restructuring/",
    "pubDate": "Fri, 28 Aug 2026 04:08:32 +0000",
@@ -8950,13 +8957,6 @@
    "pubDate": "Thu, 27 Aug 2026 02:58:43 +0000",
    "source": "fintechnews.sg",
    "summary": "DBS and Stripe are teaming up to help Asian businesses accept payments and manage funds across international markets. The partnership combines DBS’ pan-Asian banking network with Stripe’s global financial infrastructure. Stripe will use DBS’ digital banking and money movement services to help merchants collect payments across borders. The bank’s cash management services will also help Stripe manage liquidity across its corporate entities as the company expands in Asia and develops into a full-stack financial infrastructure provider. DBS will explore using Stripe’s global platform and embedded "
-  },
-  {
-   "title": "Techcombank Reportedly Weighs 15% Stake Deal Worth US$2 Billion",
-   "url": "https://fintechnews.sg/136369/fintech/bnp-paribas-kb-kookmin-techcombank-stake/",
-   "pubDate": "Thu, 27 Aug 2026 02:39:06 +0000",
-   "source": "fintechnews.sg",
-   "summary": "Techcombank is weighing BNP Paribas and KB Kookmin as potential strategic investors in a deal that could reach US$2 billion, according to an exclusive Reuters report. The French and South Korean banks are separately discussing the acquisition of a stake of at least 15% in the Vietnamese lender, according to two people familiar with the matter. Neither discussion has produced a formal agreement and both could end without a transaction. The sources expect Techcombank to choose no more than one of the prospective investors. Foreign Ownership Rules Could Shape the Deal Overseas shareholders alread"
   },
   {
    "title": "OutSystems debuts Agentic Loan Applications for banks",
