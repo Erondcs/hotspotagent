@@ -1,10 +1,45 @@
 {
- "fetched_at": "2026-08-29T03:52:20.774569+00:00",
- "count": 1319,
+ "fetched_at": "2026-08-29T22:49:01.927249+00:00",
+ "count": 1339,
  "errors": [
   "insights4vc.substack.com: HTTP Error 403: Forbidden"
  ],
  "items": [
+  {
+   "title": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
+   "url": "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing",
+   "pubDate": "Sat, 29 Aug 2026 15:00:00 +0000",
+   "source": "coindesk.com",
+   "summary": "A new survey suggests some of bitcoin's most familiar sales pitches of changing the world may be poorly suited to a majority of prospective buyers."
+  },
+  {
+   "title": "Swift’s $1.5 quadrillion network faces a blockchain test",
+   "url": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
+   "pubDate": "Sat, 29 Aug 2026 15:00:00 +0000",
+   "source": "coindesk.com",
+   "summary": "Crypto executives say new blockchain payment infrastructure could make Swift obsolete. Bankers say its 11,500-institution network gives it the power to absorb the technology instead."
+  },
+  {
+   "title": "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
+   "url": "https://www.coindesk.com/business/2026/08/29/the-next-trillion-dollar-currency-may-not-be-a-stablecoin-it-might-not-even-have-a-name-yet",
+   "pubDate": "Sat, 29 Aug 2026 15:00:00 +0000",
+   "source": "coindesk.com",
+   "summary": "AI agents are coming. They will need to pay each other. Crypto executives agree on the problem but disagree sharply on the solution, and one thinks the answer has not been invented yet."
+  },
+  {
+   "title": "Tokenized assets are busier than the data shows",
+   "url": "https://www.coindesk.com/opinion/2026/08/29/tokenized-assets-are-busier-than-the-data-shows",
+   "pubDate": "Sat, 29 Aug 2026 13:00:00 +0000",
+   "source": "coindesk.com",
+   "summary": "When you strip out what was never mobile, correct for who's holding what and why, add back what works off-contract, the utilization of tokenized assets looks close to 20%, argues Katana’s Matthew Fisher."
+  },
+  {
+   "title": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
+   "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
+   "pubDate": "Sat, 29 Aug 2026 04:30:00 +0000",
+   "source": "coindesk.com",
+   "summary": "Six decade-old wallets moved $40 million this month, but Galaxy's data shows dormant coin activity at its lowest since 2022 and 2026 on pace for under half of last year's total."
+  },
   {
    "title": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
    "url": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
@@ -146,39 +181,25 @@
    "summary": "Every major but HYPE gained over 24 hours, capping a week that added 9% to bitcoin and 20% to solana."
   },
   {
-   "title": "An XRP treasury company backed by Ripple is a shareholder vote away from Nasdaq",
-   "url": "https://www.coindesk.com/markets/2026/08/28/an-xrp-treasury-company-backed-by-ripple-is-a-shareholder-vote-away-from-nasdaq",
-   "pubDate": "Fri, 28 Aug 2026 04:21:22 +0000",
-   "source": "coindesk.com",
-   "summary": "The SEC cleared the paperwork for Evernorth's merger with a shell company, setting up a Sept. 30 vote and a listing under the ticker XRPN."
+   "title": "Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply",
+   "url": "https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064",
+   "pubDate": "Sat, 29 Aug 2026 21:16:51 +0000",
+   "source": "theblock.co",
+   "summary": "The affected tokens make up about 4% of FOGO's genesis supply and were worth about $3 million at the time of the incident."
   },
   {
-   "title": "Connecticut's new lawsuit against Kalshi piles on to prediction market legal fight",
-   "url": "https://www.coindesk.com/news-analysis/2026/08/27/connecticut-s-new-lawsuit-against-kalshi-piles-on-to-prediction-market-legal-fight",
-   "pubDate": "Thu, 27 Aug 2026 18:28:53 +0000",
-   "source": "coindesk.com",
-   "summary": "The courtroom combat across state and federal courts is so far producing roughly split outcomes, suggesting a big job may be coming for the Supreme Court."
+   "title": "Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack",
+   "url": "https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061",
+   "pubDate": "Sat, 29 Aug 2026 20:15:32 +0000",
+   "source": "theblock.co",
+   "summary": "MANTRA Chain, which lost $3.6 million, claimed the patch was only released 20 hours before the attack began and did not identify the flaw it fixed."
   },
   {
-   "title": "Ethena surges as buyback vote, VC unlock overhaul boost token outlook",
-   "url": "https://www.coindesk.com/markets/2026/08/27/ethena-surges-as-buyback-vote-vc-unlock-overhaul-boost-token-outlook",
-   "pubDate": "Thu, 27 Aug 2026 17:32:20 +0000",
-   "source": "coindesk.com",
-   "summary": "The changes aim to cut investor selling pressure and channel protocol revenue to ENA as Ethena looks to revive USDe growth."
-  },
-  {
-   "title": "GTA 6 leaker cashes out of his own memecoin hours before Rockstar's gameplay reveal",
-   "url": "https://www.coindesk.com/business/2026/08/27/gta-6-leaker-cashes-out-of-his-own-memecoin-hours-before-rockstar-s-gameplay-reveal",
-   "pubDate": "Thu, 27 Aug 2026 16:32:38 +0000",
-   "source": "coindesk.com",
-   "summary": "The token hit a $25 million market cap on the back of nine days of unreleased Grand Theft Auto VI footage. Its creator has now sold his stack — hours before Rockstar's first official gameplay reveal."
-  },
-  {
-   "title": "Polish Olympic chief arrested as prosecutors probe suspected crypto-linked bribe",
-   "url": "https://www.coindesk.com/business/2026/08/27/polish-olympic-chief-arrested-as-prosecutors-probe-suspected-crypto-linked-bribe",
-   "pubDate": "Thu, 27 Aug 2026 16:12:10 +0000",
-   "source": "coindesk.com",
-   "summary": "Prosecutors are probing allegations that Zondacrypto's CEO gave Radosław Piesiewicz a 40,000 euro watch for help with regulatory hurdles."
+   "title": "Former White House teleprompter operator ordered to pay $172,000 for Kalshi trades on mention markets",
+   "url": "https://www.theblock.co/news/regulation/2026-08-29-former-white-house-teleprompter-operator-ordered-to-pay-172000-for-kalshi-trades-on-mention-markets-413058",
+   "pubDate": "Sat, 29 Aug 2026 13:58:02 +0000",
+   "source": "theblock.co",
+   "summary": "The fine marks the CFTC's second insider trading case against a federal employee trading event contracts and its second related settlement in four weeks."
   },
   {
    "title": "Ninth Circuit deals blow to Kalshi in Nevada sports betting fight, challenging CFTC’s exclusive jurisdiction claim",
@@ -234,7 +255,7 @@
    "url": "https://www.theblock.co/news/regulation/2026-08-28-uk-tax-crypto-capital-gains-412993",
    "pubDate": "Fri, 28 Aug 2026 09:37:26 +0000",
    "source": "theblock.co",
-   "summary": "\";inherits:false;initial-value:100%}@property --tw-inset-shadow{syntax:\"*\";inherits:false;initial-value:0 0 #0000}@property --tw-inset-shadow-color{syntax:\"*\";inherits:false}@property --tw-inset-shadow-alpha{syntax:\" \";inherits:false;initial-value:100%}@property --tw-ring-color{syntax:\"*\";inherits:false}@property --tw-ring-shadow{syntax:\"*\";inherits:false;initial-value:0 0 #0000}@property --tw-ins Institutional crypto intel Explore Try it free News Today's top stories Business Deals DeFi Ecosystems Macro Markets Regulation Web3 Data Market dashboards Indices Stocks Futures Stablecoins Treasuries Ratings Prices Live crypto prices Bitcoin Ethereum Solana XRP Crypto Converter ETF Trackers Research From our analysts Institutional Blockchains On-chain DeFi Protocols Intelligence Funding Stableco HM Revenue and Customs, the UK's tax authority, said on Thursday that 240 people reported more than £1 million ($1.36 million) each in crypto capital gains during the 2024-25 tax year. According to the department's official statistics , 17,600 individuals filed taxable crypto asset capital gains, reporting £13.8 billion ($18.76 billion) in disposal proceeds and £1.38 billion ($1.87 billion) in total gains. The 2024-2025 tax year was the first where HMRC included a dedicated section for crypto capital gains on Self Assessment tax returns. Crypto gains were previously reported as part of broader capital gains section. The average gain per individual was £78,000 ($106,000), with the millionai"
+   "summary": "HMRC data shows 240 people reported more than £1 million ($1.36 million) each in crypto gains as UK tax scrutiny intensifies."
   },
   {
    "title": "Dunamu and Visa partner on stablecoin, AI business; Open Standard’s OUSD under consideration",
@@ -291,27 +312,6 @@
    "pubDate": "Thu, 27 Aug 2026 14:52:15 +0000",
    "source": "theblock.co",
    "summary": "The company said it has since deployed $773.4 million to acquire about 16.5 million additional HYPE at an average cost of $46.77."
-  },
-  {
-   "title": "Charles Schwab to add Solana, Avalanche and Chainlink to crypto trading platform",
-   "url": "https://www.theblock.co/news/business/2026-08-27-charles-schwab-add-solana-avalanche-chainlink-to-crypto-trading-platform-412923",
-   "pubDate": "Thu, 27 Aug 2026 14:20:05 +0000",
-   "source": "theblock.co",
-   "summary": "Schwab Crypto began rolling out to clients in May with direct access to BTC and ETH trading and charges 75 basis points per transaction."
-  },
-  {
-   "title": "Chainalysis says global crypto taxable activity topped $457 billion in 2025",
-   "url": "https://www.theblock.co/news/regulation/2026-08-27-chainalysis-says-global-crypto-taxable-activity-topped-457-billion-in-2025-412919",
-   "pubDate": "Thu, 27 Aug 2026 13:54:19 +0000",
-   "source": "theblock.co",
-   "summary": "Chainalysis estimates at least $457 billion in onchain taxable crypto activity in 2025, with CARF covering only 14%."
-  },
-  {
-   "title": "Moonwell investigates lending market issue on Base as security firms flag multimillion-dollar exploit",
-   "url": "https://www.theblock.co/news/defi/2026-08-27-moonwell-investigates-base-lending-market-issue-412913",
-   "pubDate": "Thu, 27 Aug 2026 12:59:46 +0000",
-   "source": "theblock.co",
-   "summary": "Security firms CertiK and PeckShield estimate losses of around $8.7 million after an attacker manipulated the collateral price of MAMO."
   },
   {
    "title": "This Week in Stablecoins: Interoperability vs Competing Interests",
@@ -391,81 +391,102 @@
    "summary": "Visa has signed a strategic partnership with Dunamu, the operator of South Korea’s largest crypto exchange Upbit, to explore stablecoin payments, global remittances and AI driven commerce. The deal marks Visa’s second Korean partnership this week, following an arrangement with Shinhan Financial. While Shinhan is Korea’s second largest financial group, Hana Financial, the third largest, […] The post Visa signs 2nd Korean stablecoin deal this week, with Hana-backed Dunamu appeared first on Ledger Insights - blockchain for enterprise ."
   },
   {
+   "title": "Bernie Sanders Vows Legislation to 'Stop Flock and AI Mass Surveillance'",
+   "url": "https://decrypt.co/376878/bernie-sanders-ban-flock-ai-surveillance",
+   "pubDate": "Sat, 29 Aug 2026 17:31:03 +0000",
+   "source": "decrypt.co",
+   "summary": "The Vermont senator warned that the surveillance company's 120,000-plus AI cameras are pushing the US toward a \"surveillance state,\" adding a prominent voice to a growing bipartisan backlash."
+  },
+  {
+   "title": "Bitcoin's Oldest Coins Are Waking Up in 2026 at a Pace Rarely Seen",
+   "url": "https://decrypt.co/376866/bitcoin-oldest-coins-waking-up-2026",
+   "pubDate": "Sat, 29 Aug 2026 15:31:04 +0000",
+   "source": "decrypt.co",
+   "summary": "Bitcoin's Oldest Coins Are Waking Up in 2026 at a Pace Rarely Seen Coin Prices BTC $78,163.00 $2,451.15 $692.78 $1.39 $0.999976 $105.23 $0.340867 $1.00 $83.50 $841.04 $0.085108"
+  },
+  {
+   "title": "BitGo Buys NYDIG's Institutional Trading Arm to Beef Up Derivatives and Financing",
+   "url": "https://decrypt.co/376864/bitgo-buys-nydig-institutional-trading-arm",
+   "pubDate": "Sat, 29 Aug 2026 13:31:04 +0000",
+   "source": "decrypt.co",
+   "summary": "BitGo Buys NYDIG's Institutional Trading Arm to Beef Up Derivatives and Financing Coin Prices BTC $78,163.00 $2,451.15 $692.78 $1.39 $0.999976 $105.23 $0.340867 $1.00 $83.50 $841.04 $0.085108"
+  },
+  {
    "title": "Bitcoin Rally Stalls, But Long-Term Sentiment Remains Bullish",
    "url": "https://decrypt.co/376846/bitcoin-rally-stalls-sentiment-bullish",
    "pubDate": "Fri, 28 Aug 2026 21:16:04 +0000",
    "source": "decrypt.co",
-   "summary": "Bitcoin Rally Stalls, But Long-Term Sentiment Remains Bullish Coin Prices BTC $77,583.00 $2,437.24 $688.85 $1.38 $0.999973 $103.96 $0.340717 $1.04 $81.67 $804.69 $0.084962"
+   "summary": "Bitcoin Rally Stalls, But Long-Term Sentiment Remains Bullish Coin Prices BTC $78,163.00 $2,451.15 $692.78 $1.39 $0.999976 $105.23 $0.340867 $1.00 $83.50 $841.04 $0.085108"
   },
   {
    "title": "Meta Tests Robots to Handle Data Center Work",
    "url": "https://decrypt.co/376843/meta-tests-robots-data-center",
    "pubDate": "Fri, 28 Aug 2026 20:19:44 +0000",
    "source": "decrypt.co",
-   "summary": "Meta Tests Robots to Handle Data Center Work Coin Prices BTC $77,583.00 $2,437.24 $688.85 $1.38 $0.999973 $103.96 $0.340717 $1.04 $81.67 $804.69 $0.084962"
+   "summary": "The company says it needs more skilled workers as its AI infrastructure expands, but employees fear automation could reduce or eliminate some roles."
   },
   {
    "title": "XRP Treasury Company Gets One Step Closer to Listing on Nasdaq",
    "url": "https://decrypt.co/376840/xrp-treasury-evernorths-clears-sec-nasdaq",
    "pubDate": "Fri, 28 Aug 2026 19:46:03 +0000",
    "source": "decrypt.co",
-   "summary": "XRP Treasury Company Gets One Step Closer to Listing on Nasdaq Coin Prices BTC $77,583.00 $2,437.24 $688.85 $1.38 $0.999973 $103.96 $0.340717 $1.04 $81.67 $804.69 $0.084962"
+   "summary": "Evernorth has gained SEC clearance, teeing up a shareholder vote on its Nasdaq listing—while the firm's XRP stash sits well below what it paid for it."
   },
   {
    "title": "US Cities Eye AI Data Center Limits as Study Flags Water Risks",
    "url": "https://decrypt.co/376838/us-cities-ai-data-center-limits",
    "pubDate": "Fri, 28 Aug 2026 19:14:37 +0000",
    "source": "decrypt.co",
-   "summary": "US Cities Eye AI Data Center Limits as Study Flags Water Risks Coin Prices BTC $77,583.00 $2,437.24 $688.85 $1.38 $0.999973 $103.96 $0.340717 $1.04 $81.67 $804.69 $0.084962"
+   "summary": "Austin is the latest city to consider restrictions as communities challenge the water and electricity demands of AI infrastructure."
   },
   {
    "title": "Solana Will Now Print Less SOL as Disinflation Vote Passes in Dramatic Fashion",
    "url": "https://decrypt.co/376825/solana-sol-disinflation-vote-passes",
    "pubDate": "Fri, 28 Aug 2026 17:44:09 +0000",
    "source": "decrypt.co",
-   "summary": "Solana Will Now Print Less SOL as Disinflation Vote Passes in Dramatic Fashion Coin Prices BTC $77,583.00 $2,437.24 $688.85 $1.38 $0.999973 $103.96 $0.340717 $1.04 $81.67 $804.69 $0.084962"
+   "summary": "The \"Double Disinflation\" proposal squeaked through by a razor-thin margin after Kraken nearly sank it, while a separate fee-burning measure failed."
   },
   {
    "title": "Fed Chair Warsh Calls AI a 'Hinge Point in History'—4 Key Things He Said",
    "url": "https://decrypt.co/376821/fed-chair-warsh-ai-hinge-point-4-key-things",
    "pubDate": "Fri, 28 Aug 2026 17:18:52 +0000",
    "source": "decrypt.co",
-   "summary": "Fed Chair Warsh Calls AI a 'Hinge Point in History'—4 Key Things He Said Coin Prices BTC $77,583.00 $2,437.24 $688.85 $1.38 $0.999973 $103.96 $0.340717 $1.04 $81.67 $804.69 $0.084962"
+   "summary": "Fed Chair Warsh devoted a full section of his speech today at Jackson Hole to AI's weight on the economy. Here are the biggest takeaways."
   },
   {
    "title": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
    "url": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
    "pubDate": "Fri, 28 Aug 2026 16:39:02 +0000",
    "source": "decrypt.co",
-   "summary": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum Coin Prices BTC $77,583.00 $2,437.24 $688.85 $1.38 $0.999973 $103.96 $0.340717 $1.04 $81.67 $804.69 $0.084962"
+   "summary": "The brokerage will expand Schwab Crypto trading to Solana, Avalanche, and Chainlink, but has not given a launch date for the three tokens."
   },
   {
    "title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
    "url": "https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company",
    "pubDate": "Fri, 28 Aug 2026 16:08:02 +0000",
    "source": "decrypt.co",
-   "summary": "What Is Strategy (MSTR)? The Bitcoin Treasury Company Coin Prices BTC $77,583.00 $2,437.24 $688.85 $1.38 $0.999973 $103.96 $0.340717 $1.04 $81.67 $804.69 $0.084962"
+   "summary": "Strategy’s co-founder Michael Saylor pioneered the Bitcoin treasury playbook. Here’s what you need to know."
   },
   {
    "title": "Bitcoin Miner IREN Shares Fall as AI Conversion Costs Mount",
    "url": "https://decrypt.co/376816/bitcoin-miner-iren-shares-drop-ai-costs",
    "pubDate": "Fri, 28 Aug 2026 16:04:37 +0000",
    "source": "decrypt.co",
-   "summary": "Bitcoin Miner IREN Shares Fall as AI Conversion Costs Mount Coin Prices BTC $77,583.00 $2,437.24 $688.85 $1.38 $0.999973 $103.96 $0.340717 $1.04 $81.67 $804.69 $0.084962"
+   "summary": "AI cloud revenue topped Bitcoin mining for the first time as IREN accelerated its data center conversion."
   },
   {
    "title": "Bitcoin Traders Watch Fed Chair Warsh for Clues—And Get Nothing",
    "url": "https://decrypt.co/376813/bitcoin-traders-watch-fed-chair-warsh-for-clues-and-get-nothing",
    "pubDate": "Fri, 28 Aug 2026 15:14:11 +0000",
    "source": "decrypt.co",
-   "summary": "Bitcoin Traders Watch Fed Chair Warsh for Clues—And Get Nothing Coin Prices BTC $77,583.00 $2,437.24 $688.85 $1.38 $0.999973 $103.96 $0.340717 $1.04 $81.67 $804.69 $0.084962"
+   "summary": "Fed Chair Warsh's first Jackson Hole keynote doubled down on giving markets zero rate hints as inflation runs hot and Bitcoin traders wait on September's call."
   },
   {
    "title": "Ethereum ETFs Take $226M in a Day, Almost Matching Bitcoin's Haul",
    "url": "https://decrypt.co/376810/ethereum-etfs-take-226m-in-a-day-almost-matching-bitcoins-haul",
    "pubDate": "Fri, 28 Aug 2026 14:17:21 +0000",
    "source": "decrypt.co",
-   "summary": "Ethereum ETFs Take $226M in a Day, Almost Matching Bitcoin's Haul Coin Prices BTC $77,583.00 $2,437.24 $688.85 $1.38 $0.999973 $103.96 $0.340717 $1.04 $81.67 $804.69 $0.084962"
+   "summary": "Nine straight sessions have brought in $1.4 billion, with Thursday marking the funds' strongest day in 10 months."
   },
   {
    "title": "Morning Minute: Solana Jumps with Network Inflation Set to Drop",
@@ -629,25 +650,144 @@
    "summary": "The chipmaker doubled quarterly revenue while disclosing $366 billion in future commitments and up to $108.5 billion in guarantee exposure."
   },
   {
-   "title": "What Traders Are Watching for Bitcoin's Next Move",
-   "url": "https://decrypt.co/376649/what-traders-watching-bitcoin-next-move",
-   "pubDate": "Wed, 26 Aug 2026 20:22:17 +0000",
+   "title": "Trump sues JPMorgan for $5B! Ledger prepares for $4B IPO! “Crypto Adoption is no longer reversible” says PWC!",
+   "url": "https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc",
+   "pubDate": "Fri, 23 Jan 2026 16:40:55 +0000",
    "source": "decrypt.co",
-   "summary": "Bitcoin's monster rally just hit its first real test. Here's why each catalyst matters and how they could move the price from here."
+   "summary": "Crypto majors are red while Gold nears $5,000 and Silver closes in on $100; BTC -1% at $89,100; ETH -2% at $2,925, SOL -2% at $127; XRP -2% to $1.90. ZRO (+15%), AXS (+10%) and DASH (+8%) led top movers. Ledger is preparing for a $4B IPO, enlisting Goldman Sachs, Jefferies and Barclays for support. Ripple CEO Brad Garlinghouse predicted crypto could hit new highs in 2026, pointing to regulatory momentum and institutional participation as key drivers. President Trump sued JPMorgan for $5 billion, alleging politically motivated “debanking”. BitGo briefly surged in its stock market debut before f"
   },
   {
-   "title": "Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana",
-   "url": "https://decrypt.co/376646/galaxy-crypto-credit-lines-bitcoin-ethereum-solana",
-   "pubDate": "Wed, 26 Aug 2026 19:56:03 +0000",
+   "title": "From Stellar to Canton: How Franklin Templeton Adopted Tokenization",
+   "url": "https://decrypt.co/videos/interviews/ZJJKjnAR/from-stellar-to-canton-how-franklin-templeton-adopted-tokenization",
+   "pubDate": "Thu, 22 Jan 2026 18:29:30 +0000",
    "source": "decrypt.co",
-   "summary": "GalaxyOne clients can borrow cash against Bitcoin, Ethereum, and staked Solana at 8.99% APR without selling a coin."
+   "summary": "Roger Bayston, Head of Digital Assets at Franklin Templeton, unpacks how one of the world's largest asset managers embraced tokenization."
   },
   {
-   "title": "US Banks Join Forces to Build a Blockchain of Their Own",
-   "url": "https://decrypt.co/376644/banks-build-blockchain-bankchain-alliance",
-   "pubDate": "Wed, 26 Aug 2026 19:21:25 +0000",
+   "title": "Crypto rebounds after Trump TACO’s on Tariffs! BitGo $2.1B IPO! Solana’s SKR token soars 250% FDV!",
+   "url": "https://decrypt.co/videos/interviews/MqZOhomP/crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-solanas-skr-token-soars-250-fdv",
+   "pubDate": "Thu, 22 Jan 2026 16:14:50 +0000",
    "source": "decrypt.co",
-   "summary": "The BankChain Alliance aims to give smaller financial institutions access to tokenized deposits and blockchain payments through a shared network targeted for 2027."
+   "summary": "Crypto majors are green and rebounding after Trump pivoted on EU tariffs; BTC +2% at $89,900; ETH +2% at $2,995, SOL +2% at $130; XRP +3% to $1.94. CC (+15%), SKY (+11%) and SAND (+10%) led top movers. Crypto markets saw more than $1B in liquidations as Bitcoin rebounded sharply after President Trump signaled a retreat from proposed tariff measures. Vitalik Buterin proposed native DVT staking to strengthen Ethereum security and decentralization, signaling continued protocol-level experimentation. Bitgo announced its IPO at $18 per share, valuing it at ~$2B. The Senate Ag Committee confirmed th"
+  },
+  {
+   "title": "Trump’s speech at Davos gives small boost to Crypto! Saylor buys $2.13B BTC! Blondish Interview!",
+   "url": "https://decrypt.co/videos/interviews/nWmEOl4c/trumps-speech-at-davos-gives-small-boost-to-crypto-saylor-buys-213b-btc-blondish-interview",
+   "pubDate": "Wed, 21 Jan 2026 16:17:26 +0000",
+   "source": "decrypt.co",
+   "summary": "Crypto majors are very red following a red Tuesday across markets; BTC -3% at $88,200; ETH -6% at $2,905, SOL -2% at $127; XRP -2% to $1.88. MYX (+11%) and ZRO (+10%) led top movers. Bitcoin and Solana both fell below key technical support levels as selling pressure accelerated. Over $1B in longs were liquidated during Bitcoin’s slide below $88k. Delaware Life added Bitcoin exposure to a fixed indexed annuity by linking performance to BlackRock’s spot BTC ETF, one of the first big moves to expand crypto access inside traditional insurance products. Trump Media announced plans to airdrop crypto"
+  },
+  {
+   "title": "Trump Tariffs 3: Return of the Bull Market! NYSE Tokenising, what that means for $Hype! Claude Meme Meta!",
+   "url": "https://decrypt.co/videos/interviews/O1HZN4PH/trump-tariffs-3-return-of-the-bull-market-nyse-tokenising-what-that-means-for-hype-claude-meme-meta",
+   "pubDate": "Tue, 20 Jan 2026 18:12:06 +0000",
+   "source": "decrypt.co",
+   "summary": "Crypto majors are red following Trump’s tariff turmoil; BTC -2% at $91,100; ETH -4% at $3,105, SOL -3% at $129; XRP -2% to $1.93. CC (+12%), MYX (+5%) and SYRUP (+4%) led top movers. The NYSE began preparations for 24/7 tokenized stock and ETF trading. Steak ’n Shake revealed roughly $10M in Bitcoin exposure alongside the creation of a corporate BTC strategic reserve. Vitalik Buterin called for more sophisticated DAO governance models to improve accountability, coordination, and long-term sustainability. Bermuda outlined plans for a fully onchain national economy, working with Coinbase and Cir"
+  },
+  {
+   "title": "Crypto sells off amidst Trump Tariff Turmoil! $Trove falls 90% in awful TGE! Pump Fund announced!",
+   "url": "https://decrypt.co/videos/interviews/lokwS0bc/crypto-sells-off-amidst-trump-tariff-turmoil-trove-falls-90-in-awful-tge-pump-fund-announced",
+   "pubDate": "Tue, 20 Jan 2026 16:07:15 +0000",
+   "source": "decrypt.co",
+   "summary": "Crypto majors are red following Trump’s tariff turmoil; BTC -2% at $91,100; ETH -4% at $3,105, SOL -3% at $129; XRP -2% to $1.93. CC (+12%), MYX (+5%) and SYRUP (+4%) led top movers. The NYSE began preparations for 24/7 tokenized stock and ETF trading. Steak ’n Shake revealed roughly $10M in Bitcoin exposure alongside the creation of a corporate BTC strategic reserve. Vitalik Buterin called for more sophisticated DAO governance models to improve accountability, coordination, and long-term sustainability. Bermuda outlined plans for a fully onchain national economy, working with Coinbase and Cir"
+  },
+  {
+   "title": "Massive Coinbase News! Bitcoin Rips to $96,750! Football.Fun TGE Interview with Founder!",
+   "url": "https://decrypt.co/videos/interviews/9g4stfJX/massive-coinbase-news-bitcoin-rips-to-96-750-footballfun-tge-interview-with-founder",
+   "pubDate": "Thu, 15 Jan 2026 16:49:34 +0000",
+   "source": "decrypt.co",
+   "summary": "Crypto majors are very green with Bitcoin making a new another 2-month high; BTC +2% at $96,7500; ETH +2% at $3,360, SOL even at $145; XRP -1% to $2.11. DCR (+30%), DASH (+10%), ICP (+10%) and ZEC (+7%) led top movers; XMR hit another new ATH at $800 before retracing to $725. Coinbase pulled support for the Senate’s crypto market structure bill ahead of a key vote, citing major concerns with the latest draft, leading to the Senate delaying the bill. Zcash avoided SEC action after the Zcash Foundation said the agency’s investigation has concluded. Ripple secured a Luxembourg license as its Euro"
+  },
+  {
+   "title": "Are we back? Crypto is Green! Solana Intern goes rogue! Pump up 13%! Monero hits another ATH!",
+   "url": "https://decrypt.co/videos/interviews/Iv1NIhI4/are-we-back-crypto-is-green-solana-intern-goes-rogue-pump-up-13-monero-hits-another-ath",
+   "pubDate": "Wed, 14 Jan 2026 16:38:32 +0000",
+   "source": "decrypt.co",
+   "summary": "BTC: 95k (+3%) | BTC.D: 59.2% (-0.1%). ETH: 3313 (+6%) | BNB: 936 (+3%) | SOL: 145 (+2%). Top Gainers: IP, ICP, PUMP, PEPE, ENA. BTC ETFs: +$754m | ETH ETFs: +$130m. Crypto rallies on largest ETF inflow in 3 months. Senate committee to vote on crypto bill on Jan 27. Stablecoin issues with bill still being fought over. Ethena Labs makes USDe free from gas fees. Bitdeer overtakes MARA on ‘managed hashrate’. Polygon Labs to buy Coinme, Sequence for $250m. BitPanda eyes Frankfurt IPO in 1H26. CZ invests in perp trading platform Genius Terminal. Coingecko eyes sales at $500m valuation. Russia to op"
+  },
+  {
+   "title": "Pump & Memes HEATING up! XMR vs ZEC! How important are these rate cuts? - Under Exposed",
+   "url": "https://decrypt.co/videos/interviews/IuLdmgP6/pump-memes-heating-up-xmr-vs-zec-how-important-are-these-rate-cuts-under-exposed",
+   "pubDate": "Wed, 14 Jan 2026 16:01:53 +0000",
+   "source": "decrypt.co",
+   "summary": "Crypto majors are green; BTC +1.5% at $92,000; ETH +1% at $3,130, SOL +2% at $142; XRP +1% to $2.06. DASH (+60%), IP (+30%) and XMR (+13%) led top movers; XMR hit another new ATH at $680 (now $640). Gold and Silver hit new ATHs again in the wake of the Powell investigation. The US Senate released the draft Crypto Market Clarity Act, including limits on stablecoin rewards. Senator Warren pressed the SEC over inclusion of crypto in 401ks arguing they expose retirees to too much risk. Vitalik Buterin warned crypto needs better decentralized stablecoins, citing governance capture and inflation ris"
+  },
+  {
+   "title": "PsyopAnime Meme up 30X! Are Memes back? Monero ATH! Interview W/ Joseph Chalom, CEO of Sharplink",
+   "url": "https://decrypt.co/videos/interviews/mefbKZgQ/psyopanime-meme-up-30x-are-memes-back-monero-ath-interview-w-joseph-chalom-ceo-of-sharplink",
+   "pubDate": "Tue, 13 Jan 2026 18:12:27 +0000",
+   "source": "decrypt.co",
+   "summary": "Crypto majors are green; BTC +1.5% at $92,000; ETH +1% at $3,130, SOL +2% at $142; XRP +1% to $2.06. DASH (+60%), IP (+30%) and XMR (+13%) led top movers; XMR hit another new ATH at $680 (now $640). Gold and Silver hit new ATHs again in the wake of the Powell investigation. The US Senate released the draft Crypto Market Clarity Act, including limits on stablecoin rewards. Senator Warren pressed the SEC over inclusion of crypto in 401ks arguing they expose retirees to too much risk. Vitalik Buterin warned crypto needs better decentralized stablecoins, citing governance capture and inflation ris"
+  },
+  {
+   "title": "A16z raise $15B! Jerome Powell vs Trump! Crypto remains flat! Special Guest: Dudas!",
+   "url": "https://decrypt.co/videos/interviews/0y90noNs/a16z-raise-15b-jerome-powell-vs-trump-crypto-remains-flat-special-guest-dudas",
+   "pubDate": "Mon, 12 Jan 2026 17:15:46 +0000",
+   "source": "decrypt.co",
+   "summary": "Crypto majors are mostly flat headed into Monday open; btc even at $90,600; eth +1% at $3,110, sol +2% at $140; xrp -2% to $2.04. Ip (+20%) and xmr (+15%) led top movers; xmr hit a new ath at $590. Fed chair Jerome Powell released a video message claiming that the criminal charges he faces are due to his not cutting interest rates in line with Trump’s wishes. X (twitter) announced plans for “smart cashtags” to show crypto and stock prices live next to tickers. Vaneck projected bitcoin could reach $53m by 2050, outlining long-term adoption, trade settlement and store-of-value assumptions drivin"
+  },
+  {
+   "title": "ZEC Rebounds 11%! Trump says he won’t pardon Sam Bankman-Fried! Florida revisits it’s Strategic Bitcoin Reserve!",
+   "url": "https://decrypt.co/videos/interviews/72tPnqPX/zec-rebounds-11-trump-says-he-wont-pardon-sam-bankman-fried-florida-revisits-its-strategic-bitcoin-reserve",
+   "pubDate": "Fri, 09 Jan 2026 17:17:12 +0000",
+   "source": "decrypt.co",
+   "summary": "Crypto majors are mostly flat ahead of today’s supreme court opinion on the trump tariffs; btc +1% at $90,300; eth 13% at $3,090, sol +3% at $138; xrp +1% to $2.10. Polygon (+11%), zec (+11%) and syrup (+7%) led top movers. Jpmorgan said the recent bitcoin and ethereum sell-off may be bottoming, pointing to improving positioning and easing downside pressure after early-year weakness. Bank of america analysts upgraded coinbase to buy, citing improved regulatory clarity, growing institutional adoption, and stronger long-term earnings visibility. Morgan stanley is planning to launch a digital wal"
+  },
+  {
+   "title": "The ZCash situation explained! Interview with ZEC bull Mert! BTC below $90K! ZEC falls 19%!",
+   "url": "https://decrypt.co/videos/interviews/wmsgKRFW/the-zcash-situation-explained-interview-with-zec-bull-mert-btc-below-90k-zec-falls-19",
+   "pubDate": "Thu, 08 Jan 2026 17:04:56 +0000",
+   "source": "decrypt.co",
+   "summary": "Crypto majors fell again yesterday as btc lost $90k; btc -2% at $89,900; eth -3% at $3,100, sol -3% at $134; xrp -7% to $2.08. Lit (+3%), wlfi (+3%) and xmr (+3%) led top movers. Zec fell 19% after the developer team resigned following a dispute with the board; the team has promised to form a new company and continue the mission. Jpmorgan announced plans to launch its jpm coin on the canton network. Barclays invested in ubyx, a u.S. Stablecoin settlement startup, backing infrastructure that would let regulated institutions move digital money across issuers and wallets. The senate banking commi"
+  },
+  {
+   "title": "First 2026 Dip! BTC at 92K! Morgan Stanley file for BTC, ETH & SOL ETFs! Hyperliquid Airdrop Speculation!",
+   "url": "https://decrypt.co/videos/interviews/GVQVX2ND/first-2026-dip-btc-at-92k-morgan-stanley-file-for-btc-eth-sol-etfs-hyperliquid-airdrop-speculation",
+   "pubDate": "Wed, 07 Jan 2026 16:14:54 +0000",
+   "source": "decrypt.co",
+   "summary": "Crypto majors fall for first time in 2026; BTC at $92k. Morgan Stanley files for BTC, ETH and SOL ETFs. US Senate schedules key vote for crypto market structure bill for next week. Hyperliquid releases progress map, leads to speculation of next airdrop. Nike announced it has sold off RTFKT; Clone X jump 250%. Crypto majors fell yesterday for the first time in 2026; BTC 2% at $92,000; ETH -1% at $3,210, SOL -1% at $138; XRP. 5% to $2.24. The U.S. Senate Banking Committee scheduled a key vote on the crypto market-structure bill next week. Ethereum network usage hit record daily transactions (2M+"
+  },
+  {
+   "title": "Crypto starts 2026 STRONG! Venezuela Impacts on the market! Lighter TGE reactions!",
+   "url": "https://decrypt.co/videos/interviews/XjhRjGIk/crypto-starts-2026-strong-venezuela-impacts-on-the-market-lighter-tge-reactions",
+   "pubDate": "Tue, 06 Jan 2026 18:16:42 +0000",
+   "source": "decrypt.co",
+   "summary": "The global crypto market cap pushed another 2% to $3.22T as majors continue to grind up; BTC +1% at $93,780; ETH +2% at $3,240, SOL +3% at $139; XRP led up 12% to $2.37 RENDER (+18%), SUI (+18%) and LIT (+15%) led top movers. Bank of America formally launched its crypto recommendations for wealth clients with up to 4% portfolio allocation. Morgan Stanley filed for a Solana Trust with the SEC. Goldman Sachs upgraded Coinbase to a ‘Buy’ rating today while simultaneously downgrading eToro. Japan’s finance minister endorsed deeper crypto integration, including lower taxes and exchange-level reform"
+  },
+  {
+   "title": "Global Crypto MCap up to $3.22 Trillion! XRP up 12%! Japan Endorse Crypto! Fear & Greed back to Neutral!",
+   "url": "https://decrypt.co/videos/interviews/OS1PGiAq/global-crypto-mcap-up-to-322-trillion-xrp-up-12-japan-endorse-crypto-fear-greed-back-to-neutral",
+   "pubDate": "Tue, 06 Jan 2026 16:13:32 +0000",
+   "source": "decrypt.co",
+   "summary": "The global crypto market cap pushed another 2% to $3.22T as majors continue to grind up; BTC +1% at $93,780; ETH +2% at $3,240, SOL +3% at $139; XRP led up 12% to $2.37 RENDER (+18%), SUI (+18%) and LIT (+15%) led top movers. Bank of America formally launched its crypto recommendations for wealth clients with up to 4% portfolio allocation. Morgan Stanley filed for a Solana Trust with the SEC. Goldman Sachs upgraded Coinbase to a ‘Buy’ rating today while simultaneously downgrading eToro. Japan’s finance minister endorsed deeper crypto integration, including lower taxes and exchange-level reform"
+  },
+  {
+   "title": "Crypto is Green! Up 6-9%! Memes outperform! Pepe up 67%! Infinex Founder Interview!",
+   "url": "https://decrypt.co/videos/interviews/EmmJkWJn/crypto-is-green-up-6-9-memes-outperform-pepe-up-67-infinex-founder-interview",
+   "pubDate": "Mon, 05 Jan 2026 16:28:36 +0000",
+   "source": "decrypt.co",
+   "summary": "The global crypto market cap hit $3.16t (+1.5%) with majors trading higher; btc +2% at $93,000; eth +1% at $3,175, bnb +2.5% at $906, sol +1% at $135. Virtuals (+24%), render (_17%), btt (+11%) and fet (+11%) led top movers. The btc etfs saw $471m in net inflows on the first trading day of 2026, the highest single-day total since nov 11. Sec commissioner caroline crenshaw officially departed the agency on jan 2nd, leaving behind an all-republican commission. Big 4 firm pwc announced it will go deeper into crypto with a focus on stablecoins and payments."
+  },
+  {
+   "title": "Crypto Wallets Can ‘Directly Compete With Neobanks'",
+   "url": "https://decrypt.co/videos/interviews/WsvLVFlp/crypto-wallets-can-directly-compete-with-neobanks",
+   "pubDate": "Mon, 05 Jan 2026 13:44:47 +0000",
+   "source": "decrypt.co",
+   "summary": "Bitget Wallet CMO Jamie Elkaleh tells Decrypt how the platform is evolving from a crypto wallet to a everyday finance app that seamlessly integrates crypto with TradFi, building on its vision of \"Crypto for Everyone.\" - (Sponsored post by Bitget Wallet)"
+  },
+  {
+   "title": "2026 Crypto Predictions! Tom Lee still buying ETH! Rekt tease WorldStar collab!",
+   "url": "https://decrypt.co/videos/interviews/dBDZqp65/2026-crypto-predictions-tom-lee-still-buying-eth-rekt-tease-worldstar-collab",
+   "pubDate": "Tue, 30 Dec 2025 16:29:12 +0000",
+   "source": "decrypt.co",
+   "summary": "Btc: 87k (0%) | btc.D: 59.0% (0%). Eth: 2975 (1%) | bnb: 855 (+1%) | sol: 124 (0%). Tom Lee bought another $130M in ETH for Christmas, and still holds $1B in cash heading into the new year. REKT drinks and WorldStarHipHop tease collab. BlackRock’s BUIDL hits $100M million in dividends and passes $2 billion in assets. Metaplanet buys 4,279 bitcoin, lifts total holdings to 35,102 BTC. Unleash Protocol hit by $3.9 million exploit with funds routed through Tornado Cash. Onchain Perpetuals Top $1T Monthly Volume as Crypto Traders Chase Leverage. South Korea’s Crypto Regulation Delayed as Stablecoin"
+  },
+  {
+   "title": "The White Whale up 10x in a week! Lighter TGE! Saylor buys $109M BTC!",
+   "url": "https://decrypt.co/videos/interviews/50vopyFa/the-white-whale-up-10x-in-a-week-lighter-tge-saylor-buys-109m-btc",
+   "pubDate": "Mon, 29 Dec 2025 16:10:19 +0000",
+   "source": "decrypt.co",
+   "summary": "Btc: 87k (-1%) | btc.D: 59.0% (0%). Eth: 2953 (-3%) | bnb: 853 (-1%) | sol: 124 (-3%). The White Whale goes almost 15x in a week, from $5m to $71m mcap. Lighter TGE rumours stirring. YouTuber Nick Shirley reveals mass fraud in Minnesota daycare system. Gold & Silver prices see huge dump"
   },
   {
    "title": "Venezuela’s sanctions are stablecoins’ proof of concept",
@@ -1000,11 +1140,53 @@
    "summary": "From passageways to penumbras: a history of private life"
   },
   {
+   "title": "Polygon discloses security flaws fixed in recent hard forks",
+   "url": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Sat, 29 Aug 2026 20:28:51 +0000",
+   "source": "cointelegraph.com",
+   "summary": "0.02% TRX $0.3408 0.25% LINK $11.43 0.09% ZEC $839.87 4.98% ADA $0.2014 0.36% XRP $1.39 0.92% ETH $2,451.69 0.43% BTC $78,195.12 0.57% XMR $470.03 0.23% BNB $693.00 0.33% XLM $0.1792 0.32% SOL $105.30 1.10% HYPE $83.45 3.19% Written by Nate Kostar staff writer Reviewed by Robert Lakin staff editor Written by Nate Kostar staff writer Reviewed by Robert Lakin staff editor Polygon discloses security Polygon has disclosed several previously private security vulnerabilities that could have disrupted its proof-of-stake network, after deploying fixes through two recent hard forks. The vulnerabilities affected Polygon’s Bor and Heimdall clients and included denial-of-service risks, validator resource exhaustion and flaws affecting checkpoint and milestone processing, according to a Thursday disclosure from Polygon Labs’ Validators Support Team. Polygon said the flaws were fixed through the Austin and Kyoto hard forks, which were deployed privately and tested before being activated on mainnet and publicly disclosed. The most severe issue involved Heimdall, where a specially crafted transaction could force validators to perform excessive processing work, potentially disrupting the network. The Austin hard fork separately addressed two denial-of-service risks in Bor that could have slowed block processing or caused nodes to crash. None of the vulnerabilities were observed being exploited on mainnet, according to Polygon, which said the fixes were deployed proactively before details were"
+  },
+  {
+   "title": "Stellar tokenized RWA market more than quadruples to nearly $4B",
+   "url": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Sat, 29 Aug 2026 19:12:42 +0000",
+   "source": "cointelegraph.com",
+   "summary": "0.03% TRX $0.3409 0.23% LINK $11.43 0.08% ZEC $840.26 5.02% ADA $0.2014 0.38% XRP $1.39 0.92% ETH $2,452.37 0.45% BTC $78,196.79 0.57% XMR $470.03 0.21% BNB $693.02 0.33% XLM $0.1791 0.29% SOL $105.30 1.10% HYPE $83.45 3.12% Written by Nate Kostar staff writer Reviewed by Robert Lakin staff editor Written by Nate Kostar staff writer Reviewed by Robert Lakin staff editor Stellar tokenized RWA marke The value of tokenized real-world assets (RWA) on Stellar has climbed roughly 360% in 2026 to nearly $4 billion, up from $868.8 million at the end of last year, according to a Dune Analytics dashboard maintained by Stellar. The network’s RWA market cap stood at $3.996 billion as of Aug. 29, spread across US Treasurys, private and public credit, non-US government debt and other tokenized asset classes. The market is concentrated among a handful of issuers. Spiko accounted for $1.55 billion of Stellar’s RWA value as of Aug. 27, followed by Realiz at $559 million, Tradable at $548 million, Franklin Templeton at $546 million and Ondo at $535 million. Stellar’s RWA market cap has surged in 2026. Source: Dune Analytics/Stellar Stellar has gained ground in non-US government debt. Citing RWA.xyz data, the Stellar Development Foundation said the network held about $490 million in the asset class as of Aug. 20, including tokenized Mexican CETES and Brazilian government bonds issued through Etherfuse. Source: StellarOrg Despite the growth in RWAs, the blockchain’s native XLM token is down abou"
+  },
+  {
+   "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
+   "url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Sat, 29 Aug 2026 16:27:28 +0000",
+   "source": "cointelegraph.com",
+   "summary": "0.03% TRX $0.3409 0.23% LINK $11.43 0.08% ZEC $840.26 5.02% ADA $0.2014 0.38% XRP $1.39 0.92% ETH $2,452.37 0.45% BTC $78,196.79 0.57% XMR $470.03 0.21% BNB $693.02 0.33% XLM $0.1791 0.29% SOL $105.30 1.10% HYPE $83.45 3.12% Written by Nate Kostar staff writer Reviewed by Robert Lakin staff editor Written by Nate Kostar staff writer Reviewed by Robert Lakin staff editor Tokenized stock transfer vo Tokenized stock activity surged over the past 30 days, with monthly transfer volume climbing more than 415% to $29.5 billion, according to data from RWA.xyz. Monthly active addresses rose more than 209% to around 1.3 million, while the number of tokenized stock holders climbed 167% to 2.36 million over the same period. The total value of tokenized stocks distributed onchain also rose 1.45% over the past 30 days to $2.54 billion, up roughly 637% from $344 million a year ago. Tokenized stock activity accelerated in August. Source: RWA.xyz Securitize Corp. was the largest individual tokenized stock tracked by RWA.xyz at about $163 million, followed by Strategy PP Variable xStock at $136 million and an Ondo-tokenized version of Circle Internet Group at $109 million. By platform, Ondo led with $842.8 million in distributed value, followed by Kraken’s xStocks at $609.3 million and Binance’s bStocks at $599.9 million. Together, the three accounted for roughly 81% of the market. Related: Arcus launches tokenized perp positions on Robinhood Chain The surge in activity comes as crypto platfor"
+  },
+  {
    "title": "Here’s what happened in crypto today",
    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Fri, 28 Aug 2026 20:42:54 +0000",
+   "pubDate": "Sat, 29 Aug 2026 12:39:59 +0000",
    "source": "cointelegraph.com",
-   "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+   "summary": "0.03% TRX $0.3409 0.23% LINK $11.43 0.08% ZEC $840.26 5.02% ADA $0.2014 0.38% XRP $1.39 0.92% ETH $2,452.37 0.45% BTC $78,196.79 0.57% XMR $470.03 0.21% BNB $693.02 0.33% XLM $0.1791 0.29% SOL $105.30 1.10% HYPE $83.45 3.12% Written by Helen Partz staff writer Reviewed by Yohan Yun staff editor Written by Helen Partz staff writer Reviewed by Yohan Yun staff editor Here’s what happened in crypto to Today in crypto, Polygon disclosed previously private security flaws patched through recent hard forks, Stellar’s tokenized real-world asset market climbed to nearly $4 billion, tokenized stock activity surged over the last 30 days, and a Trump-promoted token collapsed after briefly surging. Polygon disclosed several previously private security vulnerabilities that could have disrupted its proof-of-stake network after deploying fixes through two recent hard forks. The vulnerabilities affected Polygon’s Bor and Heimdall clients and included denial-of-service risks, validator resource exhaustion and flaws affecting checkpoint and milestone processing. Polygon said the flaws were fixed through the Austin and Kyoto hard forks, which were privately deployed and tested before mainnet activation and public disclosure. None of the vulnerabilities were observed being exploited on mainnet. Nodes running older versions of either client past the hard fork activation heights have fallen out of consensus and must upgrade to rejoin the canonical network. The value of tokenized real-world assets on"
+  },
+  {
+   "title": "Trump-promoted brand touts GOLD before token collapse",
+   "url": "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Sat, 29 Aug 2026 10:53:41 +0000",
+   "source": "cointelegraph.com",
+   "summary": "0.03% TRX $0.3409 0.23% LINK $11.43 0.08% ZEC $840.26 5.02% ADA $0.2014 0.38% XRP $1.39 0.92% ETH $2,452.37 0.45% BTC $78,196.79 0.57% XMR $470.03 0.21% BNB $693.02 0.33% XLM $0.1791 0.29% SOL $105.30 1.10% HYPE $83.45 3.12% Written by Helen Partz staff writer Reviewed by Yohan Yun staff editor Written by Helen Partz staff writer Reviewed by Yohan Yun staff editor Trump-promoted brand touts GOLD b A Solana-based token promoted by a Trump-linked coin brand collapsed within hours of its launch, raising questions over who was behind it and its unusual trading activity. Real Trump Coins, a brand US President Donald Trump publicly promoted in 2024, touted the “Trump Digital GOLD” token on X before deleting related posts on Saturday, according to blockchain analytics platform Lookonchain. The Real Trump Coins website continued promoting GOLD as of publication, advertising a 4% trading fee and pledging to use 99% of trading fees to buy back the token in an effort to make it a top-10 crypto asset by market capitalization. The launch has left crypto observers questioning GOLD’s legitimacy and who was behind it, with some suggesting Real Trump Coins may have been compromised. The token surfaced early Saturday when the Real Trump Coins X account, which Trump’s official account follows, announced the GOLD launch and directed users to RealTrumpCoins.com to buy the token. Lookonchain flagged the launch shortly afterward, noting that the developer held 600 million GOLD while 15 newly create"
+  },
+  {
+   "title": "Stablecoins not credible for payments at scale, BIS chief says",
+   "url": "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Sat, 29 Aug 2026 08:01:04 +0000",
+   "source": "cointelegraph.com",
+   "summary": "0.02% TRX $0.3409 0.21% LINK $11.43 0.08% ZEC $840.27 5.03% ADA $0.2014 0.38% XRP $1.39 0.93% ETH $2,452.35 0.44% BTC $78,196.08 0.57% XMR $470.03 0.21% BNB $693.03 0.33% XLM $0.1791 0.29% SOL $105.30 1.09% HYPE $83.45 3.12% Written by Helen Partz staff writer Reviewed by Yohan Yun staff editor Written by Helen Partz staff writer Reviewed by Yohan Yun staff editor Stablecoins not credible for paym The Bank for International Settlements is renewing its criticism of stablecoins, questioning their credibility as everyday money as governments worldwide build regulatory frameworks around the tokens. BIS General Manager Pablo Hernández de Cos, a candidate to succeed European Central Bank President Christine Lagarde next year, argued that stablecoins do not credibly function as a means of payment at scale. He said tokenized bank deposits offer a stronger alternative, Reuters reported on Friday. “Tokenised deposits offer a more direct path to harness tokenisation while preserving the monetary system’s foundations,” de Cos said. The comments come as regulators worldwide grapple with stablecoin adoption, while a new study from the BIS-linked Financial Stability Institute (FSI) shows significant differences in how major markets regulate stablecoin issuers. Hernández de Cos acknowledged that stablecoins could lower government borrowing costs, an argument also made by US Treasury Secretary Scott Bessent. But the effect could cut both ways for consumers. If customers move bank deposits int"
+  },
+  {
+   "title": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K",
+   "url": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "pubDate": "Sat, 29 Aug 2026 06:47:12 +0000",
+   "source": "cointelegraph.com",
+   "summary": "0.03% TRX $0.3409 0.23% LINK $11.43 0.10% ZEC $840.25 5.02% ADA $0.2014 0.38% XRP $1.39 0.91% ETH $2,452.37 0.45% BTC $78,196.88 0.57% XMR $470.03 0.21% BNB $693.02 0.33% XLM $0.1791 0.29% SOL $105.30 1.10% HYPE $83.45 3.12% Written by Helen Partz staff writer Reviewed by Yohan Yun staff editor Written by Helen Partz staff writer Reviewed by Yohan Yun staff editor Bitcoin ETFs end 9-day inflow str US-listed spot Bitcoin exchange-traded funds (ETFs) ended a nine-day inflow streak as Bitcoin fell below $78,000, while several altcoin ETF categories continued to see inflows. Bitcoin ETFs recorded $201.8 million in net outflows on Friday, ending nine consecutive trading sessions of inflows, according to SoSoValue data. The reversal followed more than $3 billion of net inflows during the nine-session run, while August flows remained positive at $3.3 billion with one US trading session left in the month. Total net assets fell to $97.6 billion after topping $100 billion on Thursday. Daily flows into US spot Bitcoin ETFs since Aug. 14, in USD. Source: SoSoValue The Bitcoin ETF reversal contrasts with continued inflows into Ether and XRP funds, while Solana ETFs have reached new asset milestones. The ARK 21Shares Bitcoin ETF (ARKB) led Friday’s withdrawals with $114.9 million in net outflows, followed by the Bitwise Bitcoin ETF (BITB) with $49.7 million, according to Farside Investors data. BlackRock’s iShares Bitcoin Trust ETF (IBIT), the largest US spot Bitcoin ETF by assets, recorde"
   },
   {
    "title": "Solana validators approve proposal to accelerate SOL disinflation",
@@ -1166,48 +1348,6 @@
    "pubDate": "Thu, 27 Aug 2026 16:04:15 +0000",
    "source": "cointelegraph.com",
    "summary": "Canaan, American Bitcoin and Cango jumped as much as 67% as renewed crypto demand showed BTC exposure can still drive mining equities despite the industry’s AI push."
-  },
-  {
-   "title": "UK government reports 240 crypto millionaires in 2025",
-   "url": "https://cointelegraph.com/news/uk-government-crypto-millionaires-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Thu, 27 Aug 2026 15:56:00 +0000",
-   "source": "cointelegraph.com",
-   "summary": "About 17,600 people in the UK reported a combined $1.9 billion in gains tied to crypto in the 2024 to 2025 tax year, with 240 each declaring more than $1.4 million."
-  },
-  {
-   "title": "Ripple Prime expands into US equity derivatives with Delta One business",
-   "url": "https://cointelegraph.com/news/ripple-prime-us-equities-delta-one?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Thu, 27 Aug 2026 13:54:22 +0000",
-   "source": "cointelegraph.com",
-   "summary": "Institutional clients can access total return swaps across linked to US-listed equities, indexes and digital assets and cross-margin exposures."
-  },
-  {
-   "title": "Bank of England set for new innovation mandate covering stablecoins",
-   "url": "https://cointelegraph.com/news/uk-boe-innovation-mandate-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Thu, 27 Aug 2026 12:51:59 +0000",
-   "source": "cointelegraph.com",
-   "summary": "The UK plans to expand the Bank of England’s remit to support digital payments innovation, including stablecoins, while keeping financial stability first."
-  },
-  {
-   "title": "Bitcoin faces true demand test above $83K as liquidity thickens: Glassnode",
-   "url": "https://cointelegraph.com/markets/bitcoin-faces-true-demand-test-above-83k-as-liquidity-thickens-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Thu, 27 Aug 2026 10:34:12 +0000",
-   "source": "cointelegraph.com",
-   "summary": "Bitcoin price analysis reveals convergence of multiple trend lines and liquidity structures around spot price, keeping upside in check."
-  },
-  {
-   "title": "Bitfinex Securities completes record $50M tokenized capital raise",
-   "url": "https://cointelegraph.com/news/bitfinex-securities-record-50-million-tokenized-nickel-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Thu, 27 Aug 2026 10:00:00 +0000",
-   "source": "cointelegraph.com",
-   "summary": "Bitfinex Securities completed a record $50 million raise for Alkemya, whose token represents interests in a partnership that holds nickel assets."
-  },
-  {
-   "title": "Bithumb wins 2 suits over mistaken Bitcoin credits: Report",
-   "url": "https://cointelegraph.com/news/bithumb-wins-suits-mistakenly-credited-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "pubDate": "Thu, 27 Aug 2026 09:26:17 +0000",
-   "source": "cointelegraph.com",
-   "summary": "Bithumb reportedly won first-instance rulings in two suits seeking proceeds from users who sold Bitcoin credited in its $40 billion error."
   },
   {
    "title": "PayPal shares sink on reported collapse of Stripe-Advent takeover deal",
@@ -1609,6 +1749,13 @@
    "summary": "A Legal Entity Identifier lapses for one reason more often than any other. Surprisingly it is not co..."
   },
   {
+   "title": "Malware Has a Branding Department and ToxicPanda Is Its Latest Star",
+   "url": "https://www.pymnts.com/cybersecurity/2026/malware-has-branding-department-toxicpanda-is-latest-star/",
+   "pubDate": "Sat, 29 Aug 2026 08:00:44 +0000",
+   "source": "pymnts.com",
+   "summary": "ToxicPanda sounds like an energy drink formulated for people who regard sleep as a character flaw. It’s actually an Android banking Trojan capable of taking over phones, stealing financial credentials and initiating unauthorized transactions. Its newly discovered sequel, ToxicPanda 2.0 , is bigger, more capable and apparently produced by a franchise that believes every villain deserves a marketable name. The latest version puts a fresh spotlight on one of cybersecurity’s stranger traditions. Malware researchers spend their days dissecting hostile code, tracing criminal infrastructure and tryin"
+  },
+  {
    "title": "CFTC Signals Supreme Court Battle After Nevada Wins Prediction Markets Case",
    "url": "https://www.pymnts.com/legal/2026/cftc-signals-supreme-court-battle-after-nevada-wins-prediction-markets-case/",
    "pubDate": "Sat, 29 Aug 2026 00:19:20 +0000",
@@ -1670,13 +1817,6 @@
    "pubDate": "Fri, 28 Aug 2026 18:46:14 +0000",
    "source": "pymnts.com",
    "summary": "Andreessen Horowitz has raised $1.1 billion for a new fund that aims to accelerate the buildout of artificial intelligence infrastructure by investing in founders who are “reinventing AI hardware,” the venture capital firm said in a Friday (Aug. 28) blog post . The Machine Age Fund will invest in computer infrastructure on which AI runs, including chips, memory, networking and storage, as well as full systems for running AI, such as data centers, robotics and home AI appliances, according to the post. “The common thread among all of these layers of the AI stack is that they are all hitting the"
-  },
-  {
-   "title": "USD.AI Secures $100 Million Credit Facility From Bullish to Power AI Buildout",
-   "url": "https://www.pymnts.com/news/investment-tracker/2026/usd-ai-secures-100-million-credit-facility-from-bullish-to-power-ai-buildout/",
-   "pubDate": "Fri, 28 Aug 2026 17:39:34 +0000",
-   "source": "pymnts.com",
-   "summary": "USD.AI has secured a $100 million stablecoin-based debt facility from digital asset platform Bullish to power its GPU financing ecosystem, USD.AI said in a Friday (Aug. 28) press release . Together with the debt facility, Bullish and USD.AI are expanding their joint research initiative to optimize capital formation models for the artificial intelligence capital expenditure sector, according to the release. The companies aim to use Bullish’s institutional market structure expertise and USD.AI’s GPU financing architecture to connect on-chain liquidity with the demand for AI compute, per the rele"
   },
   {
    "title": "Modernizing payments is a must",
@@ -9029,6 +9169,41 @@
    "summary": "The rise of artificial intelligence has transformed the financial industry. As it continues to move ahead, this is leading the technology to redefine the future of regulation and compliance. We recently spoke to Bhavin Shah, CEO of RegTech firm Sherlocq , to find out more about what he believes on this topic, and why it matters. Founded in 2025, Sherlocq claims it is the world’s first AI-native regulatory intelligence platform, built for compliance, legal, and regulatory professionals operating in regulated industries globally. The company states that its platform enables regulated firms, fina"
   },
   {
+   "title": "Feedzai: Crypto Cannot Scale as a Bank’s Side Project",
+   "url": "https://thefintechtimes.com/feedzai-crypto-cannot-scale-as-a-banks-side-project/",
+   "pubDate": "Sat, 29 Aug 2026 16:17:38 +0000",
+   "source": "thefintechtimes.com",
+   "summary": "The FCA ‘s final cryptoasset rules halve the capital charge that applies to stablecoin issuance. is this a signal the regulator wants volume to build, and argues the harder question for a bank is not whether stablecoins become a payment rail but whether it can carry that volume on the risk infrastructure it already runs. Dan Holmes, VP of product planning and strategy at Feedzai Dan Holmes of Feedzai on the FCA’s halved stablecoin capital charge, and why banks that run crypto on a separate stack will end up carrying the risk. Feedzai works in financial risk management and fraud prevention. The"
+  },
+  {
+   "title": "MiCA Delivered Certainty. Did It Cost Europe Competition?",
+   "url": "https://thefintechtimes.com/mica-delivered-certainty-did-it-cost-europe-competition/",
+   "pubDate": "Sat, 29 Aug 2026 16:17:25 +0000",
+   "source": "thefintechtimes.com",
+   "summary": "MiCA now applies across the EU, and the argument about it has moved on from whether firms can comply to what compliance costs. For a small digital-asset company, that answer decides whether Europe is a market worth entering at all. Edwin Mata, CEO and co-founder of Brickken The Fintech Times put written questions to Edwin Mata , chief executive and co-founder of the tokenisation platform Brickken and a lawyer by background, on where MiCA has left European competitiveness, what execution looks like for a firm over the next 12 months, and whether tokenisation or AI-driven infrastructure has the "
+  },
+  {
+   "title": "Suriname: Can Fintech Prepare the Country for an Oil Boom?",
+   "url": "https://thefintechtimes.com/suriname-can-fintech-prepare-the-country-for-an-oil-boom/",
+   "pubDate": "Sat, 29 Aug 2026 12:00:42 +0000",
+   "source": "thefintechtimes.com",
+   "summary": "The following is an overview of the fintech ecosystem and its relation to wider economic development of Suriname in 2026. Suriname has approximately two years to prepare for an economic transformation unlike anything in its modern history. Around 150 kilometres off its Atlantic coastline sits GranMorgu, a vast offshore oil development containing an estimated 760 million barrels of recoverable resources. TotalEnergies , APA Corporation and state-owned Staatsolie are developing the project, with first production expected in 2028 and capacity eventually reaching 220,000 barrels per day . For a co"
+  },
+  {
+   "title": "‘The Future Is Elsewhere’: Endeavor’s Constanza Castro Feijóo on Fintech’s Overlooked Markets",
+   "url": "https://thefintechtimes.com/the-future-is-elsewhere-endeavors-constanza-castro-feijoo/",
+   "pubDate": "Sat, 29 Aug 2026 09:00:52 +0000",
+   "source": "thefintechtimes.com",
+   "summary": "Endeavor has spent nearly 30 years finding founders in markets that global venture capital overlooks and says it has backed more unicorns than any other non-profit. Managing director Constanza Castro Feijóo talks to The Fintech Times about the Multiplier Effect, and why the organisation has decided to stop being a secret. In 2013, Endeavor took 80 founders from Latin America, the Middle East and Africa to Silicon Valley. The centrepiece was a fireside chat with a well-known venture capitalist. Asked what the founders in the room could do to win his firm’s backing, he told them there was nothin"
+  },
+  {
+   "title": "Football Transfers: The Hidden FX Cost of Deadline Deals",
+   "url": "https://thefintechtimes.com/football-transfers-the-hidden-fx-cost-of-deadline-deals/",
+   "pubDate": "Sat, 29 Aug 2026 08:00:19 +0000",
+   "source": "thefintechtimes.com",
+   "summary": "Laurent Descout of Neo on where currency costs hide inside a football transfer, and why treasury discipline matters most to the smaller clubs. Laurent Descout, CEO and co-founder of Neo Neo works with Wolverhampton Wanderers and the Belgian champions Club Brugge KV on their international payment and foreign exchange requirements. Its argument is that a football club now carries much of the financial complexity of a multinational business, recruiting across borders, paying instalments and add-ons across several seasons and running salaries in more than one currency, while its treasury team stay"
+  },
+  {
    "title": "AI in Banking Is a Workforce Problem, Not a Technology One",
    "url": "https://thefintechtimes.com/ai-in-banking-is-a-workforce-problem-not-a-technology-one/",
    "pubDate": "Fri, 28 Aug 2026 13:00:16 +0000",
@@ -9062,41 +9237,6 @@
    "pubDate": "Thu, 27 Aug 2026 09:00:44 +0000",
    "source": "thefintechtimes.com",
    "summary": "The following is a fintech and wider digital economic development view of Pacific Nation Tonga. Few countries depend on money sent home quite like Tonga. Across Australia, New Zealand, the United States and elsewhere, Tongans working abroad regularly transfer part of their earnings back to relatives in the Pacific kingdom. That money pays for groceries, school fees, electricity, housing and countless other everyday expenses. Remittances are consequently not a peripheral part of Tonga’s financial system. They are one of its foundations. This gives fintech a particular purpose in the country. To"
-  },
-  {
-   "title": "Turkmenistan: Can Fintech Develop Behind a Closed Digital Door?",
-   "url": "https://thefintechtimes.com/turkmenistan-can-fintech-develop-behind-a-closed-digital-door/",
-   "pubDate": "Thu, 27 Aug 2026 05:00:28 +0000",
-   "source": "thefintechtimes.com",
-   "summary": "The following showcases the 2026 developments of fintech and wider digital of Central Asian nation of Turkmenistan. Fintech usually thrives on openness. Entrepreneurs need access to international technology. Investors need reliable information. Consumers need affordable internet, while financial companies need the freedom to experiment, compete and connect with markets beyond their borders. Turkmenistan provides almost the opposite environment. Since gaining independence following the collapse of the Soviet Union in 1991, the country has pursued a considerably more isolated economic model than"
-  },
-  {
-   "title": "MoonPay Adds Discover Network to U.S. Crypto Onramp Card Options",
-   "url": "https://thefintechtimes.com/moonpay-adds-discover-network-to-u-s-crypto-onramp-card-options/",
-   "pubDate": "Wed, 26 Aug 2026 18:00:33 +0000",
-   "source": "thefintechtimes.com",
-   "summary": "MoonPay has added Discover Network as a supported card network on its US crypto onramp, completing a trio of major American card schemes alongside Visa and Mastercard . The integration means Discover cardholders can now purchase and sell digital assets across MoonPay’s network of more than 500 enterprise partners, which includes wallets, exchanges and consumer applications. Richard Harrison, VP of banking and payments partnerships at MoonPay The company, founded in 2019 and headquartered in New York, says it has built a deliberate strategy of matching every mainstream consumer payment rail. Mo"
-  },
-  {
-   "title": "Ozone API brings cVRP Infrastructure to Non-CMA9 Banks in 8 weeks",
-   "url": "https://thefintechtimes.com/ozone-api-brings-cvrp-infrastructure-to-non-cma9-banks-in-8-weeks/",
-   "pubDate": "Wed, 26 Aug 2026 13:01:02 +0000",
-   "source": "thefintechtimes.com",
-   "summary": "Ozone API has launched a dedicated commercial Variable Recurring Payments product for UK banks and payment service providers that sit outside the CMA9 mandatory compliance group. The company says any institution can go live with a fully OBL 4.0-compliant cVRP infrastructure in 8 to 10 weeks via its Ozone Connect integration layer, with no internal build required and no need for a dedicated standards-monitoring team. The timing is deliberate. The UK Payments Initiative, a 31-organisation consortium that includes NatWest Group , Nationwide , Monzo , Mastercard Open Banking Services , GoCardless "
-  },
-  {
-   "title": "The Fintech Landscape of Canada in 2026",
-   "url": "https://thefintechtimes.com/the-fintech-landscape-of-canada-in-2026/",
-   "pubDate": "Wed, 26 Aug 2026 13:00:49 +0000",
-   "source": "thefintechtimes.com",
-   "summary": "The following is an overview of the fintech ecosystem and its relation to wider economic development of Canada in 2026. Canada should have been an open-banking pioneer. It has one of the world’s most developed financial systems, near-universal access to banking, a highly connected population and Toronto is one of North America’s largest financial centres. The country has also produced internationally recognised technology companies and one of the world’s most successful home-grown fintechs. Yet in one important respect, Canada has been surprisingly slow. While Britain introduced open banking y"
-  },
-  {
-   "title": "Fastest Route to Market: Digital Assets and the Next Layer of Licensing Complexity",
-   "url": "https://thefintechtimes.com/fastest-route-to-market-digital-assets-and-the-next-layer-of-licensing-complexity/",
-   "pubDate": "Wed, 26 Aug 2026 09:00:12 +0000",
-   "source": "thefintechtimes.com",
-   "summary": "Part 2 of 4 in the series Fastest Route to Market: Licensing Roadmaps for FinTechs. By Taft’s FinTech Practice Framing the problem: when ‘money transmission’ is not enough In Part 1 of our four-part series, Fastest Route to Market: Money Transmission Licensing Roadmaps for FinTechs, we explained why many early-stage FinTechs begin with federal Money Services Business (MSB) registration and state money transmitter licensing as the foundational framework for moving, holding, and managing customer fiat balances. For many payments, remittance, and wallet businesses, that structure can remain the p"
   },
   {
    "title": "How AI agents will search and buy premium content - Michael Blau (Founder, Drip)",
