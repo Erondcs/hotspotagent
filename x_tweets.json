@@ -1,25 +1,25 @@
 {
- "fetched_at": "2026-08-29T22:48:46.346508+00:00",
- "count": 63,
+ "fetched_at": "2026-08-30T00:40:01.059130+00:00",
+ "count": 58,
  "errors": [],
  "tweets": [
   {
    "title": "[X @raincards] All cardholders impacted in yesterday’s incident have been repaid in full.\n\nThese funds are in users’ smart contracts, all of which were successfully upgraded yesterday.\n\nEvery program is operating as expected, and our team is continuously monitoring the situation. Forensics rese",
    "url": "https://x.com/raincards/status/2093781877295653267",
    "pubDate": "2026-08-29T19:24:34.000000Z",
-   "source": "X/@raincards (tier A, ♥99)"
+   "source": "X/@raincards (tier A, ♥113)"
   },
   {
    "title": "[X @patrickc] Between wallets for agents with @link (and @privy), MPP, Tempo, MCP, Stripe CLI, Agentic Commerce Suite, sandboxes, OpenRouter, Metronome/metered billing, Radar and distillation/token fraud, it turns out that \"the economic infrastructure for AI\" implicates a lot. Pretty much ever",
    "url": "https://x.com/patrickc/status/2093803322444800052",
    "pubDate": "2026-08-29T20:49:47.000000Z",
-   "source": "X/@patrickc (tier A, ♥360)"
+   "source": "X/@patrickc (tier A, ♥496)"
   },
   {
    "title": "[X @patrickc] Met a German founder this week and asked him if all the stories one reads about the challenges of startups in Germany are exaggerated. \"No, they're understated.\" Proceeded to describe spending a full day having a 90-page investment contract read to him (mandatory under German law",
    "url": "https://x.com/patrickc/status/2093717019896197186",
    "pubDate": "2026-08-29T15:06:51.000000Z",
-   "source": "X/@patrickc (tier A, ♥12035)"
+   "source": "X/@patrickc (tier A, ♥13654)"
   },
   {
    "title": "[X @RedotPay] Security is more important than ever. \n\nWe've put together a piece on the proactive efforts we've taken to protect our users here: https://t.co/HRRiAxjTAm",
@@ -31,19 +31,7 @@
    "title": "[X @gnosispay] Looking for a great stablecoin app powered by our rails? @getrebind has something special for you right now.",
    "url": "https://x.com/gnosispay/status/2093677099983020485",
    "pubDate": "2026-08-29T12:28:13.000000Z",
-   "source": "X/@gnosispay (tier A, ♥31)"
-  },
-  {
-   "title": "[X @gnosispay] CHF now sit side by side with EUR and USD in @getrebind. Rare treat onchain.",
-   "url": "https://x.com/gnosispay/status/2093453529272791243",
-   "pubDate": "2026-08-28T21:39:50.000000Z",
-   "source": "X/@gnosispay (tier A, ♥40)"
-  },
-  {
-   "title": "[X @ether_fi] We are aware of the crypto neobank hacks, https://t.co/bGgztov8TZ is unaffected.",
-   "url": "https://x.com/ether_fi/status/2093440900970217762",
-   "pubDate": "2026-08-28T20:49:39.000000Z",
-   "source": "X/@ether_fi (tier A, ♥381)"
+   "source": "X/@gnosispay (tier A, ♥33)"
   },
   {
    "title": "[X @0xinfini] An everyday purchase with the Infini Max Card 💳\n\nPaid HKD 501 with Apple Pay. The amount charged was $64.35, with no transaction fee and $1.29 in cashback.\n\nIf you often make larger purchases, Max could be a good fit. It offers 2%  cashback with no cap.\n\nJust note: purchases unde",
@@ -58,292 +46,280 @@
    "source": "X/@wirexapp (tier A, ♥19)"
   },
   {
-   "title": "[X @circle] 💙 https://t.co/qu3Uc4uqn4",
-   "url": "https://x.com/circle/status/2093454570500567070",
-   "pubDate": "2026-08-28T21:43:58.000000Z",
-   "source": "X/@circle (tier B, ♥2661)"
-  },
-  {
    "title": "[X @jerallaire] Banger of a presentation from top economists at Jackson Hole that looks at the emerging shape of the international monetary system and influence of tokenized forms of money.",
    "url": "https://x.com/jerallaire/status/2093741477029630362",
    "pubDate": "2026-08-29T16:44:02.000000Z",
-   "source": "X/@jerallaire (tier B, ♥116)"
+   "source": "X/@jerallaire (tier B, ♥140)"
   },
   {
    "title": "[X @jerallaire] Steady growth",
    "url": "https://x.com/jerallaire/status/2093698929192014031",
    "pubDate": "2026-08-29T13:54:58.000000Z",
-   "source": "X/@jerallaire (tier B, ♥144)"
+   "source": "X/@jerallaire (tier B, ♥157)"
   },
   {
    "title": "[X @jerallaire] USDC Blue is made for @ChelseaFC Blue.",
    "url": "https://x.com/jerallaire/status/2093515801466966375",
    "pubDate": "2026-08-29T01:47:17.000000Z",
-   "source": "X/@jerallaire (tier B, ♥860)"
+   "source": "X/@jerallaire (tier B, ♥871)"
   },
   {
    "title": "[X @moonpay] how did he get a MoonPay pillow???",
    "url": "https://x.com/moonpay/status/2093807487681999124",
    "pubDate": "2026-08-29T21:06:20.000000Z",
-   "source": "X/@moonpay (tier B, ♥177)"
+   "source": "X/@moonpay (tier B, ♥201)"
   },
   {
    "title": "[X @moonpay] choose risk   https://t.co/lYUR8jHSsT",
    "url": "https://x.com/moonpay/status/2093787589551472833",
    "pubDate": "2026-08-29T19:47:16.000000Z",
-   "source": "X/@moonpay (tier B, ♥141)"
+   "source": "X/@moonpay (tier B, ♥152)"
   },
   {
    "title": "[X @moonpay] they’re writing about Agentic DeFi on Solana in Yahoo Finance \n\nbullish on @kamino and @PayBox https://t.co/Uu4oQXMITL",
    "url": "https://x.com/moonpay/status/2093709741167907090",
    "pubDate": "2026-08-29T14:37:56.000000Z",
-   "source": "X/@moonpay (tier B, ♥295)"
+   "source": "X/@moonpay (tier B, ♥303)"
   },
   {
    "title": "[X @moonpay] PayBoxing $250 of SOL to one person that likes this post from @KeithGrossman 🚀",
    "url": "https://x.com/moonpay/status/2093707317573222426",
    "pubDate": "2026-08-29T14:28:18.000000Z",
-   "source": "X/@moonpay (tier B, ♥2335)"
+   "source": "X/@moonpay (tier B, ♥2467)"
   },
   {
    "title": "[X @moonpay] gm!",
    "url": "https://x.com/moonpay/status/2093650911381934535",
    "pubDate": "2026-08-29T10:44:10.000000Z",
-   "source": "X/@moonpay (tier B, ♥860)"
+   "source": "X/@moonpay (tier B, ♥872)"
   },
   {
    "title": "[X @moonpay] it’s a beautiful night to ignore everyone and click buttons on your phone",
    "url": "https://x.com/moonpay/status/2093478076986372323",
    "pubDate": "2026-08-28T23:17:23.000000Z",
-   "source": "X/@moonpay (tier B, ♥859)"
+   "source": "X/@moonpay (tier B, ♥864)"
   },
   {
    "title": "[X @MetaMask] the crowd has Manchester United favored to win tomorrow.\n\nthink they've got it right? put your prediction on the line 👇 https://t.co/Ee7saLTbMm",
    "url": "https://x.com/MetaMask/status/2093807171863531801",
    "pubDate": "2026-08-29T21:05:05.000000Z",
-   "source": "X/@MetaMask (tier B, ♥34)"
-  },
-  {
-   "title": "[X @MetaMask] you can touch grass this weekend.\n\nyour MetaMask Agent Wallet will take the shift.",
-   "url": "https://x.com/MetaMask/status/2093455863960969433",
-   "pubDate": "2026-08-28T21:49:07.000000Z",
-   "source": "X/@MetaMask (tier B, ♥334)"
+   "source": "X/@MetaMask (tier B, ♥49)"
   },
   {
    "title": "[X @Ledger] DCA one forever 💸 \n\nChoose wisely. https://t.co/nc3ogfM3xw",
    "url": "https://x.com/Ledger/status/2093745630896099762",
    "pubDate": "2026-08-29T17:00:32.000000Z",
-   "source": "X/@Ledger (tier B, ♥68)"
+   "source": "X/@Ledger (tier B, ♥78)"
   },
   {
    "title": "[X @Ledger] Defi? save this.\n\nLedger Wallet + Ledger signer provide security, convenience and now, even better connection with your favourite dApps.\n\nJust one app and one device to explore and secure your digital life🔒 https://t.co/pZKgKbmBxr",
    "url": "https://x.com/Ledger/status/2093709907925049404",
    "pubDate": "2026-08-29T14:38:35.000000Z",
-   "source": "X/@Ledger (tier B, ♥62)"
+   "source": "X/@Ledger (tier B, ♥66)"
   },
   {
    "title": "[X @Ledger] Restricted. Delisted. Paused. Relocated.\n\nFour words no one wants in an email about their own assets.\n\nSelf-custody means none of those words impact your access to your assets.",
    "url": "https://x.com/Ledger/status/2093499475998486622",
    "pubDate": "2026-08-29T00:42:25.000000Z",
-   "source": "X/@Ledger (tier B, ♥128)"
+   "source": "X/@Ledger (tier B, ♥134)"
   },
   {
    "title": "[X @TrustWallet] bullish &gt; bearish",
    "url": "https://x.com/TrustWallet/status/2093715298608398403",
    "pubDate": "2026-08-29T15:00:01.000000Z",
-   "source": "X/@TrustWallet (tier B, ♥332)"
+   "source": "X/@TrustWallet (tier B, ♥364)"
   },
   {
    "title": "[X @TrustWallet] there is no loading screen with self custody https://t.co/gQubfZ4Cdx",
    "url": "https://x.com/TrustWallet/status/2093632768752091142",
    "pubDate": "2026-08-29T09:32:04.000000Z",
-   "source": "X/@TrustWallet (tier B, ♥328)"
+   "source": "X/@TrustWallet (tier B, ♥338)"
   },
   {
    "title": "[X @Nexo] One week, one course, plenty to remember. A look back at the Nexo Championship. https://t.co/TqJmsUdyHK",
    "url": "https://x.com/Nexo/status/2093692645768130895",
    "pubDate": "2026-08-29T13:30:00.000000Z",
-   "source": "X/@Nexo (tier B, ♥39)"
+   "source": "X/@Nexo (tier B, ♥40)"
   },
   {
    "title": "[X @Nexo] Bitcoin's largest holders – wallets sitting on more than 100,000 BTC each – pushed their combined balance to 6.1 million BTC, the highest level in months.\n\nThat climb has tracked closely with price, both rising together through August as Bitcoin broke out of a months-long quiet s",
    "url": "https://x.com/Nexo/status/2093624469331771506",
    "pubDate": "2026-08-29T08:59:05.000000Z",
-   "source": "X/@Nexo (tier B, ♥61)"
+   "source": "X/@Nexo (tier B, ♥63)"
   },
   {
    "title": "[X @coinbase] Now you can HODL and own a home.\n\nCrypto-backed mortgages are here.\n\nUse your BTC as collateral for a down payment.\nNo selling, no margin calls, no taxable event.\n\nYour crypto stays yours. https://t.co/piCWNvvU2y",
    "url": "https://x.com/coinbase/status/2093710406695125093",
    "pubDate": "2026-08-29T14:40:34.000000Z",
-   "source": "X/@coinbase (tier C, ♥1349)"
+   "source": "X/@coinbase (tier C, ♥1498)"
+  },
+  {
+   "title": "[X @Bybit_Official] No movement, no opportunity.\nToo much movement, no sleep.\nPick your fighter.",
+   "url": "https://x.com/Bybit_Official/status/2093821246530003319",
+   "pubDate": "2026-08-29T22:01:01.000000Z",
+   "source": "X/@Bybit_Official (tier C, ♥62)"
   },
   {
    "title": "[X @Bybit_Official] Giving you more routes to find your financial freedom https://t.co/S2nwxcUe8C",
    "url": "https://x.com/Bybit_Official/status/2093790540290502856",
    "pubDate": "2026-08-29T19:59:00.000000Z",
-   "source": "X/@Bybit_Official (tier C, ♥54)"
+   "source": "X/@Bybit_Official (tier C, ♥66)"
   },
   {
    "title": "[X @Bybit_Official] Tomorrowland Brasil 2027, we're coming 🦋🎶\n\nPre-sale opens Sept 21. Bybit Card holders get in first, and get 15% off 👀",
    "url": "https://x.com/Bybit_Official/status/2093669998522679622",
    "pubDate": "2026-08-29T12:00:00.000000Z",
-   "source": "X/@Bybit_Official (tier C, ♥73)"
+   "source": "X/@Bybit_Official (tier C, ♥74)"
   },
   {
    "title": "[X @Bybit_Official] Making this summer a little more Bybit. 🏖️ https://t.co/K5wWbFINzs",
    "url": "https://x.com/Bybit_Official/status/2093639799290667458",
    "pubDate": "2026-08-29T10:00:00.000000Z",
-   "source": "X/@Bybit_Official (tier C, ♥76)"
+   "source": "X/@Bybit_Official (tier C, ♥78)"
   },
   {
    "title": "[X @Bybit_Official] I don’t overthink. I just need one more ______. https://t.co/ptXLbUF3Za",
    "url": "https://x.com/Bybit_Official/status/2093579402814627958",
    "pubDate": "2026-08-29T06:00:01.000000Z",
-   "source": "X/@Bybit_Official (tier C, ♥121)"
+   "source": "X/@Bybit_Official (tier C, ♥124)"
   },
   {
-   "title": "[X @Bybit_Official] What matters more when markets get chaotic: speed, liquidity, information or keeping a cool head?",
-   "url": "https://x.com/Bybit_Official/status/2093458855200018738",
-   "pubDate": "2026-08-28T22:01:00.000000Z",
-   "source": "X/@Bybit_Official (tier C, ♥89)"
+   "title": "[X @okx] Hello, weekend hustlers 🫡\n\nWin $500 USDT with our Weekend Quiz.\n\nAll you gotta do is ...\n\n1. Follow @OKX\n2. RT + comment your answer below \n\nHave a go!👇 https://t.co/8aJwyh36gn",
+   "url": "https://x.com/okx/status/2093859018842272109",
+   "pubDate": "2026-08-30T00:31:06.000000Z",
+   "source": "X/@okx (tier C, ♥51)"
   },
   {
    "title": "[X @okx] CT University is a real thing.\n\nWe surveyed 1,000 Americans and it turns out most of them get their crypto education right here on social media. \n\nRead our report to learn more ⤵️",
    "url": "https://x.com/okx/status/2093813692957651122",
    "pubDate": "2026-08-29T21:31:00.000000Z",
-   "source": "X/@okx (tier C, ♥53)"
+   "source": "X/@okx (tier C, ♥71)"
   },
   {
    "title": "[X @okx] Price up. Inflows up. Conviction up.\n\nBitcoin ETF inflows reached $1.92B last week, reinforcing the strength behind the latest move. https://t.co/XxW1zBcN5u",
    "url": "https://x.com/okx/status/2093768168988647778",
    "pubDate": "2026-08-29T18:30:06.000000Z",
-   "source": "X/@okx (tier C, ♥71)"
+   "source": "X/@okx (tier C, ♥76)"
   },
   {
    "title": "[X @okx] Crypto is better with friends.\n\nEspecially here, where rewards are built into everything from your first deposit onward. The more you do, the more comes back.\n\nTell your friends to download OKX now ⤵️",
    "url": "https://x.com/okx/status/2093724102662164820",
    "pubDate": "2026-08-29T15:35:00.000000Z",
-   "source": "X/@okx (tier C, ♥110)"
+   "source": "X/@okx (tier C, ♥113)"
   },
   {
    "title": "[X @okx] GM onchain exploroors. How are we feeling this weekend? https://t.co/wKSZ5PvdjD",
    "url": "https://x.com/okx/status/2093677820828410366",
    "pubDate": "2026-08-29T12:31:05.000000Z",
-   "source": "X/@okx (tier C, ♥378)"
+   "source": "X/@okx (tier C, ♥387)"
   },
   {
    "title": "[X @okx] What's your trading style?\n\nNow featuring three autotrade approaches in Simple Mode. Pick one and let the bot handle the rest. https://t.co/I3nPucbZXy",
    "url": "https://x.com/okx/status/2093632522345124196",
    "pubDate": "2026-08-29T09:31:05.000000Z",
-   "source": "X/@okx (tier C, ♥133)"
+   "source": "X/@okx (tier C, ♥134)"
   },
   {
    "title": "[X @okx] Trending this week on OKX: \n \n• Listed: 15 X-Perps pairs \n• Live: Chase orders on X-Perps \n• Launched: X-Perps trading bots \n• Added: $SOPH to X Drops in US\n• Coming soon: OKX Dev Day https://t.co/4iX9U6RPaB",
    "url": "https://x.com/okx/status/2093587246200819895",
    "pubDate": "2026-08-29T06:31:11.000000Z",
-   "source": "X/@okx (tier C, ♥99)"
+   "source": "X/@okx (tier C, ♥101)"
   },
   {
    "title": "[X @okx] GN, traders. We'll keep the charts on for you. https://t.co/NGoTzqHalw",
    "url": "https://x.com/okx/status/2093541947755434017",
    "pubDate": "2026-08-29T03:31:11.000000Z",
-   "source": "X/@okx (tier C, ♥270)"
+   "source": "X/@okx (tier C, ♥272)"
   },
   {
    "title": "[X @okx] Pick your payout.\n\nUSDG weekly APY rewards now settle in USDG or BTC. Same yield, your call on what stacks.\n\nStables or sats. You choose. https://t.co/hbS36mZi5Z",
    "url": "https://x.com/okx/status/2093496627021439068",
    "pubDate": "2026-08-29T00:31:05.000000Z",
-   "source": "X/@okx (tier C, ♥87)"
+   "source": "X/@okx (tier C, ♥88)"
   },
   {
-   "title": "[X @okx] We're not in TradFi anymore. https://t.co/JxOhJbhMzc",
-   "url": "https://x.com/okx/status/2093451329771327815",
-   "pubDate": "2026-08-28T21:31:06.000000Z",
-   "source": "X/@okx (tier C, ♥318)"
+   "title": "[X @cryptocom] Tell us you’re bored on the weekend without telling us.\n\nComplete the word ladder. Go. 👇 https://t.co/Vrb76xktxS",
+   "url": "https://x.com/cryptocom/status/2093825041104277888",
+   "pubDate": "2026-08-29T22:16:05.000000Z",
+   "source": "X/@cryptocom (tier C, ♥52)"
   },
   {
    "title": "[X @cryptocom] A brand new event is live in Airdrop Arena.\n\nShare in US$150,000 of $RENDER rewards by allocating $CRO, plus boost your points to 120% when you purchase and transfer at least 1,500 $CRO into Airdrop Arena.\n\n→ Aug 29 – Sep 28, 2026\n→ Not available in all jurisdictions.\n\nJoin via t",
    "url": "https://x.com/cryptocom/status/2093754837636612499",
    "pubDate": "2026-08-29T17:37:08.000000Z",
-   "source": "X/@cryptocom (tier C, ♥75)"
+   "source": "X/@cryptocom (tier C, ♥89)"
   },
   {
    "title": "[X @cryptocom] What crypto are we watching this weekend?",
    "url": "https://x.com/cryptocom/status/2093684091329687962",
    "pubDate": "2026-08-29T12:56:00.000000Z",
-   "source": "X/@cryptocom (tier C, ♥417)"
+   "source": "X/@cryptocom (tier C, ♥434)"
   },
   {
    "title": "[X @cryptocom] Saturday &amp; Sunday hit different when the charts don't sleep. https://t.co/MDyM1DrRJh",
    "url": "https://x.com/cryptocom/status/2093650389744726447",
    "pubDate": "2026-08-29T10:42:05.000000Z",
-   "source": "X/@cryptocom (tier C, ♥161)"
+   "source": "X/@cryptocom (tier C, ♥169)"
   },
   {
    "title": "[X @cryptocom] Signal over noise. ₿ https://t.co/gwvl7o0kYm",
    "url": "https://x.com/cryptocom/status/2093557780044996650",
    "pubDate": "2026-08-29T04:34:05.000000Z",
-   "source": "X/@cryptocom (tier C, ♥258)"
-  },
-  {
-   "title": "[X @cryptocom] Reminder: take a break. Your price alerts can do the watching for you. 🔔 https://t.co/Sr5bBNgSFD",
-   "url": "https://x.com/cryptocom/status/2093458376663392441",
-   "pubDate": "2026-08-28T21:59:06.000000Z",
-   "source": "X/@cryptocom (tier C, ♥173)"
+   "source": "X/@cryptocom (tier C, ♥265)"
   },
   {
    "title": "[X @Gemini] you only get 8 points\n\nwhat's your build? https://t.co/2hD7RhkrHu",
    "url": "https://x.com/Gemini/status/2093747003637256593",
    "pubDate": "2026-08-29T17:06:00.000000Z",
-   "source": "X/@Gemini (tier C, ♥53)"
+   "source": "X/@Gemini (tier C, ♥56)"
   },
   {
    "title": "[X @Gemini] would you rather know the exact top or the exact bottom?\n\nwhy?",
    "url": "https://x.com/Gemini/status/2093733917144834409",
    "pubDate": "2026-08-29T16:14:00.000000Z",
-   "source": "X/@Gemini (tier C, ♥134)"
+   "source": "X/@Gemini (tier C, ♥144)"
   },
   {
    "title": "[X @Gemini] next week, everyone will be talking about _____.",
    "url": "https://x.com/Gemini/status/2093719573564440845",
    "pubDate": "2026-08-29T15:17:00.000000Z",
-   "source": "X/@Gemini (tier C, ♥688)"
+   "source": "X/@Gemini (tier C, ♥746)"
   },
   {
    "title": "[X @Gemini] 11",
    "url": "https://x.com/Gemini/status/2093712526873616663",
    "pubDate": "2026-08-29T14:49:00.000000Z",
-   "source": "X/@Gemini (tier C, ♥299)"
+   "source": "X/@Gemini (tier C, ♥315)"
   },
   {
    "title": "[X @Gemini] gm\n\nwhats everyone up to this weekend?",
    "url": "https://x.com/Gemini/status/2093686102662246774",
    "pubDate": "2026-08-29T13:04:00.000000Z",
-   "source": "X/@Gemini (tier C, ♥174)"
+   "source": "X/@Gemini (tier C, ♥179)"
   },
   {
    "title": "[X @BitgetWallet] If you're getting a burger, might as well have the one that gives you bitcoin back.\n\nJust assetback things https://t.co/oxrjPDYyCg",
    "url": "https://x.com/BitgetWallet/status/2093557779835523492",
    "pubDate": "2026-08-29T04:34:05.000000Z",
-   "source": "X/@BitgetWallet (tier C, ♥84)"
+   "source": "X/@BitgetWallet (tier C, ♥85)"
   },
   {
    "title": "[X @sytaylor] FDIC insurance is pretty good FDIC insurance... \n\nThe path to get it is become a bank.\n\nThere are, and will however continue to be lots of non banks who do finance. \n\nThey need a backstop too, and right now that isn't well figured out and could be an opportunity.\n\nBut saying it's",
    "url": "https://x.com/sytaylor/status/2093748254861123707",
    "pubDate": "2026-08-29T17:10:58.000000Z",
-   "source": "X/@sytaylor (tier C, ♥52)"
+   "source": "X/@sytaylor (tier C, ♥53)"
   },
   {
    "title": "[X @WuBlockchain] CZ: An Hour a Day Learning Something New Matters More Than Any Investment\n\nBinance founder Changpeng Zhao (CZ) @cz_binance   said at the Binance Clubhouse Bali 2026 Community Q&A on August 23 that his advice to young people is to \"spend 30 to 60 minutes learning every day.\" He sa",
    "url": "https://x.com/WuBlockchain/status/2093639801249398928",
    "pubDate": "2026-08-29T10:00:01.000000Z",
-   "source": "X/@WuBlockchain (tier C, ♥86)"
+   "source": "X/@WuBlockchain (tier C, ♥88)"
   },
   {
    "title": "[X @WuBlockchain] Spot Bitcoin ETFs End Nine-Day Inflow Streak With $202M Outflow; Ethereum ETFs Take In $102M\n\nAccording to SoSoValue, U.S. spot Bitcoin ETFs saw $202 million in net outflows on August 28 (ET), ending a nine-day inflow streak. Spot Ethereum ETFs recorded $102 million in net inflow",
    "url": "https://x.com/WuBlockchain/status/2093555994710401169",
    "pubDate": "2026-08-29T04:27:00.000000Z",
-   "source": "X/@WuBlockchain (tier C, ♥59)"
+   "source": "X/@WuBlockchain (tier C, ♥61)"
   },
   {
    "title": "[X @WuBlockchain] Hyperliquid: Permissionless HIP-4 Deployments to Be Enabled in the Next Network Upgrade\n\nHyperliquid founder Jeff said permissionless HIP-4 deployments will be enabled in the next network upgrade, with templates becoming available over time through validator voting. https://t.co/",
@@ -355,31 +331,25 @@
    "title": "[X @WuBlockchain] BIS Chief: Stablecoins Are Not a Credible Means of Payment at Scale\n\nAccording to Reuters, Bank for International Settlements (BIS) General Manager Pablo Hernández de Cos said at the Jackson Hole Economic Policy Symposium that stablecoins are not a credible means of payment at sc",
    "url": "https://x.com/WuBlockchain/status/2093517504429867466",
    "pubDate": "2026-08-29T01:54:03.000000Z",
-   "source": "X/@WuBlockchain (tier C, ♥57)"
+   "source": "X/@WuBlockchain (tier C, ♥63)"
   },
   {
    "title": "[X @WuBlockchain] ECB’s Schnabel Calls for Central-Bank Money to Move Onchain\n\nAccording to Bloomberg, ECB Executive Board member Isabel Schnabel said central banks should bring central-bank money onto blockchain infrastructure and use the programmability of distributed ledgers to modernize moneta",
    "url": "https://x.com/WuBlockchain/status/2093501059499270189",
    "pubDate": "2026-08-29T00:48:42.000000Z",
-   "source": "X/@WuBlockchain (tier C, ♥54)"
+   "source": "X/@WuBlockchain (tier C, ♥55)"
   },
   {
    "title": "[X @WuBlockchain] CZ: I Wouldn't Advise Young People to Sell Their Home and Go All In on Crypto\n\nBinance founder Changpeng Zhao (CZ) @cz_binance  said during the Binance Clubhouse Bali 2026 Community Q&A on August 23 that he would not advise young people to sell their home and go all in on crypto,",
    "url": "https://x.com/WuBlockchain/status/2093488802287497712",
    "pubDate": "2026-08-29T00:00:00.000000Z",
-   "source": "X/@WuBlockchain (tier C, ♥108)"
+   "source": "X/@WuBlockchain (tier C, ♥112)"
   },
   {
    "title": "[X @WuBlockchain] Solana Passes “Double Disinflation” Proposal, Rejects Resource and Inclusion Fee Plan\n\nSolana’s first round of on-chain governance voting has concluded, with SGP-0001, “The Solana Constitution,” and SGP-0002, “Double Disinflation,” passing, while SGP-0003, “Resource and Inclusion",
    "url": "https://x.com/WuBlockchain/status/2093481307758305345",
    "pubDate": "2026-08-28T23:30:13.000000Z",
    "source": "X/@WuBlockchain (tier C, ♥72)"
-  },
-  {
-   "title": "[X @WuBlockchain] Rain Identifies Solana Card Contract Vulnerability Affecting 1,685 Avici Users and $500,859 in Balances\n\nAvici said its card-issuing partner Rain identified a vulnerability in a version of a Solana card contract used by Avici and a small number of other programs. The contract has",
-   "url": "https://x.com/WuBlockchain/status/2093466503454826698",
-   "pubDate": "2026-08-28T22:31:23.000000Z",
-   "source": "X/@WuBlockchain (tier C, ♥68)"
   }
  ]
 }
